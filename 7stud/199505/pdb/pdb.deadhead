@@ -1,0 +1,78 @@
+deadhead  799700201  4  4  rc  +b     +b     +kc      +kc         755  110  115 As 3s 3h Ts  8c 2s 4c
+deadhead  799700336  4  1 +Br   k      f      -        -          760   30    0 5d Qs 2c
+deadhead  799700453  4  1 +Bf   -      -      -        -          730   10    0 8c
+deadhead  799700601  4  1 +Bk   f      -      -        -          720   10    0 3c 2s
+deadhead  799700648  4  3  Q    -      -      -        -          710    0    0 9c
+deadhead  799708040  8  8  f    -      -      -        -          710    0    0 Qh
+deadhead  799708101  8  6  c    k      f      -        -          710   10    0 7h 8c Ad
+deadhead  799708251  8  1 +Bf   -      -      -        -          700   10    0 3c
+deadhead  799708407  8  1 +Bc  +kc     c     +krc     +kc         690  130    0 2d Qh 7s Js  8d Jh 9h
+deadhead  799708503  8  7  f    -      -      -        -          560    0    0 Kc
+deadhead  799708626  8  4  c   +kc    +kc     c        r          560  110  300 3s Ks 2s Tc  2h 2d As
+deadhead  799708789  8  3  f    -      -      -        -          750    0    0 Ts
+deadhead  799708905  6  2  f    -      -      -        -          750    0    0 Kd
+deadhead  799708926  6  4  f    -      -      -        -          750    0    0 6s
+deadhead  799709078  5  5  f    -      -      -        -          750    0    0 3h
+deadhead  799709196  5  2  rf   -      -      -        -          750   20    0 3d
+deadhead  799709285  5  2  f    -      -      -        -          730    0    0 3s
+deadhead  799709359  5  4  f    -      -      -        -          730    0    0 8h
+deadhead  799709413  4  4  c   +b     +br    +b       +b          730  130  160 Ac 8d 8s 3h  4c 8h Jc
+deadhead  799709485  3  1 +BQ   -      -      -        -          760   10    0 7c
+deadhead  800064525  8  6  f    -      -      -        -          750    0    0 8s
+deadhead  800064647  8  6  f    -      -      -        -          750    0    0 Jc
+deadhead  800064773  7  4  r    f      -      -        -          750   20    0 9d 4c
+deadhead  800064837  6  1 +Bc   cc     c      cc       bc         730  160  300 2c 9c Kd Jh  Qc Tc 8c
+deadhead  800065031  6  1 +Bc   c      r      b        b          870  110  220 3s 4s 7s 8s  Jc 5s Kd
+deadhead  800065084  6  2  rc  +bc     f      -        -          980   60    0 5c Ts 8c
+deadhead  800065190  6  5  f    -      -      -        -          920    0    0 7h
+deadhead  800065322  6  2  f    -      -      -        -          920    0    0 3h
+deadhead  800065399  6  4  f    -      -      -        -          920    0    0 Kc
+deadhead  800065506  7  4  f    -      -      -        -          920    0    0 Qd
+deadhead  800065623  8  2  f    -      -      -        -          920    0    0 As
+deadhead  800065749  7  3  f    -      -      -        -          920    0    0 6s
+deadhead  800065902  7  7  r    -      -      -        -          920   20   30 Ac
+deadhead  800065926  7  1 +Bk   b     +b     +k       +kc         930   60   65 2h Ah 8d 5d  2d Qs 4s
+deadhead  800066044  8  3  Q    -      -      -        -          935    0    0 Td
+deadhead  800066253  6  6  r   +b     +k     +kc      +kc         935   70   80 Js Ad 8d 9c  7s Jc 3c
+deadhead  800066350  5  3  r   +bc    +b     +b       +br         945  140    0 8d Jh Kc 3c  6s 5s 5c
+deadhead  800066450  5  3  f    -      -      -        -          805    0    0 6s
+deadhead  800066480  5  2  r   +b      b      r        b          805  110    0 Ac Js 2d 4d  2h 6h 4h
+deadhead  800066610  5  1 +Bc  +bc    +b     +b       +br         695  140  280 4h 4d Td 2s  Jc 7h 4c
+deadhead  800066681  5  5  r    b     +b     +b        -          835   70  150 Td 5h Tc Th
+deadhead  800066771  5  1 +BQ   -      -      -        -          915   10    0 3s
+deadhead  800485356  7  2  c   +k      b     +b        -          905   50  110 Ac 5c 7c Kh
+deadhead  800485462  7  3  f    -      -      -        -          965    0    0 Ad
+deadhead  800485536  6  3  f    -      -      -        -          965    0    0 7d
+deadhead  800485673  7  3  c    c      c     +kr      +b          965  100  280 5d 4d 8c 8h  8d Ac 4c
+deadhead  800485775  7  4  f    -      -      -        -         1145    0    0 8h
+deadhead  800485884  7  5  f    -      Q      -        -         1145    0    0 4s
+deadhead  800486572  6  3  f    -      -      -        -         1145    0    0 Ah
+deadhead  800486603  6  5  f    -      -      -        -         1145    0    0 Ks
+deadhead  800486701  6  2  f    -      -      -        -         1145    0    0 Js
+deadhead  800486751  5  3  c   +b     +b      c        f         1145   60    0 Ac Jd Tc 5s
+deadhead  800486842  5  3  f    -      -      -        -         1085    0    0 9d
+deadhead  800486895  5  3  fQ   -      -      -        -         1085    0    0 8h
+deadhead  800672342  7  4  f    -      -      -        -          885    0    0 5h
+deadhead  800672382  8  3  f    -      -      -        -          885    0    0 3s
+deadhead  800672454  8  5  r    f      -      -        -          885   20    0 Td 4c
+deadhead  800672553  8  6  c    c      rc     rr       r          865  230  475 9h Qh Js 4h  Qc 8h 5h
+deadhead  800672724  8  6  c    c     +b      b        b         1110   80  200 8c 3s 3c Ah  2c 8d 8h
+deadhead  800672833  7  6  f    -      -      -        -         1230    0    0 Js
+deadhead  800672934  6  4  f    -      -      -        -         1230    0    0 Jc
+deadhead  800673025  6  5  f    -      -      -        -         1230    0    0 5c
+deadhead  800673053  6  1 +Bc   rr     ccc    rc       f         1230  200    0 3s 2s Qh Td
+deadhead  800673198  7  2  rr  +kc     b      r        rc        1030  170    0 4h As 2d 8c  Ks Jd 6c
+deadhead  800673351  8  4  f    -      -      -        -          860    0    0 4d
+deadhead  800673488  8  4  f    -      -      -        -          860    0    0 Js
+deadhead  800673563  8  5  f    -      -      -        -          860    0    0 4c
+deadhead  800673646  8  2  f    -      -      -        -          860    0    0 Ah
+deadhead  800673721  8  2  fQ   -      -      -        -          860    0    0 4c
+deadhead  800756599  7  1 +Br   br    +kc    +bc      +kc         860  130  260 2d 4d Kc 4h  2c Jh Jc
+deadhead  800756699  6  2  f    -      -      -        -          990    0    0 3d
+deadhead  800756770  6  2  f    -      -      -        -          990    0    0 Td
+deadhead  800756857  6  4  rc  +b     +kc     c        f          990   90    0 8h Ad Kh Qh
+deadhead  800756958  7  4  c    b      k      c        c          900   60    0 6h 4s 8s 7c  3c Qc 4h
+deadhead  800757022  7  4  f    -      -      -        -          840    0    0 Th
+deadhead  800757055  7  1 +Bf   -      -      -        -          840   10    0 3s
+deadhead  800757149  6  4  r   +k     +b     +b       +bc         830  100  105 8d 2c Qs Jd  8h Th 9s
+deadhead  800757201  5  3  Q    -      -      -        -          835    0    0 3c

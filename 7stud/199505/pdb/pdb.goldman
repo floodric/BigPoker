@@ -1,0 +1,30 @@
+goldman   800815706  6  2  rc   b      b      b        b         1000  100  210 5s 4h 6h 8h  Td 7d Th
+goldman   800815789  6  3  f    -      -      -        -         1110    0    0 9s
+goldman   800815913  6  4  f    -      -      -        -         1110    0    0 3d
+goldman   800815987  7  2  cc   c      c      cc       f         1110  120    0 9d 4d 7s Kh
+goldman   800816115  7  1 +Bf   -      -      -        -          990   10    0 3d
+goldman   800816144  7  6  f    -      -      -        -          980    0    0 7h
+goldman   800816276  6  2  c   +kf     -      -        -          980   10    0 Qc 3s
+goldman   800816371  6  4  rr   br     k      r        rrrrrrrrrrrrrrrrrrrrrcA    970  970 1080 Tc 9c 7d Jd  Jc Js Jh
+goldman   800816630  7  5  f    -      -      -        -         1080    0    0 Js
+goldman   800816788  7  7  rc   b      kc     kc       k         1080   80    0 4s 2d 9d Ks  4d Jc Js
+goldman   800816938  6  4  f    -      -      -        -         1000    0    0 4h
+goldman   800817020  7  1 +Bf   -      -      -        -         1000   10    0 3c
+goldman   800817142  6  2  f    -      -      -        -          990    0    0 Td
+goldman   800817235  7  5  c    f      -      -        -          990   20    0 4d Qs
+goldman   800817357  7  3  f    -      -      -        -          970    0    0 Qh
+goldman   800817448  8  6  c    k      r      k        c          970   70    0 8s 4s 7d Tc  Td 9s 8c
+goldman   800817525  8  3  f    -      -      -        -          900    0    0 Jd
+goldman   800817599  8  8  f    -      -      -        -          900    0    0 5h
+goldman   800817670  8  2  f    -      -      -        -          900    0    0 As
+goldman   800817783  8  1 +Bk   k      f      -        -          900   10    0 4h 9c Jd
+goldman   800817872  8  4  c    k     +kf     -        -          890   10    0 4s Tc 4h
+goldman   800818022  6  3  f    -      -      -        -          880    0    0 3s
+goldman   800818093  6  3  f    -      -      -        -          880    0    0 9d
+goldman   800818193  7  3  f    -      -      -        -          880    0    0 8h
+goldman   800818295  7  1 +Bk   k      f      -        -          880   10    0 4c 2s Jd
+goldman   800818395  6  6  r   +b      -      -        -          870   30   60 As Ts
+goldman   800818419  5  3  rc  +kc     f      -        -          900   40    0 Ac 9c Kd
+goldman   800818509  6  6  f    -      -      -        -          860    0    0 4d
+goldman   800818696  7  6  f    -      -      -        -          860    0    0 Js
+goldman   800818783  6  1 +BKQ  -      -      -        -          860   10    0 3s

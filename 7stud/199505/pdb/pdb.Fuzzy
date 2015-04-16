@@ -1,0 +1,96 @@
+Fuzzy     799523473  5  1 +Bk   k      k      k        f         1000   10    0 8h 3d 5s 6d
+Fuzzy     799523543  5  5  f    -      -      -        -          990    0    0 9c
+Fuzzy     799523651  6  4  f    -      -      -        -          990    0    0 Ks
+Fuzzy     799523682  6  1 +Bf   -      -      -        -          990   10    0 4c
+Fuzzy     799524651  5  1 +Bf   -      Q      -        -         1190   10    0 4c
+Fuzzy     799524974  4  4  cc  +kf     -      -        -         1180   20    0 Ts Qs
+Fuzzy     799525067  4  1 +Bc   f      -      -        -         1160   20    0 5h Ts
+Fuzzy     799525149  3  1 +Bk  +k      c      c        c         1140   70    0 3c 7s Ts 7h  Kh 7d 4c
+Fuzzy     799525318  3  3  cc   bc    +b      b        b         1070  100  220 Qs Js 9c 7d  Ks Ts Td
+Fuzzy     799525440  3  3  c   +k     +k     +kc      +kc        1190   50  110 Kh Jc 9s 9c  Ac As 7h
+Fuzzy     799525551  3  3  c   +bQ     -      -        -         1250   20   30 9c Ks
+Fuzzy     799527794  2  2  Q    -      -      -        -         1260    0    0 7d
+Fuzzy     799980626  8  5  c   +kc     kc     k        rc        1260  100  150 8s Ks 7h 4h  5d Kc 6c
+Fuzzy     799980824  8  3  c    f      -      -        -         1310   20    0 Kc 7c
+Fuzzy     799980870  7  2  c   +kf     -      -        -         1290   10    0 Qs Jd
+Fuzzy     799980961  8  3  c    b      b      bc       c         1280  100  140 7d 2h 9d 5d  8d 7c 4c
+Fuzzy     799981107  8  2  Q    -      -      -        -         1320    0    0 Ts
+Fuzzy     799989803  6  1 +Bk  +b      -      -        -         1320   20   30 3d 3s
+Fuzzy     799989876  6  1 +Bf   -      -      -        -         1330   10    0 4d
+Fuzzy     799989975  6  1 +Bk   k      f      -        -         1320   10    0 2h 5s Qs
+Fuzzy     799990046  6  3  c    f      -      -        -         1310   10    0 3d 2d
+Fuzzy     799990119  6  1 +Bk   c      c      c        c         1300   80    0 2c 9h Ah Jc  8c 4s As
+Fuzzy     799990180  6  5  cc   f      -      -        -         1220   20    0 7d 9c
+Fuzzy     799990238  6  4  c    b      b     +b        -         1200   60  130 Ad 7c 3h Ah
+Fuzzy     799990301  6  4  cc  +kf     -      -        -         1270   20    0 Ah Qd
+Fuzzy     799990415  6  6  c    c      c      c        c         1250   80    0 6c 7s 8c Jd  2c Tc Kd
+Fuzzy     799990465  6  3  c   +k     +b     +b       +b         1170   70   80 6s Ah 3h 4h  Ts 6h 7s
+Fuzzy     799990529  6  5  f    -      -      -        -         1180    0    0 Qh
+Fuzzy     799990560  6  4  f    -      -      -        -         1180    0    0 7h
+Fuzzy     799990579  6  5  c    k     +b     +br      +kc        1180  130    0 Tc 3c Ts 8s  Td 7h 4c
+Fuzzy     799990668  6  3  cc   c      k      k        c         1050   50    0 7d 9d 6c 4c  3d 6d 9h
+Fuzzy     799990776  6  6  c   +b     +b     +b       +k         1000   60    0 Qd Qc 5s 6h  Kd Jh 7h
+Fuzzy     799990822  6  3  c   +k     +kc    +k       +kc         940   50    0 4s 7h 8h Jh  Qd Jc Kd
+Fuzzy     799990873  6  3  f    -      -      -        -          890    0    0 9h
+Fuzzy     799990888  6  6  f    -      -      -        -          890    0    0 Js
+Fuzzy     799990977  6  4  cc   c      k      c        r          890   90   95 8d 9h 5s 6h  Qh 7s Kd
+Fuzzy     799991057  6  4  f    -      -      -        -          895    0    0 Th
+Fuzzy     799991117  6  3  f    -      -      -        -          895    0    0 Ks
+Fuzzy     799991198  7  7  cc   c      f      -        -          895   30    0 6c 8s Kd
+Fuzzy     799991277  7  4  c    b     +br    +b       +b          865  120  270 Td 6s 6c 3d
+Fuzzy     799991382  7  6  f    -      -      -        -         1015    0    0 Ks
+Fuzzy     799991467  7  2  f    -      -      -        -         1015    0    0 4c
+Fuzzy     799991556  8  6  cc   kc     f      Q        -         1015   50    0 7s Ah 6h
+Fuzzy     799997847  4  2  f    -      -      -        -          965    0    0 Tc
+Fuzzy     799997895  4  2  c    bc     c      b        k          965   70  160 6c 5h 3d 9s  3s Qc 5s
+Fuzzy     799997960  3  1 +B    -      -      -        -         1055   10   10 7s
+Fuzzy     799997979  3  1 +Bf   -      -      -        -         1055   10    0 3d
+Fuzzy     799997994  3  1 +Bc   c     +kf     -        -         1045   30    0 2d 7c 9h
+Fuzzy     799998043  3  2  cc  +kc    +kc    +k       +b         1015   70  130 Kc Qh 4d Qc
+Fuzzy     799998084  3  2  c    k      c      c        c         1075   70    0 6d Qh Kh 9s  3s Qd Ac
+Fuzzy     799998128  3  1 +Br   c      c      c        k         1005   70   70 4c 8c 6d 5d  5s 3d Js
+Fuzzy     799998170  3  3  f    -      -      -        -         1005    0    0 Td
+Fuzzy     799998180  3  2  c   +b      -      -        -         1005   20   40 Jd As
+Fuzzy     799998193  3  3  c    rc     f      -        -         1025   60    0 Qc 6h Jh
+Fuzzy     799998238  3  1 +B    -      -      -        -          965   10   10 6d
+Fuzzy     799998247  3  3  c   +br    +b     +b       +b          965  110    0 Ts Td Ah 8s  9c Ks Kc
+Fuzzy     799998277  3  3  f    -      -      -        -          855    0    0 9s
+Fuzzy     799998312  3  2  c   +kc    +kf     -        -          855   20    0 Tc 9d Ks
+Fuzzy     799998347  3  1 +Br  +bc    +k      b        k          835   60   70 4s Ks 2h 3s  As Kh 9c
+Fuzzy     799998395  3  2  c    k      k      f        -          845   10    0 7h 4s 9s As
+Fuzzy     799998426  3  2  c    b      b      b        b          835   80   85 8s 3c 5d 6h  7d 2h Ad
+Fuzzy     799998469  3  3  c    k     +kc    +kc      +kc         840   70    0 7d 4h Js Ts  Jd As 2h
+Fuzzy     799998513  3  1 +B    -      -      -        -          770   10   10 4d
+Fuzzy     799998518  3  2  r    -      -      -        -          770   20   30 Ah
+Fuzzy     799998527  3  3  c   +k     +k     +k       +b          780   30   30 Kh 6d 5c 2h  8s Ad 6h
+Fuzzy     799998566  3  3  f    -      -      -        -          780    0    0 9s
+Fuzzy     799998575  3  1 +B    -      -      -        -          780   10   10 2c
+Fuzzy     799998581  3  3  f    -      -      -        -          780    0    0 6c
+Fuzzy     799998590  3  3  f    -      -      -        -          780    0    0 Td
+Fuzzy     799998641  3  2  f    -      -      -        -          780    0    0 Qs
+Fuzzy     799998657  3  1 +B    -      -      -        -          780   10   10 7d
+Fuzzy     799998669  3  3  c    k      f      -        -          780   10    0 9s Qd Kd
+Fuzzy     799998716  3  3  f    -      -      -        -          770    0    0 5s
+Fuzzy     799998726  3  1 +Bc   c      c     +k       +k          770   50    0 Td 4s 8d Th  2h 3d Qd
+Fuzzy     799998758  3  1 +Bf   -      -      -        -          720   10    0 3h
+Fuzzy     799998769  3  2  cc  +kc    +kf     -        -          710   40    0 Kc 7c 2s
+Fuzzy     799998814  3  1 +Bc  +kf     -      -        -          670   20    0 2d 9d
+Fuzzy     799998865  3  1 +Bc  +b     +b     +b        -          650   70  120 5s 9c 5h Ah
+Fuzzy     799998904  4  4  c   +b      -      -        -          700   20   30 5h 5c
+Fuzzy     799998920  4  3  c    k      b      -        -          710   30   40 4d 3h 2h
+Fuzzy     799998953  4  1 +Bc   c      c      c        c          720   90    0 Jd 5c Tc 6d  Ac 5d Js
+Fuzzy     799998980  4  3  f    -      -      -        -          630    0    0 7h
+Fuzzy     799999018  4  4  r    k      b      k        k          630   40    0 4s 8d 3d Js  Ks 8h 6h
+Fuzzy     799999065  4  2  f    -      -      -        -          590    0    0 9s
+Fuzzy     799999099  4  3  c   +kc    +kc    +kc      +kc         590   80    0 Jd 7d 9s 7h  5s 2d Kc
+Fuzzy     799999149  5  3  cc   c      c     +kc      +kcc        510  150    0 8h Th 4s As  2c 8s 8c
+Fuzzy     799999242  5  5  c   +b     +b      bc       f          360   80    0 Qc Kh 2d 8c
+Fuzzy     799999291  5  1 +Bc   c      r     +br      +br         280  230  355 Tc 3s 6c 3d  8c 9c 7c
+Fuzzy     799999376  5  3  c    b      r     +b        -          405   80  140 3s 4s Qs Qd
+Fuzzy     799999445  5  3  c    f      -      -        -          465   10    0 6s 2h
+Fuzzy     799999526  5  1 +Bk   c      k      b        k          455   40   80 4s 6c 2c Qh  Jc 2d 8c
+Fuzzy     799999575  4  4  cc  +kc     c      c       +kc         495   90  125 Qs Ks 9d 7s  Kh 5d 3d
+Fuzzy     799999658  4  2  cc  +kc     b      c        c          530   90   90 Js 6c 7d Tc  As 2d 4c
+Fuzzy     799999720  4  1 +B    -      -      -        -          530   10   10 3h
+Fuzzy     799999736  4  1 +Br   c      c      c        c          530   90    0 4c Qd Jh 7h  2h As 9s
+Fuzzy     799999785  4  2  fQ   -      -      -        -          440    0    0 Tc

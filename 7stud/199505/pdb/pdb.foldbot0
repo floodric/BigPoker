@@ -1,0 +1,187 @@
+foldbot0  799438393  2  1 +B    -      -      -        -         1000   10   10 3c
+foldbot0  799438396  2  2  r   +bc     rr     r        b         1000  180  180 8d 2c 5d Td  8h 3h Ad
+foldbot0  799438466  4  1 +B    -      -      -        -         1000   10   10 3h
+foldbot0  799438507  4  4  r   +b     +b      -        -         1000   50   80 Ah Ac 4c
+foldbot0  799438547  4  4  f    -      -      -        -         1030    0    0 Kh
+foldbot0  799438578  4  3  f    -      -      -        -         1030    0    0 3h
+foldbot0  799438586  4  2  f    -      -      -        -         1030    0    0 2s
+foldbot0  799438714  4  2  f    -      -      -        -         1030    0    0 9s
+foldbot0  799438755  4  4  f    -      -      -        -         1030    0    0 9s
+foldbot0  799438851  4  4  f    -      -      -        -         1030    0    0 As
+foldbot0  799438924  4  3  f    -      -      -        -         1030    0    0 Qs
+foldbot0  799438935  4  2  f    -      -      -        -         1030    0    0 8h
+foldbot0  799438947  4  1 +Bk   k      k      f        -         1030   10    0 2d 3c Qd 8s
+foldbot0  799439020  4  4  f    -      -      -        -         1020    0    0 Td
+foldbot0  799439037  4  2  r    c      cc     kf       -         1020   70    0 Qs Kc Jc 4d
+foldbot0  799439145  4  4  f    -      -      -        -          950    0    0 Jd
+foldbot0  799439175  4  2  f    -      -      -        -          950    0    0 Jc
+foldbot0  799439250  5  2  f    -      -      -        -          950    0    0 Kh
+foldbot0  799439292  5  3  c   +k     +b      b        c          950   70   70 7s Qs Ac Ks  9c Ad 6h
+foldbot0  799439357  5  3  r   +b      -      -        -          950   30   50 Ad 6h
+foldbot0  799439382  5  2  f    -      -      -        -          970    0    0 9d
+foldbot0  799439428  5  2  Q    -      -      -        -          970    0    0 8h
+foldbot0  799698373  6  6  r    rc    +kf     -        -          970   50    0 Jc 5s Ac
+foldbot0  799698525  6  1 +Bk   k      k      k        b          920   30   50 2c 4c 5h 9s
+foldbot0  799698689  6  2  f    -      -      -        -          940    0    0 7c
+foldbot0  799698715  6  2  r   +b     +kf     -        -          940   30    0 5s Kd Td
+foldbot0  799698772  6  5  f    -      -      -        -          910    0    0 Jc
+foldbot0  799698800  6  3  f    -      -      -        -          910    0    0 Kd
+foldbot0  799698883  6  6  f    -      -      -        -          910    0    0 Kc
+foldbot0  799698951  6  4  f    -      -      -        -          910    0    0 6h
+foldbot0  799698986  6  2  f    -      -      -        -          910    0    0 8d
+foldbot0  799699082  6  4  f    -      -      -        -          910    0    0 5s
+foldbot0  799699153  6  4  Q    -      -      -        -          910    0    0 8c
+foldbot0  800124607  5  4  f    -      -      -        -          910    0    0 Kc
+foldbot0  800124690  5  2  f    -      -      -        -          910    0    0 Ad
+foldbot0  800124778  6  3  c   +k     +kf     -        -          910   10    0 4h Qd 9h
+foldbot0  800124841  6  3  f    -      -      -        -          900    0    0 Ah
+foldbot0  800124876  6  3  c   +b     +b      -        -          900   40   60 As 3c 2h
+foldbot0  800124943  6  5  f    -      -      -        -          920    0    0 Td
+foldbot0  800125008  5  5  f    -      -      -        -          920    0    0 Qh
+foldbot0  800125079  5  3  f    -      -      -        -          920    0    0 9s
+foldbot0  800125153  6  6  f    -      -      -        -          920    0    0 Jd
+foldbot0  800125250  6  4  f    -      -      -        -          920    0    0 9h
+foldbot0  800125283  6  3  f    -      -      -        -          920    0    0 Kh
+foldbot0  800125322  6  4  r   +b      b      -        -          920   50   80 Qc 6c 8h
+foldbot0  800125418  6  1 +Bk  +kf     -      -        -          950   10    0 4c 4d
+foldbot0  800125519  7  3  f    -      -      -        -          940    0    0 Td
+foldbot0  800125678  7  3  f    -      -      -        -          940    0    0 Qd
+foldbot0  800125745  6  4  f    -      -      -        -          940    0    0 3c
+foldbot0  800125867  7  5  f    -      -      -        -          940    0    0 4d
+foldbot0  800125991  7  5  f    -      -      -        -          940    0    0 4d
+foldbot0  800126049  7  2  f    -      -      -        -          940    0    0 9s
+foldbot0  800126189  7  4  f    -      -      -        -          940    0    0 5c
+foldbot0  800126256  6  2  f    -      -      -        -          940    0    0 5s
+foldbot0  800126356  6  6  f    -      -      -        -          940    0    0 Ac
+foldbot0  800126370  6  1 +Bk   k      kf     -        -          940   10    0 3d Qc Kd
+foldbot0  800126538  7  7  f    -      -      -        -          930    0    0 7d
+foldbot0  800126589  7  4  f    -      -      -        -          930    0    0 9s
+foldbot0  800126751  8  6  f    -      -      -        -          930    0    0 Tc
+foldbot0  800126971  7  6  c    f      -      -        -          930   10    0 8d 4c
+foldbot0  800127183  8  7  c    b     +b      -        -          920   40  110 Qs 4d Qh
+foldbot0  800127278  8  6  f    -      -      -        -          990    0    0 5s
+foldbot0  800127380  7  2  f    -      -      -        -          990    0    0 3s
+foldbot0  800127394  7  3  c    r      f      -        -          990   40    0 4h 8c Js
+foldbot0  800127500  8  6  f    -      -      -        -          950    0    0 Js
+foldbot0  800127539  8  2  fQ   -      -      -        -          950    0    0 6h
+foldbot0  800133479  3  1 +Bc   r     +kc    +kc      +k          950   80   80 6s 7d Qs Kc  5c Ac 2h
+foldbot0  800133562  3  3  r    -      -      -        -          950   20   30 3d
+foldbot0  800133602  3  2  f    -      -      -        -          960    0    0 5s
+foldbot0  800133653  3  1 +Bf   -      -      -        -          960   10    0 3d
+foldbot0  800133709  3  1 +Bc   c      c     +bc      +k          950   90    0 3c 8d 5s 5d  Ks 6c 6d
+foldbot0  800133752  3  1 +Br   b      k      f        -          860   40    0 3c 9d Qc 3s
+foldbot0  800133798  3  2  r    c      br     b        b          820  130  270 Ts Jh 7h 9d
+foldbot0  800133864  3  2  f    -      -      -        -          960    0    0 5h
+foldbot0  800133932  3  2  f    -      -      -        -          960    0    0 As
+foldbot0  800133945  3  2  r    k      f      -        -          960   20    0 5d Jh 3c
+foldbot0  800133979  3  3  f    -      -      -        -          940    0    0 9h
+foldbot0  800134040  3  2  r   +bc     c     +kc      +kc         940  100    0 8c 4d 9s 8s  2c 8h Jd
+foldbot0  800134097  3  1 +Bf   -      -      -        -          840   10    0 3c
+foldbot0  800134118  3  1 +Bc   c     +kc    +b        -          830   70  120 4s 2h 2s 2c
+foldbot0  800134164  3  1 +Br   b      r      b        b          880  110  220 3h 4d 9s 7s  5d 6h 8h
+foldbot0  800134232  3  1 +Bf   -      -      -        -          990   10    0 9d
+foldbot0  800134260  3  2  f    -      -      -        -          980    0    0 Kc
+foldbot0  800134272  3  2  f    -      -      -        -          980    0    0 Ts
+foldbot0  800134337  3  2  r    bc     r      b        k          980  100  105 7d 9h 3s 2h  6h 7s 8s
+foldbot0  800134400  3  2  r   +bc    +kc    +b       +b          985  100  105 As 4c 2h 3c  Ts 8c 6h
+foldbot0  800134451  3  1 +Bk  +k     +k     +k       +k          990   10   10 2d Jh 2s Ah  3s 8s 7s
+foldbot0  800134496  3  3  f    -      -      -        -          990    0    0 8d
+foldbot0  800134525  3  1 +B    -      -      -        -          990   10   10 Td
+foldbot0  800134534  3  2  f    -      -      -        -          990    0    0 Qc
+foldbot0  800134567  3  1 +Bf   -      -      -        -          990   10    0 2d
+foldbot0  800134624  3  3  f    -      -      -        -          980    0    0 6s
+foldbot0  800134636  3  3  f    -      -      -        -          980    0    0 8h
+foldbot0  800134680  3  2  r    k      b      b        b          980   80  170 4d 2s 3c Qc  Qh 6d 7c
+foldbot0  800134739  3  2  f    -      -      -        -         1070    0    0 2d
+foldbot0  800134762  3  3  f    -      -      -        -         1070    0    0 Th
+foldbot0  800134775  3  3  f    -      -      -        -         1070    0    0 8h
+foldbot0  800134790  3  3  f    -      -      -        -         1070    0    0 4c
+foldbot0  800134824  3  1 +B    -      -      -        -         1070   10   10 2h
+foldbot0  800134834  3  3  r    -      -      -        -         1070   20   30 3d
+foldbot0  800134847  3  3  f    -      -      -        -         1080    0    0 Jc
+foldbot0  800134859  3  1 +B    -      -      -        -         1080   10   10 Ts
+foldbot0  800134874  3  1 +Bf   -      -      -        -         1080   10    0 2d
+foldbot0  800134910  3  1 +Bc  +kf     -      -        -         1070   20    0 7c Kh
+foldbot0  800134937  3  3  f    -      -      -        -         1050    0    0 4d
+foldbot0  800134944  4  4  f    -      -      -        -         1050    0    0 Th
+foldbot0  800134988  4  2  r   +bc     brc    c        f         1050  140    0 Th Qs 9c 5s
+foldbot0  800135081  6  6  f    -      -      -        -          910    0    0 9s
+foldbot0  800135167  6  6  f    -      -      -        -          910    0    0 Kc
+foldbot0  800135184  6  3  c    k      f      -        -          910   20    0 5s 8s Kc
+foldbot0  800135267  6  3  cc  +kf     -      -        -          890   20    0 9d Kc
+foldbot0  800135365  7  1 +Bf   -      -      -        -          870   10    0 2s
+foldbot0  800135485  7  2  r    b     +bc    +k       +k          860   70    0 Qh 4h Qc 9s  8d Jh Kh
+foldbot0  800135627  6  2  f    -      -      -        -          790    0    0 Kh
+foldbot0  800135719  6  6  f    -      -      -        -          790    0    0 Th
+foldbot0  800135757  6  3  f    -      -      -        -          790    0    0 4s
+foldbot0  800135787  6  4  f    -      -      -        -          790    0    0 7d
+foldbot0  800135835  5  3  f    -      -      -        -          790    0    0 Jd
+foldbot0  800135911  5  3  c    b      c      c        k          790   60   65 7h 8s Kd 2d  6s 3c 5c
+foldbot0  800135972  5  5  f    -      -      -        -          795    0    0 8c
+foldbot0  800136018  5  5  r    b      -      -        -          795   30   50 4s 5c
+foldbot0  800136898  4  2  c    b      c     +kc      +kc        1015   80    0 5d 8h 4c Ac  7s Qs 2s
+foldbot0  800136967  4  1 +B    -      -      -        -          935   10   10 2d
+foldbot0  800136985  4  4  r   +b     +k      k        f          935   30    0 6c Th Jd 2d
+foldbot0  800137052  4  3  f    -      -      -        -          905    0    0 Kh
+foldbot0  800137070  4  2  f    -      -      -        -          905    0    0 5s
+foldbot0  800137127  4  2  c    b     +b     +k       +b          905   60  110 3c 5d 5s Qh
+foldbot0  800137188  4  1 +Bf   -      -      -        -          955   10    0 4c
+foldbot0  800137203  4  2  cc   r      b      b        b          945  100  145 6h 4c 3d Jd  8c 5c 4d
+foldbot0  800137307  4  1 +Bc  +kf     -      -        -          990   20    0 3h Kd
+foldbot0  800137349  4  3  f    -      -      -        -          970    0    0 Kc
+foldbot0  800137355  4  1 +Bf   Q      -      -        -          970   10    0 9c
+foldbot0  800211119  8  8  KQ   -      -      -        -          960    0    0 8s
+foldbot0  800566030  6  3  f    -      -      -        -          960    0    0 8h
+foldbot0  800566049  6  3  r    b      c      k        k          960   50  140 Td 8d Js 4h  As 3c Ts
+foldbot0  800566154  5  1 +Bc  +kr    +b     +kc      +kc        1050  100  100 4s Ad 6h 4h  2s 8h Ac
+foldbot0  800566223  5  2  f    -      -      -        -         1050    0    0 4s
+foldbot0  800566319  5  2  r    -      -      -        -         1050   20   30 9c
+foldbot0  800566343  4  1 +Bk   k      b      b        b         1060   70  140 2s 5c 7s 4c  6s 3h Kd
+foldbot0  800566377  4  2  f    -      -      -        -         1130    0    0 6s
+foldbot0  800566388  4  4  Q    -      -      -        -         1130    0    0 Kc
+foldbot0  800733473  5  3  r   +b     +b     +b       +b         1130   90  160 8h Kh Ac 3d
+foldbot0  800733539  5  1 +Bk  +bc    +kc    +kc      +kc        1200   90    0 2c Jh 7h 5c  9d 3d Jd
+foldbot0  800733610  4  2  f    -      -      -        -         1110    0    0 8d
+foldbot0  800733653  5  1 +Bk   k     +kf     -        -         1110   10    0 3d 6h 6c
+foldbot0  800733700  5  3  f    -      -      -        -         1100    0    0 Jd
+foldbot0  800733803  5  2  f    -      -      -        -         1100    0    0 9s
+foldbot0  800733858  5  3  f    -      -      -        -         1100    0    0 7d
+foldbot0  800733952  6  2  c   +b     +kf     -        -         1100   20    0 8d 8s Qs
+foldbot0  800734021  6  2  f    -      -      -        -         1080    0    0 6h
+foldbot0  800734050  6  6  f    -      -      -        -         1080    0    0 Qs
+foldbot0  800734105  7  3  Q    -      -      -        -         1080    0    0 5d
+foldbot0  801160914  6  4  r   +b      b      -        -         1080   50  110 5h Ad 8c
+foldbot0  801160963  6  5  f    -      -      -        -         1140    0    0 Td
+foldbot0  801161028  7  7  f    -      -      -        -         1140    0    0 Qh
+foldbot0  801161091  7  3  f    -      -      -        -         1140    0    0 Kh
+foldbot0  801161117  7  3  f    -      -      -        -         1140    0    0 7s
+foldbot0  801161172  7  7  f    -      -      -        -         1140    0    0 Qh
+foldbot0  801161211  7  4  f    -      -      -        -         1140    0    0 4h
+foldbot0  801161275  7  3  f    -      -      -        -         1140    0    0 Js
+foldbot0  801161364  7  1 +Brc  c      c      c        c         1140  110  155 2h 7c 4h Td  5c 4d 3d
+foldbot0  801161456  7  3  f    -      -      -        -         1185    0    0 Tc
+foldbot0  801161584  7  3  f    -      -      -        -         1185    0    0 5h
+foldbot0  801161610  7  7  f    -      -      -        -         1185    0    0 9s
+foldbot0  801161658  7  6  c    c      f      -        -         1185   30    0 5h 9d 7h
+foldbot0  801161743  7  6  f    -      -      -        -         1155    0    0 7h
+foldbot0  801161870  7  2  f    -      -      -        -         1155    0    0 9h
+foldbot0  801161965  7  7  f    -      -      -        -         1155    0    0 4s
+foldbot0  801162017  7  1 +Br   b      b      b        b         1155   90  100 2c 6h 5s 3h  Qd Ah 3s
+foldbot0  801162116  7  2  f    -      -      -        -         1165    0    0 Ts
+foldbot0  801162205  7  4  f    -      -      -        -         1165    0    0 5h
+foldbot0  801162309  7  2  f    -      -      -        -         1165    0    0 5h
+foldbot0  801162479  7  3  cc   c      c      c        c         1165   90    0 3d 8d 6h Jc  3h 6d 7s
+foldbot0  801162539  7  2  f    -      -      -        -         1075    0    0 6c
+foldbot0  801162684  6  4  f    -      -      -        -         1075    0    0 5d
+foldbot0  801162719  6  4  f    -      -      -        -         1075    0    0 Td
+foldbot0  801162773  6  2  f    -      -      -        -         1075    0    0 5h
+foldbot0  801162846  6  1 +Bk   f      -      -        -         1075   10    0 4c Qs
+foldbot0  801162919  6  4  f    -      -      -        -         1065    0    0 9c
+foldbot0  801163053  7  5  f    -      -      -        -         1065    0    0 7c
+foldbot0  801163146  7  4  cc   f      -      -        -         1065   20    0 5s Qs
+foldbot0  801163235  7  5  f    -      -      -        -         1045    0    0 Ks
+foldbot0  801163374  6  6  r    f      -      -        -         1045   20    0 8s 2d
+foldbot0  801163450  6  2  f    -      -      -        -         1025    0    0 5d
+foldbot0  801163524  5  4  f    -      -      -        -         1025    0    0 Ts
+foldbot0  801163582  5  4  f    -      -      -        -         1025    0    0 Ks
+foldbot0  801165217  5  5  KQ   -      -      -        -         1025    0    0 8d

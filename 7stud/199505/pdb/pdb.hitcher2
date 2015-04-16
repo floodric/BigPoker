@@ -1,0 +1,72 @@
+hitcher2  800935536  3  1 +Bk   b      -      -        -         1000   20   30 4s 3s
+hitcher2  800935565  3  3  r   +b     +b     +b       +b         1010   90   90 Ac 4c Jc 2d  6c 7h As
+hitcher2  800935601  3  1 +Bf   -      -      -        -         1010   10    0 2d
+hitcher2  800935644  3  3  f    -      -      -        -         1000    0    0 Kd
+hitcher2  800935657  3  2  f    -      -      -        -         1000    0    0 8h
+hitcher2  800935680  3  3  f    -      -      -        -         1000    0    0 7d
+hitcher2  800935762  3  2  f    -      -      -        -         1000    0    0 Ts
+hitcher2  800935785  3  3  c   +k     +b     +b       +b         1000   70  130 As 2s 7h Ah
+hitcher2  800935845  3  1 +Bc   c      f      -        -         1060   30    0 2h 3d 9s
+hitcher2  800935885  3  2  f    -      -      -        -         1030    0    0 9s
+hitcher2  800935895  3  2  f    -      -      -        -         1030    0    0 9c
+hitcher2  800935918  3  3  f    -      -      -        -         1030    0    0 7c
+hitcher2  800935928  3  2  f    -      -      -        -         1030    0    0 6c
+hitcher2  800935966  4  4  c   +b     +b      -        -         1030   40   90 3h Ac 2d
+hitcher2  800936001  4  4  f    -      -      -        -         1080    0    0 8h
+hitcher2  800936008  4  4  f    -      -      -        -         1080    0    0 8d
+hitcher2  800936026  4  4  c    k     +b      -        -         1080   30   50 6c 8c Ah
+hitcher2  800936061  4  2  r   +bc     cc    +br      +bc        1100  230    0 7d Qd Ac Qc  5s 8h 7s
+hitcher2  800936147  4  2  cc   c      r      b        rr         870  170    0 6c 3h 2h Qs  5c Td 7s
+hitcher2  800936212  4  4  f    -      -      -        -          700    0    0 Th
+hitcher2  800936287  5  5  c    c      b      r        b          700  110  360 5d 4d Ac Qs  4s 8s Qh
+hitcher2  800936392  6  1 +Bk  +kc     kf     -        -          950   20    0 2c Th Kh
+hitcher2  800936470  6  5  f    -      -      -        -          930    0    0 9h
+hitcher2  800936494  6  4  f    -      -      -        -          930    0    0 7c
+hitcher2  800936592  7  4  r    rcc    rr    +br      +b          930  220  560 Kh 6h 9h Qh
+hitcher2  800936727  8  8  f    -      -      -        -         1270    0    0 9c
+hitcher2  800936812  8  3  f    -      -      -        -         1270    0    0 Th
+hitcher2  800936986  8  8  c    f      -      -        -         1270   20    0 Ks 3d
+hitcher2  800937142  8  6  c    f      -      -        -         1250   10    0 4d 9h
+hitcher2  800937223  8  5  f    -      -      -        -         1240    0    0 8s
+hitcher2  800937241  8  6  f    -      -      -        -         1240    0    0 Jc
+hitcher2  800937342  8  5  f    -      -      -        -         1240    0    0 6c
+hitcher2  800937473  7  1 +B    -      -      -        -         1240   10   10 2d
+hitcher2  800937486  7  3  c   +b      br     c        c         1240  120  290 Qh Qs As Th  Js 4c Qc
+hitcher2  800937588  7  6  c    kc    +kf     -        -         1410   20    0 3s 9s Kh
+hitcher2  800937681  6  5  f    -      -      -        -         1390    0    0 5s
+hitcher2  800937748  6  6  f    -      -      -        -         1390    0    0 Kd
+hitcher2  800937757  6  5  c    c      f      -        -         1390   40    0 Qh Jc 2h
+hitcher2  800937837  6  3  cc  +kc     f      -        -         1350   30    0 5d 9h Js
+hitcher2  800937908  5  1 +Bf   -      -      -        -         1320   10    0 4c
+hitcher2  800937917  5  4  f    -      -      -        -         1310    0    0 5s
+hitcher2  800937947  5  5  f    -      -      -        -         1310    0    0 9s
+hitcher2  800937976  5  5  f    -      -      -        -         1310    0    0 3c
+hitcher2  800938025  5  5  f    -      -      -        -         1310    0    0 Ts
+hitcher2  800938037  5  4  c    k      k      b        -         1310   30   60 Ah 6d 3d 4d
+hitcher2  800938081  5  4  r    -      -      -        -         1340   20   30 Ts
+hitcher2  800938095  4  1 +B    -      -      -        -         1350   10   10 2h
+hitcher2  800938104  4  3  f    -      -      -        -         1350    0    0 Js
+hitcher2  800938151  5  4  r   +b     +b     +bc      +kf        1350   90    0 Ad Jc 6c 6h
+hitcher2  800938207  5  2  f    -      -      -        -         1260    0    0 Qh
+hitcher2  800938258  5  4  f    -      -      -        -         1260    0    0 Qs
+hitcher2  800938270  5  2  f    -      -      -        -         1260    0    0 9s
+hitcher2  800938289  5  5  f    -      -      -        -         1260    0    0 Qd
+hitcher2  800938322  5  1 +Bf   -      -      -        -         1260   10    0 2d
+hitcher2  800938330  5  5  f    -      -      -        -         1250    0    0 Jh
+hitcher2  800938340  5  5  c   +bc    +b     +b       +b         1250  100    0 5d 5s 4s Jd  6c 8h Qc
+hitcher2  800938384  5  5  f    -      -      -        -         1150    0    0 Qs
+hitcher2  800938397  5  5  c   +kcc   +bc    +b       +b         1150  140  180 Ad 6d Kd Kh  3h Th Ks
+hitcher2  800938465  6  4  c   +b     +b      c        c         1190   80   80 8d 9h As 2s  6d Td Ah
+hitcher2  800938516  6  4  f    -      -      -        -         1190    0    0 Kc
+hitcher2  800938563  6  5  c    c     +kf     -        -         1190   40    0 7c 8s As
+hitcher2  800938691  6  6  c   +kc    +kc    +kc      +kf        1150   70    0 Ad 5c Qs 8d
+hitcher2  800938783  7  3  c    c      r      k        brc       1080  140  200 7s Kc Ks 9h  2d 5s Kh
+hitcher2  800938909  8  7  f    -      -      -        -         1140    0    0 4d
+hitcher2  800939011  8  4  f    -      -      -        -         1140    0    0 7d
+hitcher2  800939047  8  4  f    -      -      -        -         1140    0    0 7s
+hitcher2  800939116  8  4  f    -      -      -        -         1140    0    0 Qs
+hitcher2  800939173  8  2  c    c      f      -        -         1140   20    0 4c Ks 9h
+hitcher2  800939257  8  4  f    -      -      -        -         1120    0    0 3s
+hitcher2  800939330  6  4  c    c     +kf     -        -         1120   20    0 Ad 2c Kc
+hitcher2  800939373  6  2  f    -      -      -        -         1100    0    0 9h
+hitcher2  800939386  6  6  fQ   -      -      -        -         1100    0    0 As

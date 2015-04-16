@@ -1,0 +1,220 @@
+Cyrax     800563704  6  5  f    -      -      -        -          310    0    0 7c
+Cyrax     800563749  6  3  f    -      -      -        -          310    0    0 Qd
+Cyrax     800563870  5  5  c    c      k     +k       +b          310   40   50 6d Kc 3d Ks  8d 3h 5h
+Cyrax     800563956  5  3  f    -      -      -        -          320    0    0 Jc
+Cyrax     800563990  5  4  f    -      -      -        -          320    0    0 7c
+Cyrax     800564107  5  5  f    -      -      -        -          320    0    0 9h
+Cyrax     800564158  5  5  f    -      -      -        -          320    0    0 Jd
+Cyrax     800564220  5  1 +Bc   c      k      k        b          320   50   80 2s 6d 8c Tc
+Cyrax     800564288  5  3  c    kc    +kc    +kc      +kc         350   90  105 9c 7d 7s 3s  2d Ah Ac
+Cyrax     800564353  6  2  c    k     +b     +b       +b          365   70  160 8h 3h 8s 6s  3s 7d 6d
+Cyrax     800564437  7  6  c    c      c      c        c          455   90  110 5c Td 4d 9h  7h As 2d
+Cyrax     800564511  6  1 +Bk   b      b      b        b          475   80   85 2c 5h Ac 8d  7d 4d 2d
+Cyrax     800564570  5  2  c    k      k     +b        -          480   30   50 3c 4c 9d 9h
+Cyrax     800564627  5  1 +Bk  +k     +k     +k       +b          500   30   30 3d Ah 8c Jh  6s 2h Ks
+Cyrax     800564689  5  2  ccc  c      c      c        c          500  110    0 4h 2s 3s Kc  2d 3d Ac
+Cyrax     800564805  6  2  Q    -      -      -        -          390    0    0 6c
+Cyrax     800672342  7  3  f    -      -      -        -          695    0    0 7c
+Cyrax     800672382  8  2  cc   kc     c      c        k          695   70  180 4h 5c Ac Qd  8s 8h Ah
+Cyrax     800672454  8  4  cc   c      c      b        b          805   90  105 4h 8h As 5h  7c 3h Ad
+Cyrax     800672553  8  5  f    -      -      -        -          820    0    0 8c
+Cyrax     800672724  8  5  f    -      -      -        -          820    0    0 Kh
+Cyrax     800672833  7  5  c   +kr    +b     +br      +bc         820  150    0 As Kc Ah 8d  7s Ad 5c
+Cyrax     800672934  6  3  f    -      -      -        -          670    0    0 6h
+Cyrax     800673025  6  4  c    -      -      -        -          670   10   20 7d
+Cyrax     800673053  6  6  r   +brc   +brc   +br      +brrrr      680  380  480 Kd As Ad Js  Ah Kc 9d
+Cyrax     800673198  7  1 +Bcc  c     +kc     bc       br         780  170  255 3s Ah Jc 5h  7c 6s 2c
+Cyrax     800673351  8  3  cc   k     +b     +bc      +b          865  100  400 Th 3s Ts 8h  7c Tc 3c
+Cyrax     800673488  8  3  c   +kc    +kc    +k       +k         1165   40    0 Ad 6s 7d Td  4s 9s 6h
+Cyrax     800673563  8  4  c    k      k      b        b         1125   50  100 5s 8s 7d 3s  2c 3h 5h
+Cyrax     800673646  8  1 +Bk  +k      c      f        -         1175   30    0 2h Ks 9h 6h
+Cyrax     800673721  8  1 +Bf   -      -      -        -         1145   10    0 2d
+Cyrax     800673801  7  1 +Bf   -      -      -        -         1135   10    0 3d
+Cyrax     800673864  4  4  f    -      -      -        -         1125    0    0 As
+Cyrax     800673888  4  2  r    b      b      bc       c         1125  110  110 7c 6h 2c Kh  4s 2h Ad
+Cyrax     800673941  5  3  f    -      -      -        -         1125    0    0 Td
+Cyrax     800674012  5  2  f    -      -      -        -         1125    0    0 8h
+Cyrax     800674052  5  5  c   +bc    +kc     c        c         1125  100  105 Qd 2s 8s 3s  9h 2h Qs
+Cyrax     800674216  4  4  f    -      -      -        -         1130    0    0 7d
+Cyrax     800674253  3  2  f    -      -      -        -         1130    0    0 Kh
+Cyrax     800674278  4  4  f    -      -      -        -         1130    0    0 Jd
+Cyrax     800674285  4  1 +B    -      -      -        -         1130   10   10 8h
+Cyrax     800674295  4  4  c    kf     -      -        -         1130   10    0 5c 9d
+Cyrax     800674341  4  2  c    k      c      f        -         1120   30    0 7d Jd 2c 5d
+Cyrax     800674396  4  3  cc  +kc    +kc     c        c         1090  130  240 5h Ac 7d Qs  As 6d 8s
+Cyrax     800674472  5  1 +Br   b     +b     +b       +b         1200  100    0 2c 4c Kc 9s  2s 2d 3c
+Cyrax     800674516  6  4  c    kc     cc     kc       k         1100   80    0 2d 3c 8d 9d  Ad Ks Kh
+Cyrax     800674614  7  2  Q    -      -      -        -         1020    0    0 4s
+Cyrax     800727242  4  4  c    c     +kc     c        rr        1020  140  290 Jc 5c 5h 2d  6c Qc 4c
+Cyrax     800727346  4  1 +Bk   c      c      c        c         1170   80  110 4s 9s 3c Kh  8c 2d 7d
+Cyrax     800727416  4  4  c    k      k      c        f         1200   30    0 8s 3h Qc Jd
+Cyrax     800727537  4  1 +Bf   -      -      -        -         1170   10    0 2d
+Cyrax     800727575  4  4  Q    -      -      -        -         1160    0    0 6h
+Cyrax     800733653  5  2  f    -      -      -        -         1160    0    0 7c
+Cyrax     800733700  5  4  f    -      -      -        -         1160    0    0 8h
+Cyrax     800733803  5  3  f    -      -      -        -         1160    0    0 7s
+Cyrax     800733858  5  4  cc   c     +k      b        b         1160   70  140 9s 4s 9c 7h  Kc Kd 9d
+Cyrax     800733952  6  3  f    -      -      -        -         1230    0    0 9c
+Cyrax     800734021  6  3  f    -      -      -        -         1230    0    0 Jh
+Cyrax     800734050  6  1 +Bk   kf     -      -        -         1230   10    0 2c 3d
+Cyrax     800734105  7  7  f    -      -      -        -         1220    0    0 7s
+Cyrax     800734232  6  3  c   +kc    +k     +k       +kf        1220   20    0 Ac 5c 2h Jh
+Cyrax     800734290  6  1 +Bc   c      r      b        b         1200  110  110 8c 5s 6h 3h  6c 2h 7c
+Cyrax     800734359  7  1 +Bk  +kc    +kc    +kc      +kc        1200   80  220 2c 8d Ac 6h  3h Ks 4s
+Cyrax     800734432  7  7  f    -      -      -        -         1340    0    0 Tc
+Cyrax     800734599  7  4  c    f      -      -        -         1340   10    0 Tc 2h
+Cyrax     800734683  7  2  f    -      -      -        -         1330    0    0 9c
+Cyrax     800734734  7  3  f    -      -      -        -         1330    0    0 Qc
+Cyrax     800734788  8  2  c    c     +kc     c        c         1330   80    0 Qc 3c Qd Ac  Tc Th Ks
+Cyrax     800734892  8  6  f    -      -      -        -         1250    0    0 Th
+Cyrax     800735011  8  3  cc   kc     b      b        b         1250   90  130 Jc 2s 4c 7d  Qs 6c Ac
+Cyrax     800735141  8  8  f    -      -      -        -         1290    0    0 Ts
+Cyrax     800735242  8  1 +Bk   k     +k     +k       +kf        1290   10    0 4c Kc Kh 6s
+Cyrax     800735436  7  5  c    cc     kc     f        -         1280   50    0 7d 3d Kh 2c
+Cyrax     800735579  7  5  f    -      -      -        -         1230    0    0 4s
+Cyrax     800735690  6  4  f    -      -      -        -         1230    0    0 Kh
+Cyrax     800735814  8  5  f    -      -      -        -         1230    0    0 Js
+Cyrax     800735957  8  7  c   +k     +k     +kf       -         1230   10    0 3h 8d Qh Tc
+Cyrax     800736045  8  5  cc  +kc    +kc     c        f         1220   90    0 Ac 4h 9s Kc
+Cyrax     800736255  7  6  f    -      -      -        -         1130    0    0 Ts
+Cyrax     800736317  7  5  c   +kc    +kc    +kc      +k         1130   70    0 3h Ts Ad Th  8s 7h 8c
+Cyrax     800736491  8  4  f    -      -      -        -         1060    0    0 Td
+Cyrax     800736645  7  6  f    -      -      -        -         1060    0    0 5h
+Cyrax     800736740  7  4  f    -      -      -        -         1060    0    0 2s
+Cyrax     800736798  7  5  cc   c      c      k        c         1060   80    0 9s Tc 2d 6d  Qd Qs Kh
+Cyrax     800736968  7  2  c    c      f      -        -          980   20    0 3s Ks Jd
+Cyrax     800737075  7  6  c    kc     f      -        -          960   20    0 Ks 3s Qh
+Cyrax     800737253  6  5  c    kc    +kc    +b       +b          940   80  100 4h 7c 7s 3c  8s 6d 6c
+Cyrax     800737341  5  5  f    -      -      -        -          960    0    0 Js
+Cyrax     800737362  5  4  f    -      -      -        -          960    0    0 Tc
+Cyrax     800737435  5  3  f    -      -      Q        -          960    0    0 Qd
+Cyrax     800813913  4  4  f    -      -      -        -          960    0    0 Th
+Cyrax     800813927  4  4  c   +kc    +kf     -        -          960   20    0 9s Ah 5d
+Cyrax     800814020  5  4  f    -      -      -        -          940    0    0 Js
+Cyrax     800814109  6  5  f    -      -      -        -          940    0    0 7c
+Cyrax     800814205  7  1 +Bc   cc     cc     c        f          940  110    0 3h Jh As 9d
+Cyrax     800814382  8  7  f    -      -      -        -          830    0    0 Jc
+Cyrax     800814490  8  8  f    -      -      -        -          830    0    0 8s
+Cyrax     800814546  8  4  c    f      -      -        -          830   20    0 3d 7c
+Cyrax     800814681  8  3  Q    -      -      -        -          810    0    0 Ac
+Cyrax     800822332  5  3  f    -      -      -        -          810    0    0 9s
+Cyrax     800822341  5  3  c   +kc    +kc    +k       +k          810   40    0 Kc 6d 3s 2h  9d 8c Kh
+Cyrax     800822408  5  5  f    -      -      -        -          770    0    0 Js
+Cyrax     800822425  5  2  f    -      -      -        -          770    0    0 Jd
+Cyrax     800822477  4  4  f    -      -      -        -          770    0    0 Qs
+Cyrax     800822490  4  4  c   +k     +k     +kc      +kf         770   30    0 As 7d 5h 7s
+Cyrax     800822557  3  1 +Bk   c     +k     +k       +k          740   20   20 7c 6h 7h 9d  Qh 8s 3c
+Cyrax     800822583  3  3  f    -      -      -        -          740    0    0 Jh
+Cyrax     800822594  3  1 +Bc   k      k      k        r          740   60  120 4h 5c Qc 6c  5h 2d 7h
+Cyrax     800822621  3  2  c    k     +b      -        -          800   30   40 7d 5d As
+Cyrax     800822647  3  3  rc  +kc    +kc     k        k          810   60  120 9d 3s 8d 5s  Qs 7s Qc
+Cyrax     800822702  3  3  f    -      -      -        -          870    0    0 Tc
+Cyrax     800822711  3  2  c   +kc    +kc    +kc      +k          870   60   60 3s Td 6d 4s  4c Ac 3c
+Cyrax     800822770  3  2  f    -      -      -        -          870    0    0 9d
+Cyrax     800822778  3  1 +B    -      -      -        -          870   10   10 5h
+Cyrax     800822785  3  2  f    -      -      -        -          870    0    0 4d
+Cyrax     800822800  3  3  f    -      -      -        -          870    0    0 Js
+Cyrax     800822815  3  2  c    k     +kc    +b       +b          870   70  170 Ts 5d Kc Ks  4s 9s 9d
+Cyrax     800822861  3  2  Q    -      -      -        -          970    0    0 7h
+Cyrax     800827466  5  4  f    -      -      -        -          970    0    0 5s
+Cyrax     800827479  5  5  f    -      -      -        -          970    0    0 9s
+Cyrax     800827557  5  5  f    -      -      -        -          970    0    0 7d
+Cyrax     800827607  5  5  f    -      -      -        -          970    0    0 Ac
+Cyrax     800827627  5  2  c    c      c      kc       kc         970   80  140 Js Tc Qh 2c  Qd Jd 9s
+Cyrax     800827745  5  3  c   +k     +bc    +b       +b         1030   90  170 5c Ad Ac 4c
+Cyrax     800827820  5  1 +Bk   k      c      c        r         1110   90  190 2h Jd Qc 8s  9s 2d Th
+Cyrax     800827892  4  3  c    kc     c      c        c         1210  110    0 Ts 9s 3h 2s  Js 9h 8h
+Cyrax     800827983  4  4  f    -      -      -        -         1100    0    0 Qs
+Cyrax     800828065  4  3  f    -      -      -        -         1100    0    0 As
+Cyrax     800828092  4  4  c    k      b      -        -         1100   40   70 7h 2s 5d
+Cyrax     800828179  6  2  f    -      -      -        -         1130    0    0 4d
+Cyrax     800828237  6  4  f    -      Q      -        -         1130    0    0 9h
+Cyrax     800828452  7  5  c    k      k      bc       k         1130   50    0 8d 4d 9d Ad  5h Jh 4c
+Cyrax     800828658  7  3  f    -      -      -        -         1080    0    0 6d
+Cyrax     800828728  6  2  c   +kc    +kc    +bc      +kcc       1080  140    0 5c 5d Kd Ah  Ad 4h 2s
+Cyrax     800828866  6  2  f    -      -      -        -          940    0    0 Kh
+Cyrax     800828902  6  4  c    b      b      b        b          940   90    0 7d 5c 6d 3s  5s 7h Td
+Cyrax     800828989  7  4  f    -      -      -        -          850    0    0 8c
+Cyrax     800829108  8  7  f    -      -      -        -          850    0    0 5s
+Cyrax     800829191  8  4  f    -      -      -        -          850    0    0 2d
+Cyrax     800829293  8  2  f    -      -      -        -          850    0    0 Ks
+Cyrax     800829332  8  4  cc   c      f      -        -          850   40    0 Ad Jh 7d
+Cyrax     800829412  8  4  f    -      -      -        -          810    0    0 Jd
+Cyrax     800829429  8  3  f    -      -      -        -          810    0    0 Ts
+Cyrax     800829462  8  4  f    -      -      -        -          810    0    0 Js
+Cyrax     800829551  8  1 +Bf   -      -      -        -          810   10    0 3s
+Cyrax     800829669  8  2  f    -      -      -        -          800    0    0 3s
+Cyrax     800829744  8  8  f    -      -      -        -          800    0    0 Ac
+Cyrax     800829871  8  7  f    -      -      -        -          800    0    0 Js
+Cyrax     800830107  8  7  f    -      -      -        -          800    0    0 Qs
+Cyrax     800830236  8  5  f    -      -      -        -          800    0    0 Jh
+Cyrax     800830298  8  8  f    -      -      -        -          800    0    0 Ks
+Cyrax     800830397  8  1 +Bk   Q      -      -        -          800   10    0 7d 3s
+Cyrax     800833087  8  4  c    k     +kc    +k       +k          790   30    0 Ad 2h Jc 3c  Qs Tc 3s
+Cyrax     800833197  7  3  f    -      -      -        -          760    0    0 Qs
+Cyrax     800833399  8  1 +Bk   b      b      k        b          760   60   70 3s 2d 4h Th  8h 6d 4d
+Cyrax     800833477  8  1 +Bk   c     +kf     -        -          770   20    0 3s 7h 7d
+Cyrax     800833622  8  7  f    -      -      -        -          750    0    0 Kh
+Cyrax     800833724  8  4  f    -      -      -        -          750    0    0 Jd
+Cyrax     800833834  8  6  f    -      -      -        -          750    0    0 Qd
+Cyrax     800833954  8  3  f    -      -      -        -          750    0    0 Td
+Cyrax     800834115  8  3  c    c      f      -        -          750   30    0 7c 8d 4d
+Cyrax     800834230  8  4  f    -      -      -        -          720    0    0 6c
+Cyrax     800834324  8  7  f    -      -      -        -          720    0    0 4s
+Cyrax     800834502  8  4  c    c      c      bc       kc         720  150    0 Qc Jh Kc 8d  7d Js Kh
+Cyrax     800834631  8  6  c    k      k      c        k          570   30    0 6d Ah 4h Td  3h Kc 6s
+Cyrax     800834720  8  6  f    -      -      -        -          540    0    0 Kd
+Cyrax     800834793  8  4  f    -      -      -        -          540    0    0 4h
+Cyrax     800834919  8  2  f    -      -      -        -          540    0    0 8s
+Cyrax     800834957  8  1 +Bcc  c      c      rc       rc         540  230    0 2c Tc 7d 6c  4c Qc 5d
+Cyrax     800835134  8  5  f    -      -      -        -          310    0    0 8d
+Cyrax     800835338  7  6  f    -      -      -        -          310    0    0 7h
+Cyrax     800835410  7  5  f    -      -      -        -          310    0    0 Ah
+Cyrax     800835503  7  1 +B    -      -      -        -          310   10   10 3s
+Cyrax     800835514  6  5  f    -      -      -        -          310    0    0 8c
+Cyrax     800835570  5  3  f    -      -      -        -          310    0    0 Jh
+Cyrax     800835617  6  3  c   +k      f      -        -          310   10    0 2h Ks As
+Cyrax     800835715  4  4  f    -      -      -        -          300    0    0 Js
+Cyrax     800835734  4  1 +Bk  +kc    +kc    +br      +b          300  120  120 2d Ad 5c 4h  8s Qd Ts
+Cyrax     800835797  5  5  f    -      -      -        -          300    0    0 3d
+Cyrax     800835853  4  2  c   +b     +b      -        -          300   40   60 9h Ad Js
+Cyrax     800835882  4  4  f    -      -      -        -          320    0    0 7h
+Cyrax     800835938  4  2  f    -      -      -        -          320    0    0 Kd
+Cyrax     800836004  5  1 +Bk   f      -      -        -          320   10    0 4h Js
+Cyrax     800836043  5  2  c   +k     +b     +b       +b          310   70  140 As 5s 7s 9d  9s Ad 9h
+Cyrax     800836100  5  3  f    -      -      -        -          380    0    0 Ks
+Cyrax     800836134  5  3  c    k      f      -        -          380   10    0 3s 8d Qh
+Cyrax     800836175  5  3  f    -      -      -        -          370    0    0 Qs
+Cyrax     800836243  5  2  f    -      -      -        -          370    0    0 Qh
+Cyrax     800836361  5  2  f    -      -      -        -          370    0    0 Qs
+Cyrax     801161028  7  1 +Bf   -      -      -        -          340   10    0 6c
+Cyrax     801161091  7  4  f    -      -      -        -          330    0    0 Qc
+Cyrax     801161117  7  4  cc   c      f      -        -          330   30    0 5d Tc 8h
+Cyrax     801161172  7  1 +Bc   c      f      -        -          300   30    0 2c Jc Qs
+Cyrax     801161211  7  5  c    c      c     +kc      +k          270   60    0 Td 5c 3h Jh  2d Qs 2c
+Cyrax     801161275  7  4  c    c      f      -        -          210   20    0 3h Qh 4c
+Cyrax     801161364  7  2  ccc  c      c      c        f          190   90    0 7h 6s Jc Js
+Cyrax     801161456  7  4  f    -      -      -        -          100    0    0 Qs
+Cyrax     801161584  7  4  f    -      -      -        -          100    0    0 4c
+Cyrax     801161610  7  1 +Bk   f      -      -        -          100   10    0 4s 9h
+Cyrax     801161658  7  7  f    -      -      -        -           90    0    0 Jd
+Cyrax     801161743  7  7  c    c      r      bA       -           90   90  250 4h 6h 5h Tc  2s 8h 3h
+Cyrax     801161870  7  3  c   +kf     -      -        -          250   10    0 Kd 9c
+Cyrax     801161965  7  1 +Bc   c      c     +k       +kc         240   70    0 3d 5h 2c 5s  6h 3c Qs
+Cyrax     801162017  7  2  f    -      -      -        -          170    0    0 Jh
+Cyrax     801162116  7  3  f    -      -      -        -          170    0    0 9c
+Cyrax     801162205  7  5  f    -      -      -        -          170    0    0 5s
+Cyrax     801162309  7  3  cc   c     +kc    +kc      +kc         170   90  130 4d Kh Ad 8s  7s 4h 6s
+Cyrax     801162479  7  4  f    -      -      -        -          210    0    0 8s
+Cyrax     801162539  7  3  f    -      -      -        -          210    0    0 8c
+Cyrax     801162684  6  5  f    -      -      -        -          210    0    0 Ad
+Cyrax     801162719  6  5  f    -      -      -        -          210    0    0 Kd
+Cyrax     801162773  6  3  f    -      -      -        -          210    0    0 8s
+Cyrax     801162846  6  2  c    c      c      k        c          210   60   65 5h 8h Ts 9s  7s 2h Ah
+Cyrax     801162919  6  5  f    -      -      -        -          215    0    0 3d
+Cyrax     801163053  7  6  cc   c     +kc    +k       +k          215   50    0 7s Ts 7h Td  Qs 6c 5h
+Cyrax     801163146  7  5  f    -      -      -        -          165    0    0 Kc
+Cyrax     801163235  7  6  cc   kc    +bc    +brc     +bA         165  165    0 Jd 3d Jh 5s  7h Qh Js
+Cyrax     801165217  5  3  Q    -      -      -        -         1000    0    0 Ts
+Cyrax     801169348  5  4  f    -      -      -        -         1000    0    0 Qs
+Cyrax     801169381  6  2  c   +kc     k      kc       Q         1000   40    0 Jd 8d 7d 6c

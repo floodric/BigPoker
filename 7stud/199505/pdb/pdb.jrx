@@ -1,0 +1,62 @@
+jrx       799354139  4  1 +Bk   c      k     +kc      +kc        1730   60    0 2s 6s Ts Ac  Qd 8h Ad
+jrx       799354186  4  3  c   +b      -      -        -         1670   20   30 6c 6s
+jrx       799354201  4  2  cc   f      -      -        -         1680   20    0 Td 3c
+jrx       799354226  4  4  c    kc     c      c        k         1660   60    0 5s Ts 4c Kh  7h 7c 3d
+jrx       799354346  4  2  Q    -      -      -        -         1600    0    0 Td
+jrx       799361183  5  2  Q    -      -      -        -         1200    0    0 Ts
+jrx       799621969  6  2  rc  +kc    +kc     c        c         1200  100  240 3d Kh Qh 5s  5c Qs Kc
+jrx       799622052  7  1 +BKQ  -      -      -        -         1340   10    0 2h
+jrx       799622212  7  6  f    -      -      -        -         1330    0    0 8c
+jrx       799622380  7  6  f    -      -      -        -         1330    0    0 4h
+jrx       799622455  7  2  f    -      -      -        -         1330    0    0 9d
+jrx       799622560  8  2  Q    -      -      -        -         1330    0    0 Jc
+jrx       799693897  8  8  c    kc     f      -        -         1330   20    0 4s 8d Ts
+jrx       799694235  6  2  c    k     +b     +k       +k         1310   30    0 7c Qh Qd 9h  3s 2d Ad
+jrx       799694345  8  5  cc   cc     kc     rc       cr        1280  200    0 9s 3h Kh 7h  5h As 4s
+jrx       799694639  7  6  f    -      -      -        -         1080    0    0 Qh
+jrx       799694744  7  4  Q    -      -      -        -         1080    0    0 7d
+jrx       799707740  8  7  f    -      -      -        -         1080    0    0 As
+jrx       799707868  8  2  KQ   -      -      -        -         1080    0    0 3d
+jrx       800040438  6  3  f    -      -      -        -         1080    0    0 Qc
+jrx       800040682  8  8  c    f      -      -        -         1080   10    0 Js 6s
+jrx       800040822  7  1 +Bk   b      br     b        bc        1070  140    0 2c 2s Ad 9c  Jh 6h Ah
+jrx       800041074  8  8  Q    -      -      -        -          930    0    0 9h
+jrx       800061603  2  2  c    b      k      k        k          930   20   40 Kc 5d Qc 8h  7c 9s 7h
+jrx       800061643  2  2  r   +b     +b     +b       +kc         950   90    0 Jc Tc 9c Ts  Jh 5c 3d
+jrx       800061679  3  3  c   +b     +b     +b       +b          860   90  180 Ts Th Ac Ah
+jrx       800061729  3  1 +Br   c      c      c        k          950   80    0 4c 6c 6d 8s  Jc Jh Qd
+jrx       800061779  3  3  r   +kc    +b      c        c          870   90    0 8d 4c Ac Qc  9s As 7h
+jrx       800061821  3  2  r    -      -      -        -          780   20   30 Ac
+jrx       800061832  3  2  r   +bc    +k     +k       +k          790   40   80 Kc Jd 8d As  Qd 2c Ks
+jrx       800061874  3  2  r    b      b      -        -          830   50   90 4d 2h 3s
+jrx       800061897  3  2  f    -      -      -        -          870    0    0 Td
+jrx       800061905  3  2  f    -      -      -        -          870    0    0 9c
+jrx       800061909  3  1 +Br   c      c      f        -          870   50    0 2s Jh 5c Ts
+jrx       800061942  3  1 +B    -      -      -        -          820   10   10 2d
+jrx       800061948  3  2  f    -      -      -        -          820    0    0 Kh
+jrx       800061952  3  3  r    c      c      f        -          820   60    0 4c Th Jh 3c
+jrx       800061992  3  1 +B    -      -      -        -          760   10   10 2c
+jrx       800062001  3  1 +Bc   c     +kc    +kc      +kc         760   90    0 7h 5d 9c 6d  Tc Ts 2c
+jrx       800062027  3  1 +B    -      -      -        -          670   10   10 9d
+jrx       800062034  3  1 +Bf   -      -      -        -          670   10    0 5c
+jrx       800062040  3  3  c    b      -      -        -          660   20   30 4h 9d
+jrx       800062055  3  3  f    -      -      -        -          670    0    0 5d
+jrx       800062063  3  3  r    b      k      c        k          670   50    0 4h Th 9s 3s  8d Tc 4d
+jrx       800062106  3  2  f    -      -      -        -          620    0    0 Qs
+jrx       800062136  3  2  r   +k      c     +kc      +kc         620   80    0 7c 9d Qd 9h  Ah Jc 3c
+jrx       800062175  3  2  f    -      -      -        -          540    0    0 8d
+jrx       800062183  3  3  c   +k     +kc    +k       +b          540   50   80 Kh 7c 2s 4d
+jrx       800062212  4  1 +B    -      -      -        -          570   10   10 6h
+jrx       800062230  4  4  r    -      -      -        -          570   20   30 Ad
+jrx       800062242  4  4  r   +kc    +b     +b       +b          580   90  180 5h Qs Qd As  7h 2d 2h
+jrx       800062277  5  3  f    -      -      -        -          670    0    0 8c
+jrx       800062289  5  5  f    -      -      -        -          670    0    0 9s
+jrx       800062314  6  5  c    b     +bc    +kc      +k          670   90   95 5h 7c Ac Jc  9c Ad 8s
+jrx       800062385  6  4  f    -      -      -        -          675    0    0 Kh
+jrx       800062433  6  3  Q    -      -      -        -          675    0    0 Jh
+jrx       800128641  5  4  r   +kc     k     +bc      +f          675   70    0 6c 9h 7d 9c
+jrx       800128747  5  3  c    c      r      b        b          605  100  200 8c 5c 9d 4s  7s 6d Tc
+jrx       800128858  6  2  cc   r      rr     rc       ccc        705  260    0 Js Tc 8d 7c  7s Kc 9c
+jrx       800129072  6  1 +Brc  Q      -      -        -          445   40    0 5h 8c
+jrx       800835134  8  2  Q    -      -      -        -          405    0    0 Jd
+jrx       801251455  7  7  r   +kc    +Q      -        -          405   40    0 Ah 9h 7d

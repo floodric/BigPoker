@@ -1,0 +1,54 @@
+kena      800305919  4  3  cc  +kc    +kc    +k       +b         1000   70  120 5c 4c Kd 5h
+kena      800306754  6  4  r    b      b     +b       +b          990   90   95 Kd 7c 5h Kc  Kh Jc Jh
+kena      800306838  5  2  f    -      -      -        -          995    0    0 Jh
+kena      800306854  5  2  ccc  f      -      -        -          995   30    0 Kc 4d
+kena      800306994  6  5  c   +b     +b     +b       +b          965   80    0 Jc Js 5c 6h  9s Kh 7h
+kena      800307058  6  5  c   +b     +b      -        -          885   40   70 Qh Qs Ks
+kena      800307128  6  4  cf   -      -      -        -          915   10    0 6c
+kena      800307180  6  6  r   +br    +b     +bc      +k          905  110    0 Ad Kh Jh Qh  5d Ac 4c
+kena      800307303  5  5  c    k      kc    +k       +k          795   30    0 Th 3d 7d As  9c Tc 6c
+kena      800307410  5  3  f    -      -      -        -          765    0    0 4h
+kena      800307471  6  5  c   +kf     -      -        -          765   20    0 Ac 7d
+kena      800307551  5  5  c   +b     +kc    +b       +b          745   90  100 Ac 6d Jh Jd  2h 4h 5h
+kena      800307628  6  1 +Bk   k      c      k        k          755   30   45 2c 3h 4c 7h  2d 3s Kd
+kena      800307728  7  7  f    Q      -      -        -          770    0    0 5c
+kena      800308021  7  5  c   +bc     k      c        KQ         770   50    0 Kh 8s 7c 5d
+kena      800309902  6  1 +Bk   f      -      -        -          720   10    0 4d 8s
+kena      800309937  7  5  f    -      -      -        -          710    0    0 Td
+kena      800310008  8  5  f    -      -      -        -          710    0    0 5c
+kena      800310113  8  3  c    b      b     +b       +b          710   80  170 5h Ad 3c Qs
+kena      800310217  8  7  f    -      -      -        -          800    0    0 Js
+kena      800310295  8  1 +Bk   kc     kcc   +b       +b          800  140  540 2d 3d 8d Kd  3h Qd 6c
+kena      800310478  8  6  f    -      -      -        -         1200    0    0 6h
+kena      800310533  8  1 +B    -      -      -        -         1200   10   10 6h
+kena      800310557  7  5  f    -      -      -        -         1200    0    0 Js
+kena      800310573  7  2  ccc  c      kc     kc       kf        1200   90    0 Jc 8c Kd 5c
+kena      800310682  7  7  c    c      cfQ    -        -         1110   40    0 Kd Qh Ts
+kena      801167720  4  1 +Bk   f      -      -        -         1070   10    0 6s Jd
+kena      801167752  4  3  f    -      -      -        -         1060    0    0 9s
+kena      801167766  4  4  cc  +k     +k     +kr      +b         1060   80   80 Jd 4s 2c 6h  2h 9s 6s
+kena      801167826  4  1 +Bf   -      -      -        -         1060   10    0 6c
+kena      801167853  4  1 +Bf   -      -      -        -         1050   10    0 2h
+kena      801167873  4  3  cf   -      -      -        -         1040   10    0 Ks
+kena      801167906  4  3  c   +b      k      k        r         1030   60   70 Qd Kc 8d 7d  Ad 6s Td
+kena      801167987  4  3  c    c      c      b        b         1040   90  135 Ah Tc 2s 6d  8c 7s 4c
+kena      801168055  4  3  c   +b     +b      -        -         1085   40   60 6h 6c 7h
+kena      801168101  4  3  r    -      -      -        -         1105   20   30 Qh
+kena      801168115  4  3  r    b      bc     c        c         1115  120  140 Ac 5h 2h 4d  2s 4s 8h
+kena      801168182  3  3  c   +k     +b      -        -         1135   30   40 Ah 4s 4c
+kena      801168214  3  2  f    -      -      -        -         1145    0    0 Ts
+kena      801168234  3  1 +Bk   k      kc    +kc      +b         1145   70   75 8c 7s Qh 8s  Kd Th Tc
+kena      801168285  4  3  c    k      k      c        f         1150   30    0 5h Kc 6s 8s
+kena      801168357  4  3  f    -      -      -        -         1120    0    0 4s
+kena      801168403  4  4  c   +k     +k     +k       +k         1120   10   20 Ks 9c 2d Ad
+kena      801168468  4  3  c    b     +b      b        c         1130   80    0 Qc 4d 4h 3d  Qs Jh Ac
+kena      801168522  4  1 +Bk   k      b      -        -         1050   30   40 4c 5d 2s
+kena      801168576  4  3  f    -      -      -        -         1060    0    0 8h
+kena      801168605  3  3  c    k      f      -        -         1060   10    0 Ac Td Qc
+kena      801168640  4  4  c   +bc    +b     +brrrrrrr +br        1050  410  415 Jh Qs Jd Qh  Qc 2d 3d
+kena      801168734  4  1 +Bk   b      b      k        b         1055   60  140 3d Qd 2s 4s
+kena      801168799  4  3  f    -      -      -        -         1135    0    0 8h
+kena      801168807  4  3  c    kf     -      -        -         1135   10    0 3c Jd
+kena      801168886  4  3  c   +k      c     +kcc     +kf        1125  110    0 Qc Ks 4s Ac
+kena      801168957  4  1 +Bk   k     +k      k        k         1015   10    0 2c Td 2d 8c  9d 4d As
+kena      801168996  4  4  f    Q      -      -        -         1005    0    0 Ad

@@ -1,0 +1,9 @@
+irctester 801186543  2  1 +Bk   Q      -      -        -         1000   10    0 9c 8h
+irctester 801186756  2  2  f    -      -      -        -          990    0    0 3d
+irctester 801186904  2  1 +B    -      -      -        -          990   10   10 2c
+irctester 801187097  2  1 +Bk  +k     +k      k        k          990   10    0 2c As 9h 3s  Kc Th 7h
+irctester 801187128  2  1 +B    -      -      -        -          980   10   10 2h
+irctester 801187381  2  2  f    -      -      -        -          980    0    0 Ad
+irctester 801187630  2  2  f    -      -      -        -          980    0    0 7h
+irctester 801187640  2  2  c    c      k      k        k          980   20   40 Qh 5c 4h 5d  Qc 5s 7s
+irctester 801187677  2  1 +BQ   -      -      -        -         1000   10    0 8c

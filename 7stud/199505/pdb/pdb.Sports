@@ -1,0 +1,304 @@
+Sports    799447405  6  3  f    -      -      -        -         1285    0    0 3c
+Sports    799447469  7  2  f    -      -      -        -         1285    0    0 6c
+Sports    799447508  7  3  f    -      -      -        -         1285    0    0 8h
+Sports    799447660  7  1 +Bc  +kc    +kc    +k       +kf        1285   50    0 2s Ah Kc 3h
+Sports    799447809  8  6  f    -      -      -        -         1235    0    0 Th
+Sports    799447885  7  3  cc   c      f      -        -         1235   30    0 4s Kd 5s
+Sports    799447987  6  6  c    b      -      -        -         1205   20   30 8c 7s
+Sports    799448058  5  1 +Bk  +k     +k     +b        -         1215   30   40 3d Kc Ah 2c
+Sports    799448107  5  1 +B    -      -      -        -         1225   10   10 6d
+Sports    799448116  5  3  f    -      -      -        -         1225    0    0 Jd
+Sports    799448153  5  3  c    r     +b     +b       +k         1225   70  140 9h 8h Ad 8c
+Sports    799448247  6  2  c    c     +k     +b       +b         1295   60   60 3d 4d As Ts  Td 6c 5h
+Sports    799448328  6  5  f    -      -      -        -         1295    0    0 Jc
+Sports    799448362  6  4  c    f      -      -        -         1295   10    0 6h 3d
+Sports    799448440  6  6  f    -      -      -        -         1285    0    0 Td
+Sports    799448471  6  3  c    k      kc    +kc      +k         1285   50    0 4c 2h Tc Ac  Qs Th 3h
+Sports    799448581  6  2  Q    -      -      -        -         1235    0    0 Qd
+Sports    799449973  8  2  cc  +kc     kc    +kc      +kc        1235   90    0 3d Qh 2c Th  Ah 5h 5d
+Sports    799450078  8  4  c    c      cc     k        b         1145   90  135 7s 4c 4d 5d  6d 2c Tc
+Sports    799450302  7  5  f    -      -      -        -         1190    0    0 Qs
+Sports    799450412  7  4  f    -      -      -        -         1190    0    0 9d
+Sports    799450547  6  1 +Bc   f      -      -        -         1190   20    0 2c Jc
+Sports    799450785  6  3  cc   k      c      k        f         1170   50    0 Jh 5d Qd 3c
+Sports    799451134  4  2  Q    -      -      -        -         1120    0    0 9d
+Sports    799533886  8  5  c   +kc    +k      c        f         1120   40    0 8h Jc 2d Qs
+Sports    799533980  8  3  c   +kf     -      -        -         1080   10    0 9h Js
+Sports    799534176  8  3  c    cc     c      c        f         1070   70    0 8h Th 7c 9d
+Sports    799534302  8  4  f    -      -      -        -         1000    0    0 Td
+Sports    799534421  8  3  f    -      -      -        -         1000    0    0 Kh
+Sports    799534440  7  2  c    c      f      -        -         1000   20    0 Kd 9c Qh
+Sports    799534670  8  4  cc   c     +kc    +kc      +kc         980  100    0 3s 6h 6c Td  Ac Th 7c
+Sports    799534873  8  7  c   +kc    +kc    +kc      +kc         880  110  200 7c 7h 2d 5s  Ah 8d Ks
+Sports    799535017  7  5  c   +kc    +kc    +kc      +b          970   80   90 Ac Qd Jd 7s  5s 6s 3h
+Sports    799535133  6  4  c   +kc    +k     +b        -          980   40   60 Jc Ts Kd Ks
+Sports    799535206  6  3  c    c      c      c        f         1000   60    0 7c 3h 5c Jc
+Sports    799535287  7  2  cc   c      r     +b       +b          940  110  250 8h 9d Ts 9h  9c 9s Js
+Sports    799535406  8  1 +B    -      -      -        -         1080   10   10 3h
+Sports    799535432  8  4  cc   c      ccc    kcc     +bcc       1080  280    0 Js Qh Ah 6s  Kh 9c Tc
+Sports    799535757  8  5  f    -      -      -        -          800    0    0 8d
+Sports    799535896  8  5  f    -      -      -        -          800    0    0 Jc
+Sports    799536015  8  4  c   +kc    +k     +kc      +k          800   40   40 3h 9d 7h Qh  Ts 6s 5d
+Sports    799536096  8  3  c   +kc     kc    +kc      +k          800   60  140 Qc 8h 6d 3h  2s 3s Qd
+Sports    799536288  8  7  f    -      -      -        -          880    0    0 7d
+Sports    799536376  8  3  c   +b      -      -        -          880   20   30 2d Kc
+Sports    799536423  8  5  c   +k      c     +k       +kr         890   90  270 7c Kc Td 7s  Kd Ks 3h
+Sports    799536533  8  4  c    k     +b      -        -         1070   30   40 8c 3c 8d
+Sports    799536618  8  3  c   +k     +k     +kc      +kf        1080   30    0 Td Kc 6c 5c
+Sports    799536804  8  4  f    -      -      -        -         1050    0    0 Ts
+Sports    799536844  7  1 +Bc   c     +kc    +kc      +kc        1050   90  180 4h 3h Kh Qd  8h 8s 2d
+Sports    799536920  7  3  c   +k     +kc    +kc      +k         1140   50    0 5c 5h Kc 7d  8d Jc As
+Sports    799537042  7  4  cc  +kQ     -      -        -         1090   20    0 Jh Qc
+Sports    799616383  6  2  c   +k     +b      b        bc        1070   90    0 Ad 5s 4h 8h  Kc 6d Qc
+Sports    799616522  5  4  r   +b      -      -        -          980   30   60 Ad Qd
+Sports    799616561  5  4  c    k      k      c        k         1010   30    0 8c 2c 7d 4d  9s Kd Jh
+Sports    799616618  5  5  f    -      -      -        -          980    0    0 Kd
+Sports    799616706  6  5  f    -      -      -        -          980    0    0 Kc
+Sports    799616811  6  3  f    -      -      -        -          980    0    0 Qd
+Sports    799616883  6  1 +Bk  +kc     c     +k       +kf         980   40    0 4c 9s 5h Ks
+Sports    799617003  7  5  c    b      b      bc       r          940  120  120 5d 7c 3c Jd  2c 6c 3d
+Sports    799617177  5  3  f    -      -      -        -          940    0    0 Ad
+Sports    799617373  6  5  cc  +b     +b      c        r          940  110  290 Ac 7c 5h 4d  5c 5d 5s
+Sports    799617521  5  3  r   +kc    +k      k        c         1120   50  120 Kc Jh 7d 9d  Qs 9h Qc
+Sports    799617669  5  1 +Bf   -      -      -        -         1190   10    0 2c
+Sports    799617738  5  3  f    -      -      -        -         1180    0    0 Js
+Sports    799617762  6  4  cc   c      c      c        kf        1180   80    0 5d 4d Kd Qs
+Sports    799617879  6  6  c    c      c      c        c         1100   90    0 Jd 7c 2d 3c  Jh Ks 7d
+Sports    799618005  8  1 +Bf   -      -      -        -         1010   10    0 3h
+Sports    799618065  8  8  c    f      -      -        -         1000   10    0 Ts Qd
+Sports    799618179  8  8  Q    -      -      -        -          990    0    0 7c
+Sports    799618375  7  7  f    -      -      -        -          990    0    0 Jh
+Sports    799618397  7  3  cc   k      c      c        c          990   80    0 6c 2d As 3d  3s Ks 9d
+Sports    799618495  8  2  cc   k     +kc    +k       +k          910   40  100 Kh 3s Ad 6s  4s Js Jd
+Sports    799618603  8  2  f    -      -      -        -          970    0    0 7d
+Sports    799618760  8  1 +Bc   kc     bc     c        c          970  110  125 4c 3d 8s Td  8d 3c Ts
+Sports    799618874  8  1 +Bc   c      b      b        b          985   90  180 6c 4s 3s Tc  4c 2h 2c
+Sports    799618948  8  2  f    -      -      -        -         1075    0    0 6d
+Sports    799619033  8  8  c    c     +kc    +bcc     +kr        1075  170  320 9s Qs Qc 6s  Ks 9d 9c
+Sports    799619184  7  2  c    k      b     +b       +b         1225   70  130 4c Kd 5h 3h
+Sports    799619271  7  4  f    -      -      -        -         1285    0    0 Ks
+Sports    799619371  7  7  c   +kc    +kc     kcc      f         1285  130    0 Ad Jh 7d Qh
+Sports    799619524  7  2  f    -      -      -        -         1155    0    0 Kc
+Sports    799619638  8  4  f    -      -      -        -         1155    0    0 5d
+Sports    799619729  7  6  f    -      -      -        -         1155    0    0 4c
+Sports    799619847  8  7  c    c      c      f        -         1155   40    0 9h 5d 2c Tc
+Sports    799619932  8  2  f    -      -      -        -         1115    0    0 Js
+Sports    799619998  8  7  c   +k      c      cc       kr        1115  110  255 Js Ah 2d 2s  6s 3h 5d
+Sports    799620240  8  4  cc   c      b      r        k         1260   90  105 7d 2h 6c 5c  Th 3d Ad
+Sports    799620354  8  5  c    k      k      k        b         1275   30   50 6c 2s Jc Js
+Sports    799620507  8  1 +Bk   kc     b      bc       kc        1295  100    0 6h 4s 6s 7c  4d 8d 3d
+Sports    799620682  8  1 +Bf   -      -      -        -         1195   10    0 2s
+Sports    799620921  6  1 +Bc   c      c      c        f         1185  110    0 3s 4c 5h Ks
+Sports    799621106  5  2  c    k      kc    +k       +b         1075   50   90 6h 4d Kd Kc
+Sports    799621191  5  5  r   +b     +bc     c        c         1115  110  330 Tc Ts 3h Ad  Jd Js Qs
+Sports    799621349  5  2  cc   c      c      c        rc        1335  130  175 Td As 8c Qs  5s Ts 8s
+Sports    799621567  4  4  rc   c      c      c        k         1380   80  100 6h Th 3s 7c  Ad Ah Jh
+Sports    799621674  6  1 +Bk   kc    +kc    +kc      +kr        1400  100  220 3c 8s Jd 3s  5h 3d 5s
+Sports    799621829  6  2  Q    -      -      -        -         1520    0    0 Qs
+Sports    799693095  5  2  c    c     +b     +b       +bc        1520  100    0 7h Td Ts 5s  4d 4h 5d
+Sports    799693175  5  5  c    c      k      b        b         1420   70  100 9s 5d 3d 6s  5c 7h Ah
+Sports    799693257  5  3  cc   c      c      r        b         1450  110  220 Jd 8s 4s 2h  Ah Ac 5d
+Sports    799693394  7  7  c    c      c      c        f         1560   80    0 9c Th 4d 2h
+Sports    799693549  7  5  c    c      c      c        f         1480   80    0 9d Qh 5c 3h
+Sports    799693762  7  3  c    b      b      b        b         1400   80   95 7d 5c Tc 8h  4d Jh 2c
+Sports    799693897  8  6  c   +kc    +bc    +bc      +kc        1415  140    0 6s 6h 6d Qh  Kd 7d As
+Sports    799694235  6  1 +Bk   k      c      k        k         1275   30   45 2c 7d 4d 7s  4s Ks Jh
+Sports    799694345  8  3  cc   cc     c      cf       -         1290   80    0 6c 3c Jc Ks
+Sports    799694639  7  4  cc   c     +br    +b       +b         1210  130  155 Kc 7h Kh 7c  6d 3c Ks
+Sports    799694744  7  5  c   +b      c      c        k         1235   60    0 Ac 5s 9c 3s  Jh Kc 2h
+Sports    799694812  6  5  f    -      -      -        -         1175    0    0 Jc
+Sports    799694884  7  6  c    c      c      k        f         1175   50    0 Kc Ah 2d 7s
+Sports    799695101  6  3  f    -      -      -        Q         1125    0    0 8s
+Sports    799967010  7  5  c    c      b      b        b         1125   90  110 5s 6d 8s Jd  Th Ah 2d
+Sports    799967174  4  3  r    c      k      f        -         1145   30    0 Ah 6d 5s 8h
+Sports    799967264  5  3  c   +k     +kc    +k       +k         1115   30    0 4s Ac Jd Qd  9s 5s Tc
+Sports    799967361  4  4  c   +b      c      c        r         1085  110    0 Tc Ac 4d Jh  Ad 6d 3d
+Sports    799967420  4  3  c   +b     +b      -        -          975   40   60 Ad 6d Ah
+Sports    799967454  5  3  f    -      -      -        -          995    0    0 3d
+Sports    799967520  4  1 +Bc   c      c      c        c          995   90    0 2s Jh 3d 3c  9d Td 3s
+Sports    799967587  4  3  cc   c     +bc    +kc      +kc         905  110    0 Kd 3d Kc 7d  Ts 9h Ah
+Sports    799967744  4  3  c   +kc    +k     +b       +b          795   60   60 6s 6d 3d 5h  7c 8s Kh
+Sports    799967804  4  2  c   +b     +b     +k       +kc         795   60    0 Kh Ah Jh 6c  Qd 8s 8c
+Sports    799967855  4  2  cc   b     +b     +b       +bc         735  110    0 8c 6s 6h 3c  As Qs Qc
+Sports    799968103  6  3  r    r      b      b        b          625  100  210 As 5h Js 6d  4h Ac Ah
+Sports    799968220  6  3  f    -      -      -        -          735    0    0 Th
+Sports    799968273  6  3  Q    -      -      -        -          735    0    0 3s
+Sports    799968566  6  3  f    -      -      -        -          735    0    0 9c
+Sports    799968600  5  2  c    c      c      c        c          735   90  140 4s 2d 4h Ks  Th Ts Js
+Sports    799968811  5  3  f    -      -      -        -          785    0    0 9s
+Sports    799968859  5  3  f    -      -      -        -          785    0    0 5c
+Sports    799968913  5  3  c    kc    +kf     -        -          785   20    0 9c 2d Kh
+Sports    799969020  5  2  cc   c      c      cc       kf         765   90    0 Jc Kc 4s 4d
+Sports    799969201  6  1 +Bk   k      c      c        f          675   50    0 3d 2d 9c Qh
+Sports    799969502  5  3  f    -      -      -        -          625    0    0 Kc
+Sports    799969627  5  4  cc   c      k      k        kQ         625   30    0 4h Kd 6c Qs
+Sports    800052906  3  3  c   +k     +k      k        k          595   20    0 Jd 2s 3c 6h  5s Qs Kc
+Sports    800052964  4  1 +Bk   b     +b     +b       +k          575   60   60 9d 4c 9c Ac  6s Kd 5s
+Sports    800053036  4  1 +Bf   -      -      -        -          575   10    0 4d
+Sports    800053083  4  3  c    k      b     +b       +b          565   70  150 8c Jh Ah Jd  7s Ac 5s
+Sports    800053218  4  4  f    -      -      -        -          645    0    0 Jh
+Sports    800053272  4  3  c   +k     +kf     -        -          645   10    0 8c 4h Kh
+Sports    800053358  4  4  c   +k      k      k        k          635   10   20 Kc Tc Qh 8d  6d 6s 4h
+Sports    800053466  5  3  c    c      c      c        c          645   80   90 7s Tc 2h Jh  5s Th 6d
+Sports    800053583  5  5  f    -      -      -        -          655    0    0 4d
+Sports    800053681  4  1 +B    -      -      -        -          655   10   10 9c
+Sports    800053708  4  2  cc  +kcc   +kf     -        -          655   60    0 7s 7c Kc
+Sports    800053822  4  1 +Bk   c      c     +kc      +kc         595   80   85 2c 5d 9d 5s  9s 8d 8h
+Sports    800053910  4  1 +Bc   c      c      b        b          600  100  300 4h 6c 2d Ac  5s 3h Ts
+Sports    800054099  4  2  c   +k     +bc    +b       +b          800   90   95 Ac Ts Td Ad  5h Js 3h
+Sports    800054182  4  3  c    c     +k      c        k          805   50    0 Qs Jh Ad 5h  6s 7d As
+Sports    800054229  4  4  c    b      -      -        -          755   20   30 6s 8d
+Sports    800054258  4  4  c   +k     +b     +b       +b          765   70  120 8c Qh 7h Ah
+Sports    800054319  4  1 +Br  +k      c      b        b          815   80   80 3s Kc 7c 8s  As 4d Tc
+Sports    800054482  3  1 +B    -      -      -        -          815   10   10 8c
+Sports    800054483  3  2  Q    -      -      -        -          815    0    0 Td
+Sports    800218809  8  2  c    kc     c      f        -          815   40    0 5h Th 2d 4d
+Sports    800218913  8  7  f    -      -      -        -          775    0    0 4s
+Sports    800218999  8  6  c    k     +k     +k       +b          775   30  120 Tc 5c 5h 8d  5s Kc 3s
+Sports    800219233  8  3  c   +b     +b      c        c          865   80  230 Js Ah 5d 4c  Kd Kc Ac
+Sports    800219325  8  7  f    -      -      -        -         1015    0    0 8d
+Sports    800219434  8  5  f    -      -      -        -         1015    0    0 Qd
+Sports    800219474  7  2  f    -      -      -        -         1015    0    0 Ts
+Sports    800219563  8  2  cc   kc     kc     k        b         1015   70  145 7s Qh 5s 9h  9c 9d 8s
+Sports    800219744  8  4  cc   kf     -      -        -         1090   20    0 4d Qs
+Sports    800219882  7  2  cc   f      -      -        -         1070   20    0 4h Ts
+Sports    800219998  7  6  rc  +br     bc     kc       k         1050  120  460 Qs Ac 6d Td  Qh 4d Ah
+Sports    800220310  6  3  r   +b      -      -        -         1390   30   50 Kd 7h
+Sports    800220338  6  1 +Bk   f      -      -        -         1410   10    0 3c Jc
+Sports    800220462  8  1 +Bk   cf     -      -        -         1400   20    0 2d 8s
+Sports    800220671  7  4  c    bc    +kc    +k       +k         1380   50    0 4h 7c 7s Kh  6s 9s 2d
+Sports    800220784  8  6  c   +bc    +kc    +kc      +kc        1330   90    0 Kc Ad 4s 9h  5d Kd 8c
+Sports    800221058  5  1 +Bk   b      b      r        k         1240   80   80 7s 4s 2h Ad  9c Td 6c
+Sports    800221227  5  3  c    b      b     +b       +b         1240   80  220 7s Td 8d Ah  Ts 7c 7h
+Sports    800221401  5  2  f    -      -      -        -         1380    0    0 9s
+Sports    800221451  5  1 +Bk   cc     kc     kf       -         1380   50    0 4s Kd Tc 5h
+Sports    800221551  5  1 +B    -      -      -        -         1330   10   10 2s
+Sports    800221647  4  1 +B    -      -      -        -         1330   10   10 2h
+Sports    800221677  4  4  c    k      k     +b        -         1330   30   40 Tc 8h Jh Js
+Sports    800221763  4  3  c    b      -      -        -         1340   20   30 Jc 8c
+Sports    800221792  4  3  c   +k     +b     +k       +b         1350   50   80 8h Jc 8d As
+Sports    800221941  4  3  c    c      c     +b        -         1380   60  100 7c 3h Jh Jd
+Sports    800222034  5  5  c   +b      bc     k        c         1420   80   90 7h Ah 9c 5h  6c 5s 8d
+Sports    800222208  4  1 +Bk  +b      b      k        c         1430   60    0 3c As 6c 9h  Qh Qc 8d
+Sports    800222380  4  2  c   +k      k     +kc      +kc        1370   50   50 6d 8c Js 6h  Qc 4h 2s
+Sports    800222549  4  4  f    -      -      -        -         1370    0    0 7c
+Sports    800222577  5  5  c    kc    +kc    +k       +k         1370   40   50 7d 8d 7s Qd  5c 6c 2c
+Sports    800222702  5  3  cc   c      c      c        c         1380  120    0 7c Tc As Qs  4h 6c Ad
+Sports    800222907  5  3  f    -      -      -        -         1260    0    0 8c
+Sports    800223125  6  1 +Bf   -      -      -        -         1260   10    0 4s
+Sports    800223337  6  4  f    -      -      -        -         1250    0    0 7c
+Sports    800223401  7  2  cc   c      k      c        f         1250   50    0 Ts 7s Qd 8s
+Sports    800223549  7  5  c   +b      -      -        -         1200   20   30 As 4s
+Sports    800223714  8  7  c    f      -      -        -         1210   10    0 5c Ks
+Sports    800223798  8  6  c    k      kc    +k       +k         1200   30    0 9s 6d Qs Kc  4h Jh Qd
+Sports    800223991  8  3  f    -      -      -        -         1170    0    0 Jd
+Sports    800224017  8  5  c    b      b      r        k         1170   80    0 3s 2h 4d Kc  Ad 4s 9s
+Sports    800224143  8  2  f    -      -      -        -         1090    0    0 5h
+Sports    800224230  8  2  c    kc     k      c        f         1090   40    0 3h Qh 6c Td
+Sports    800224361  8  7  f    -      -      -        -         1050    0    0 7h
+Sports    800224487  8  8  f    -      -      -        -         1050    0    0 9d
+Sports    800224634  8  5  f    -      -      -        -         1050    0    0 3c
+Sports    800224693  8  3  f    -      -      -        -         1050    0    0 Qh
+Sports    800224823  8  4  f    -      -      -        -         1050    0    0 6h
+Sports    800224944  8  4  c    c     +kc     c        k         1050   60  130 7s 2c 5s 6d  8d Js 9s
+Sports    800225002  7  6  c   +kc    +kc    +k       +k         1120   40   50 Kc 9h 3c 2h  Ah Tc Ts
+Sports    800225083  6  2  f    -      -      -        -         1130    0    0 Jc
+Sports    800225108  5  2  f    -      -      -        -         1130    0    0 6h
+Sports    800225156  5  2  f    -      -      -        -         1130    0    0 4d
+Sports    800225209  5  1 +Bc   c      c      f        -         1130   50    0 2s Tc 4h Jd
+Sports    800225319  7  3  cf   -      -      -        -         1080   10    0 4c
+Sports    800225514  7  1 +Bc   c     +kc    +brc     +b         1070  160  480 2s 7s 7d Qc  Th Qs Ac
+Sports    800225660  8  1 +Bc   c      c      c        k         1390   70  140 3c 2h 2s Ks  Qd Td 3d
+Sports    800225754  8  5  Q    -      -      -        -         1460    0    0 5d
+Sports    800312019  6  1 +Bc  +kc    +kc     c        c         1460   90  180 3d Js 6c 8h  Kd 6h Jd
+Sports    800312067  6  4  c    k     +b      -        -         1550   30   50 3s 4c 3d
+Sports    800312107  6  5  c    k      k      k        bc        1570   50   55 Tc 2s 6h 9h  Jc 8s Qs
+Sports    800312196  6  2  cc   kc     c      c        k         1575   70    0 7c 3c Td Qs  6s 5d 7h
+Sports    800312278  6  4  f    -      -      -        -         1505    0    0 Th
+Sports    800312291  6  1 +Bc   c      c      f        -         1505   50    0 3c 4c Ts Kh
+Sports    800312344  6  4  r    -      -      -        -         1455   20   30 Th
+Sports    800312364  6  3  c   +b      -      -        -         1465   20   30 Ad Qd
+Sports    800312396  5  2  cc   kc     c     +kc      +k         1475   70    0 4c 8c 9s As  Js 2h Qh
+Sports    800312514  5  5  f    -      -      -        -         1405    0    0 8c
+Sports    800312554  5  4  c   +k      b     +b        -         1405   50   90 Qd 6d 5c 5d
+Sports    800312630  5  1 +BQ   -      -      -        -         1445   10    0 4c
+Sports    800312786  6  2  cc   c      k      k        k         1435   30    0 Jh 9d 7h 2s  3d Ah 3s
+Sports    800312849  5  1 +Bk   c      c      c        f         1405   60    0 6d 3d 4c Ts
+Sports    800312921  5  2  cc  +kc     f      -        -         1345   30    0 Tc Kh 2s
+Sports    800312989  5  1 +Bk   f      -      -        -         1315   10    0 2h Ts
+Sports    800313051  5  3  c    c      k      f        -         1305   20    0 6s 2d Ks Qc
+Sports    800313123  5  4  c   +k     +b     +b       +b         1285   70   80 Ah 7s Qs 3s  6s Kd 2c
+Sports    800313180  5  3  f    -      -      -        -         1295    0    0 4c
+Sports    800313210  5  2  f    -      -      -        -         1295    0    0 Ks
+Sports    800313278  5  2  c    c     +b     +bc      +kc        1295  100    0 Kc 9h Kh 7d  3d 2c 5s
+Sports    800313331  4  3  Q    -      -      -        -         1195    0    0 Ks
+Sports    800832091  4  1 +Bc   c      c      c        c         1195   90   90 9h Jh 7s Kd  8d 8s Td
+Sports    800832158  5  4  f    -      -      -        -         1195    0    0 9d
+Sports    800832231  5  2  f    -      -      -        -         1195    0    0 Tc
+Sports    800832306  5  3  f    -      -      -        -         1195    0    0 Jd
+Sports    800832343  5  2  cc  +br     r     +b       +b         1195  130  240 4h 4s Jd 4d
+Sports    800832428  5  5  f    -      -      -        -         1305    0    0 9c
+Sports    800832480  5  3  f    -      -      -        -         1305    0    0 Jc
+Sports    800832554  5  3  c    b      -      -        -         1305   20   30 2d 4d
+Sports    800832601  5  1 +Bk   b      c      c        c         1315   80    0 6h 4s Jh Ad  As Th 8d
+Sports    800832729  6  3  c    c      c      c        b         1235   80  180 Qc 6h 9c Ah  Ac 2d Ad
+Sports    800832836  6  4  f    -      -      -        -         1335    0    0 Kd
+Sports    800832856  6  5  f    -      -      -        -         1335    0    0 3d
+Sports    800832976  6  2  cc   c      b      -        -         1335   50  120 Jd 5d 7d
+Sports    800833087  8  7  c   +k      kc     k        k         1405   30    0 Ac 9d 2s 7c  Th 9h 4d
+Sports    800833197  7  5  cc   c      r      b        b         1375  110  140 8d 7h 5h Js  4h 7s 2h
+Sports    800833399  8  3  c    c      f      -        -         1405   20    0 8s Qd 9s
+Sports    800833477  8  3  c    c      kc     f        -         1385   40    0 As Td 9s 3c
+Sports    800833622  8  1 +Bk   c     +kc    +kc      +b         1345   90  125 3h Kd Kc 5d  6d Ah 7d
+Sports    800833724  8  6  c    k      c      c        k         1380   50    0 9h 2c 7s 5s  7c Ks 5c
+Sports    800833834  8  8  c   +k     +k     +k       +kf        1330   10    0 Kd 6h Jd 9c
+Sports    800833954  8  5  cc  +kc     c      c        c         1320   90    0 4c Js 2h 7h  3s Jc 3h
+Sports    800834115  8  5  c   +bc    +kc    +b       +b         1230   90  310 6h 6d 3s 6s
+Sports    800834230  8  6  c   +k     +bc    +k       +k         1450   50  150 6h Js Jh Qh  3s 7d 4h
+Sports    800834324  8  1 +Bk  +b     +b     +b       +b         1550   80   90 3c As Ah 4c  Qh 2s Jc
+Sports    800834502  8  6  c    c      c      cc       bc        1560  150  640 4c Tc Ac 6d  6c 7c Ah
+Sports    800834631  8  8  f    -      -      -        -         2050    0    0 3s
+Sports    800834720  8  8  f    -      -      -        -         2050    0    0 Qs
+Sports    800834793  8  7  c    c      k      c        f         2050   50    0 3s 4d 2s Td
+Sports    800834919  8  4  f    -      -      -        -         2000    0    0 5d
+Sports    800834957  8  3  f    -      -      -        -         2000    0    0 9c
+Sports    800835134  8  7  c    k      f      -        -         2000   10    0 Td Qh 4c
+Sports    800835338  7  1 +Bk   c      r      b        b         1990  100  200 3c 7s 4h 9h  6d Tc 5s
+Sports    800835410  7  7  c   +kc     c      b        -         2090   60  100 9h 4d 8h 5c
+Sports    800835503  7  2  Q    -      -      -        -         2130    0    0 Kc
+Sports    801346206  2  2  r   +b     +b     +bc      +kc        2130  110    0 Jd Qc 9d Td  7d Qh Qd
+Sports    801346270  2  1 +B    -      -      -        -         2020   10   10 Ts
+Sports    801346281  2  1 +Bc  +kc    +k     +kc      +kc        2020   70    0 Qd Qs 4d 6d  3d Ts Kc
+Sports    801346348  2  2  f    -      -      -        -         1950    0    0 Th
+Sports    801346366  2  2  c   +b      -      -        -         1950   20   30 Qc Th
+Sports    801346421  2  1 +Bc   c      c      Q        -         1960   50    0 6d 9s 8d Kc
+Sports    801347473  3  3  cc  +bc     c      c        c         1910  100  100 Kh Ac 8c 4h  7s 2c 3h
+Sports    801347543  3  1 +BQ   -      -      -        -         1910   10    0 8c
+Sports    801348166  4  2  f    -      -      -        -         1900    0    0 Kc
+Sports    801348219  5  4  cc  +kc    +k     +b       +b         1900   70   70 7c Ah 3c 7s  9d Qh 7h
+Sports    801348302  6  5  cQ   -      -      -        -         1900   10    0 4h
+Sports    801348854  7  1 +Bk   k      kc     bc       k         1890   70  110 2s 9s 4c 8s  Jd 6c As
+Sports    801348975  6  1 +Bc   k      b     +b       +b         1930   80   90 5c 8h 2s As  Ad Ts 3s
+Sports    801349106  5  4  c   +kc    +b      b        c         1940   90    0 5c 5h As 2s  2h 7h Qd
+Sports    801349238  7  1 +Bk   f      -      -        -         1850   10    0 2d Th
+Sports    801349311  7  2  Q    -      -      -        -         1840    0    0 Jc
+Sports    801349384  6  4  r    c      b      b        k         1840   70   75 Ad 2s 4c 9d  9s 5d Td
+Sports    801349460  6  4  c    k      f      -        -         1845   10    0 9c 8h Ks
+Sports    801349610  6  6  c    c      k      c        c         1835   80    0 8d 2d 3h Ts  Ac 6h 8s
+Sports    801349735  6  6  f    -      -      -        -         1755    0    0 5d
+Sports    801349830  7  7  f    -      -      -        -         1755    0    0 4h
+Sports    801349909  7  5  f    -      -      -        -         1755    0    0 3h
+Sports    801349996  7  6  c   +kc     c      b        k         1755   80  120 Jh 3d 3c 8s  3h Th 5s
+Sports    801350157  6  1 +Bk   b     +b     +bcc     +kc        1795  120  180 2c 7s Kd 3s  6d 5s 6s
+Sports    801350321  6  4  c   +kc    +kc    +b       +b         1855   80   80 Qh 6h Kd 2d  4d 8d 5d
+Sports    801350471  6  5  f    -      -      -        -         1855    0    0 7d
+Sports    801350517  5  4  r   +b     +b     +b       +b         1855   90  190 Ac As Ks 9h  Ad 6d Tc
+Sports    801350606  5  3  f    -      -      -        -         1955    0    0 Qc
+Sports    801350673  5  5  cc   kc     r     +b       +b         1955  110  290 9h 4c 3d 9s  3c 5d 3h
+Sports    801350771  5  5  c    k      k     +b       +-         2135   30   70 9s Td 8h 8s
+Sports    801350896  6  1 +Bk   c      c     +b       +b         2175   80  170 3h 4s 4c 3d  9h 9s 5s
+Sports    801350955  5  2  f    -      -      -        -         2265    0    0 8h
+Sports    801351049  4  3  c   +k     +k     +k       +kf        2265   10    0 Kc 7d Td Js
+Sports    801351141  4  2  r    r      b      k        c         2255   80    0 5d Th 6s 8c  Qd Qh 3c
+Sports    801351204  4  3  r   +bc     c      kf       -         2175   70    0 Qd 9c Ac 2d
+Sports    801351337  4  3  Q    -      -      -        -         2105    0    0 Kc

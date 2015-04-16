@@ -1,0 +1,319 @@
+murph     799534670  8  8  c    r      c      c        f          970   80    0 6s 8d 3d Qs
+murph     799534873  8  3  r    b      b      bc       kc         890  110    0 Qh 5h 4c 3d  4h Qs Tc
+murph     799535017  7  2  fQ   -      -      -        -          780    0    0 Js
+murph     799622560  8  5  f    -      -      -        -          780    0    0 4s
+murph     799622603  7  6  f    -      -      -        -          780    0    0 Kh
+murph     799622681  8  8  rc  +krc    c      c        f          780  110    0 Qh Tc 8c 6h
+murph     799622827  7  3  f    -      -      -        -          670    0    0 6c
+murph     799622922  7  4  f    -      -      -        -          670    0    0 9s
+murph     799623049  7  2  f    -      -      -        -          670    0    0 Qh
+murph     799623150  7  3  rc  +b     +b     +b       +br         670  150  155 Qh 3h Ah 2d  6d Qd 7c
+murph     799623239  7  5  f    -      -      -        -          675    0    0 9h
+murph     799623499  7  4  f    -      -      -        -          675    0    0 6h
+murph     799623567  7  3  f    -      -      -        -          675    0    0 Ah
+murph     799623656  7  1 +Bc   rc     cc     rc       kc         675  210    0 4d 3c Qc 7h  4s Qh 2d
+murph     799623881  7  3  f    Q      -      -        -          465    0    0 5h
+murph     799708503  8  5  f    -      -      -        -          465    0    0 Js
+murph     799708626  8  2  r    b      b      b        bc         465  110    0 Qh 5h 8h 7d  Jd Ah Qs
+murph     799708789  8  2  Q    -      -      -        -          355    0    0 4d
+murph     800054579  2  2  r    -      -      -        -          355   20   30 Qc
+murph     800054593  2  2  r    -      -      -        -          365   20   30 5s
+murph     800054596  2  1 +B    -      -      -        -          375   10   10 3s
+murph     800054606  2  1 +Bf   -      -      -        -          375   10    0 2c
+murph     800054615  2  2  r    -      -      -        -          365   20   30 Jc
+murph     800054619  2  1 +Bc   r      f      -        -          375   40    0 Jc 6c 7s
+murph     800054638  2  2  r    b      k      k        b          335   50   50 4c Ah 8s 5h  Ad 7d 9d
+murph     800054668  2  1 +Bc   c     +kf     -        -          335   30    0 4h 3d Ts
+murph     800054692  2  2  r   +b     +b      -        -          305   50   80 Jc 2s Kd
+murph     800054709  2  2  f    -      -      -        -          335    0    0 Tc
+murph     800054713  2  1 +Br   k      k     +b       +k          335   50  100 Td 3c 2s As  5d Ad Jh
+murph     800054751  2  2  r    -      -      -        -          385   20   30 Td
+murph     800054754  2  2  f    -      -      -        -          395    0    0 Kh
+murph     800054760  2  1 +B    -      -      -        -          395   10   10 Jh
+murph     800054767  2  2  f    -      -      -        -          395    0    0 Tc
+murph     800054770  2  2  r    -      -      -        -          395   20   30 Kc
+murph     800054782  2  1 +B    -      -      -        -          405   10   10 Tc
+murph     800054785  2  1 +Bf   -      -      -        -          405   10    0 4c
+murph     800054793  2  1 +Br   r      c      k        c          395   90   90 9d Qh 2s Td  8s Th Ac
+murph     800054826  2  1 +Bf   -      -      -        -          395   10    0 Qh
+murph     800054834  2  1 +Bf   -      -      -        -          385   10    0 7c
+murph     800054842  2  2  r   +b      -      -        -          375   30   50 Kc Ks
+murph     800054858  2  1 +Bf   -      -      -        -          395   10    0 5d
+murph     800054866  2  2  f    -      -      -        -          385    0    0 8s
+murph     800054870  2  1 +Bc   c     +b      k        b          385   70   70 2s 8h 8d 9h  4c 5c 3h
+murph     800054932  2  1 +B    -      -      -        -          385   10   10 6d
+murph     800054941  2  1 +B    -      -      -        -          385   10   10 3d
+murph     800054951  2  1 +B    -      -      -        -          385   10   10 5h
+murph     800054957  2  2  c    c      k      f        -          385   20    0 7h 2c Qc Jh
+murph     800054996  2  1 +Bf   -      -      -        -          365   10    0 9h
+murph     800055001  2  1 +Br   bc     b      r        k          355  110    0 7h 4d Ad 2h  Qh Kc Ac
+murph     800055057  2  1 +B    -      -      -        -          245   10   10 3s
+murph     800055065  2  2  r   +b     +k     +kc      +kc         245   70    0 Ts Jd 7c Ks  3d 3s Ah
+murph     800055103  2  1 +B    -      -      -        -          175   10   10 Kd
+murph     800055117  2  2  f    -      -      -        -          175    0    0 Jd
+murph     800055119  2  2  r    -      -      -        -          175   20   30 Kh
+murph     800055123  2  1 +B    -      -      -        -          185   10   10 3c
+murph     800055127  2  2  f    -      -      -        -          185    0    0 Kd
+murph     800055131  2  2  r    -      -      -        -          185   20   30 Ac
+murph     800055150  2  1 +Bc   k      r     +b        -          195   80  140 5d 2s Th 5c
+murph     800055181  3  3  f    -      -      -        -          255    0    0 5d
+murph     800055186  3  1 +Bf   -      -      -        -          255   10    0 4s
+murph     800055197  3  2  f    -      -      -        -          245    0    0 Qd
+murph     800055208  3  1 +Bf   -      -      -        -          245   10    0 2c
+murph     800055215  3  1 +Bc   c      c      c        f          235   70    0 2h 7s 4s Tc
+murph     800055271  3  2  Q    -      -      -        -          165    0    0 Kc
+murph     800149928  7  1 +Bc   k      c     +b       +k          165   60   90 3c 6h Qh As  8h 2s 3h
+murph     800150132  7  4  f    -      -      -        -          195    0    0 9c
+murph     800150206  7  3  r   +b     +b     +b       +b          195  100  280 Ah 7c Th 7s  9s 5c 7d
+murph     800150296  7  2  c    rc     c      c        f          375   90    0 7d 5h 9c Jh
+murph     800150409  6  2  f    -      -      -        -          285    0    0 Ad
+murph     800150505  6  2  f    -      -      -        -          285    0    0 8s
+murph     800150708  5  4  r   +kc    +b     +b       +kf         285   70    0 2d Qh 5c 9d
+murph     800150793  5  5  f    -      -      -        -          215    0    0 Qh
+murph     800150810  5  3  c    b      -      -        -          215   20   30 3d 8d
+murph     800150862  5  4  f    -      -      -        -          225    0    0 8c
+murph     800150945  5  3  f    -      -      -        -          225    0    0 As
+murph     800151025  6  1 +Bk  +kc    +kf     -        -          225   20    0 3h 7s 9h
+murph     800151084  5  5  r   +b     +b     +b        -          205   70  130 Ad 9c 6d Ac
+murph     800151156  5  2  f    -      -      -        -          265    0    0 8s
+murph     800151217  5  3  c   +k      f      -        -          265   10    0 7d Ks Qd
+murph     800151241  5  5  f    -      -      -        -          255    0    0 Js
+murph     800151339  5  4  f    -      -      -        -          255    0    0 Ac
+murph     800151364  4  2  f    -      -      -        -          255    0    0 Td
+murph     800151407  4  4  f    -      -      -        -          255    0    0 6h
+murph     800151433  4  3  f    -      -      -        -          255    0    0 9d
+murph     800151491  4  3  rc   b      bc     c        r          255  140  165 7h 6c 5s Qc  Qh 7s 7d
+murph     800151581  4  1 +Br   c      f      -        -          280   30    0 5s Jc 3h
+murph     800151653  4  3  f    -      -      -        -          250    0    0 Kh
+murph     800151711  4  3  f    -      -      -        -          250    0    0 5h
+murph     800151735  4  3  c   +b     +b      -        -          250   40   60 Td Ks Ah
+murph     800151776  4  3  f    -      -      -        -          270    0    0 5d
+murph     800151793  4  4  r    -      -      -        -          270   20   30 9h
+murph     800151813  4  3  c    f      -      -        -          280   10    0 7c Kh
+murph     800151833  4  4  f    -      -      -        -          270    0    0 8c
+murph     800151844  4  3  rc   f      -      -        -          270   40    0 Kd 6h
+murph     800151885  4  1 +Bk   c      k      b        -          230   40   60 3d 6d 4d 5s
+murph     800151955  3  1 +B    -      -      -        -          250   10   10 2d
+murph     800151961  3  2  f    -      -      -        -          250    0    0 Tc
+murph     800151979  3  1 +Br   b      k      f        -          250   30    0 3c Qd Js 5s
+murph     800152011  3  2  c   +b     +b     +b       +b          220   80   85 5h Kd Qd 7h  8s 2c 3s
+murph     800152064  2  1 +Br   b      k      r        k          225   70    0 5s 8h 3h 8d  9d 9h 2c
+murph     800152105  2  2  r    -      -      -        -          155   20   30 Ts
+murph     800152114  2  1 +B    -      -      -        -          165   10   10 8h
+murph     800152119  2  1 +Bk   k      k      c        f          165   30    0 5c 6h 9s 6c
+murph     800152152  2  2  r    c     +kc    +k       +k          135   50   50 Ah 8h Th Jc  7h 2d 2c
+murph     800152200  2  1 +Br   k      r     +kc      +kc         135  110    0 4c 3d Tc Ad  4d Kd Ts
+murph     800152247  2  2  r   +bA     -      -        -           25   25   50 As 6h  2c Ad 2s Qd Kh
+murph     800152265  2  1 +B    -      -      -        -           50   10   10 Jc
+murph     800152279  2  2  f    -      -      -        -           50    0    0 5d
+murph     800152283  2  1 +B    -      -      -        -           50   10   10 Jh
+murph     800152291  2  1 +Br  +b     +bA     -        -           50   50   50 9d 7s Jd  3c 3d 5d 3h
+murph     800152329  2  1 +Br   -      -      -        -           50   20   30 6s
+murph     800152341  2  1 +Br   c      cA     -        -           60   60  120 7s Td Kc  Kd 5s 7d 9d
+murph     800152358  2  1 +Br  +k     +b     +b       +b          120   80  160 5h 5d 2d Ad  6s 5c 6c
+murph     800152410  3  1 +Bk  +kr    +b     +kc      +k          200   70   70 3h Jh 8d Kh  3c 2d Jd
+murph     800152450  3  2  f    -      -      -        -          200    0    0 Kc
+murph     800152481  3  3  f    -      -      -        -          200    0    0 Ah
+murph     800152528  3  2  f    -      -      -        -          200    0    0 Js
+murph     800152573  3  1 +Br  +k      c      k        k          200   50   50 2h Qc 3c 5h  8d Ad 2c
+murph     800152611  3  3  c   +kc    +k     +b       +bc         200   90  105 As 3d 3s Jc  2c 4c 6h
+murph     800152661  3  2  f    -      -      -        -          215    0    0 Qh
+murph     800152671  3  2  r    b      b      b        b          215   90  180 7s 6s 5d Th  9s 8h 8s
+murph     800152711  3  3  r   +b     +k     +b       +b          305   70  140 9c Jc Qc Ac  4d 2s 7c
+murph     800152754  3  1 +Br   b      b      b        k          375   70    0 4h 6s 3s Qc  9h 2c 4s
+murph     800152810  3  2  r   +b     +kc     c        c          305   90    0 Kd 5h Qd Tc  8c 2h Kc
+murph     800152856  3  1 +B    -      -      -        -          215   10   10 8c
+murph     800152864  3  2  r    -      -      -        -          215   20   30 Jh
+murph     800152873  3  3  r   +b     +b      -        -          225   50   80 Th 6d 6s
+murph     800152893  3  2  f    -      -      -        -          255    0    0 2s
+murph     800152930  3  1 +B    -      -      -        -          255   10   10 6d
+murph     800152942  3  2  f    -      -      -        -          255    0    0 Jc
+murph     800153012  3  1 +Bk   c      k      k        f          255   20    0 4h 3s Ks 5c
+murph     800153049  3  1 +Bk  +k     +kf     -        -          235   10    0 3d Th Ks
+murph     800153105  3  2  f    -      -      -        -          225    0    0 Th
+murph     800153144  3  1 +Br   b      -      -        -          225   30   50 2h 7s
+murph     800153165  3  3  f    -      -      -        -          245    0    0 Ks
+murph     800153205  4  3  c    b      r      bc       c          245  120  300 6s 3c Js 2h  8c 3h 6d
+murph     800153286  4  4  c   +k     +b      -        -          425   30   50 8h Qs Qh
+murph     800153330  4  3  f    -      -      -        -          445    0    0 Qc
+murph     800153375  4  4  c    f      -      -        -          445   20    0 Ad 6s
+murph     800153395  4  4  f    -      -      -        -          425    0    0 Th
+murph     800153404  4  2  f    -      -      -        -          425    0    0 4d
+murph     800153435  4  4  c   +kf     -      -        -          425   10    0 Ac Td
+murph     800153515  4  4  r   +b     +b      -        -          415   50   90 Js 2s As
+murph     800153547  4  3  f    -      -      -        -          455    0    0 Kc
+murph     800153602  4  4  f    -      -      -        -          455    0    0 Jc
+murph     800153623  4  3  f    -      -      -        -          455    0    0 Jd
+murph     800153657  4  4  f    -      -      -        -          455    0    0 5s
+murph     800153699  4  4  r   +k     +b      -        -          455   50   90 Kc 3d 5c
+murph     800153736  4  2  f    -      -      -        -          495    0    0 5c
+murph     800153777  4  3  c    f      -      -        -          495   10    0 Qd 2d
+murph     800153845  4  3  r    -      -      -        -          485   20   30 8c
+murph     800153859  4  2  f    -      -      -        -          495    0    0 Ah
+murph     800153871  4  4  f    -      -      -        -          495    0    0 5h
+murph     800153913  4  4  c    f      -      -        -          495   30    0 8c Jh
+murph     800153973  4  2  f    -      -      -        -          465    0    0 Kc
+murph     800154029  4  3  r    b      -      -        -          465   30   80 2d 4d
+murph     800154098  5  5  f    -      -      -        -          515    0    0 8h
+murph     800154160  5  4  f    -      -      -        -          515    0    0 4d
+murph     800154238  6  5  f    -      -      -        -          515    0    0 7c
+murph     800154294  6  5  r    c      c      cf       -          515   70    0 As 7d Qc 2d
+murph     800154410  6  2  f    -      -      -        -          445    0    0 Qh
+murph     800154485  6  6  c    r      c      c        f          445   80    0 4c As 9s 3s
+murph     800154569  6  4  f    -      -      -        -          365    0    0 Tc
+murph     800154631  6  6  r   +b     +b     +b       +b          365   90   95 Js Jc 3d 3s  2h Qh Jh
+murph     800154692  6  5  r   +b     +b     +b       +b          370  100  120 As 7c Kc Jc  6c 8s 3d
+murph     800154761  6  5  rc  +br    +b     +b       +kc         390  130  310 Qh Qs 3h 2c  5h 4c Qc
+murph     800154852  6  1 +Bc   f      -      -        -          570   20    0 2s Kc
+murph     800154895  6  1 +Bk  +kc    +bc     k        k          550   60    0 4h 9h 4s Qc  6s 8h 3s
+murph     800154947  6  6  r    k      b      b        bc         490  110  160 7s Js 2s 8h  4h 8c 5d
+murph     800155064  6  6  r    c      k      kr      +k          540   80  110 Ah 9c Td 5d  8c Jc 5c
+murph     800155181  6  5  f    -      -      -        -          570    0    0 8h
+murph     800155241  6  2  r   +b     +b     +b       +b          570   90   95 Ac 5d 8h 3c  5c Tc 6d
+murph     800155282  6  6  f    -      -      -        -          575    0    0 7c
+murph     800155340  6  1 +BQ   -      -      -        -          575   10    0 5h
+murph     800220462  8  2  c    rc    +kc    +kc      +kc         565  100  185 9h Ts Ac 5c  7c As 9s
+murph     800220671  7  5  c    r      b      k        k          650   50    0 5s 2c 3c Js  7h Kd 5c
+murph     800220784  8  3  Q    -      -      -        -          600    0    0 Qh
+murph     800222577  5  2  f    -      -      -        -          600    0    0 Qh
+murph     800222702  5  5  c    r      r      b        b          600  120  200 6h 4c Ah Th  5s 7d Jc
+murph     800222907  5  5  c    b      b     +b        -          680   60  100 4c 2h Th 4s
+murph     800223125  6  2  Q    -      -      -        -          720    0    0 5s
+murph     800305919  4  2  f    -      -      -        -          720    0    0 9d
+murph     800316016  2  2  Q    -      -      -        -          720    0   10 Th
+murph     800317731  5  3  f    -      -      -        -          730    0    0 3s
+murph     800317786  4  3  f    -      -      -        -          730    0    0 Jd
+murph     800317867  4  4  r   +b     +b     +b       +b          730   90    0 Qc 2c Jd Jh  Ts Qh 4s
+murph     800317967  4  3  f    -      -      -        -          640    0    0 Tc
+murph     800317980  4  3  f    -      -      -        -          640    0    0 Tc
+murph     800318035  4  1 +Bk   k      f      -        -          640   10    0 5d Kh 4h
+murph     800318079  4  4  r   +b      -      -        -          630   30   80 8c Ah
+murph     800318113  4  4  rc   c     +b     +bc      +k          680  110  330 9s 6d 9d As  Qh Jc 9c
+murph     800318190  4  4  f    -      -      -        -          900    0    0 Qs
+murph     800318211  4  1 +Bk  +bc     r     +k       +b          900   90  105 3s As 5h 5d  7c 6d 9d
+murph     800318294  5  5  r    bc    +b     +b       +k          915   80  270 6h 8d 6s Ts  Ah 6c 5s
+murph     800318422  6  3  f    -      -      -        -         1105    0    0 9c
+murph     800318465  6  3  c    b      b      k        k         1105   40    0 8s 3h 7h Kc  8d Qh 4c
+murph     800318543  6  5  f    -      -      -        -         1065    0    0 7c
+murph     800318629  6  3  f    -      -      -        -         1065    0    0 Kh
+murph     800318680  5  5  r    b      b      k        k         1065   60  210 Jc Tc 8c Ah  Jh Qh Qd
+murph     800318792  5  5  f    -      -      Q        -         1215    0    0 9s
+murph     800730924  5  5  KQ   -      -      -        -         1395    0    0 8d
+murph     800745940  4  2  f    -      -      -        -         1395    0    0 6h
+murph     800746039  4  4  f    -      -      -        -         1395    0    0 9d
+murph     800746146  4  1 +Bc   c      r     +b       +k         1395   90   90 6s 5h 7h 6h  2c 7c 8h
+murph     800746188  4  3  f    -      -      -        -         1395    0    0 Kd
+murph     800746203  4  3  f    -      -      -        -         1395    0    0 Ks
+murph     800746248  4  4  f    -      -      -        -         1395    0    0 8c
+murph     800746265  4  1 +Bk  +b     +k     +k       +k         1395   20    0 7h 7s Qh 4d  9d Jd Kh
+murph     800746412  5  2  f    -      -      -        -         1375    0    0 6d
+murph     800746466  5  2  r    c      r     +bc      +bc        1375  150  155 5s Js 4c Jc  7d 2c 6h
+murph     800746532  5  4  f    -      -      -        -         1380    0    0 Qd
+murph     800746621  6  2  f    -      -      -        -         1380    0    0 Jh
+murph     800746715  7  6  f    -      -      -        -         1380    0    0 7s
+murph     800746838  7  3  f    -      -      -        -         1380    0    0 Ks
+murph     800746908  7  6  rc  +br     cf     -        -         1380  100    0 Ad 6d Jh
+murph     800747092  8  8  rc   rc     rc     kc       kc        1280  180  370 8d 5h 9d 6s  8s Th Tc
+murph     800747306  6  1 +Bk   b      k     +b       +k         1470   40    0 2d 3c Jc Ad  9c 4d 2h
+murph     800747389  6  4  f    -      -      -        -         1430    0    0 9d
+murph     800747404  6  4  f    -      -      -        -         1430    0    0 7s
+murph     800747421  6  1 +Bf   -      -      -        -         1430   10    0 2s
+murph     800747488  7  7  c   +b     +b     +kc      +k         1420   60    0 8d 6c Kh As  3c Tc 3d
+murph     800747591  6  2  rc   cr     rc    +b       +b         1360  190  360 6c 2h As 6d  9c 5d 4c
+murph     800748052  6  3  Q    -      -      -        -         1530    0    0 Ad
+murph     800753148  4  1 +Bf   -      -      -        -         1530   10    0 2d
+murph     800753190  4  1 +B    -      -      -        -         1520   10   10 2c
+murph     800753200  4  3  r    bc    +b     +b       +b         1520  100  190 7s 4s 7d 4c
+murph     800753265  3  2  f    -      -      -        -         1610    0    0 6h
+murph     800753301  3  1 +Bf   -      -      -        -         1610   10    0 2d
+murph     800753311  3  1 +Bf   -      -      -        -         1600   10    0 Qd
+murph     800753371  3  2  r    -      -      -        -         1590   20   30 Kh
+murph     800753411  4  2  c   +kr    +b      -        -         1600   50   80 5d 9c 8h
+murph     800753464  4  2  r   +b      -      -        -         1630   30   60 Qs Td
+murph     800753479  4  1 +B    -      -      -        -         1660   10   10 9h
+murph     800753501  4  4  f    -      -      -        -         1660    0    0 Kd
+murph     800753512  4  4  r    -      -      -        -         1660   20   30 8c
+murph     800753532  4  4  f    -      -      -        -         1670    0    0 5c
+murph     800753547  4  3  r    -      -      -        -         1670   20   30 5s
+murph     800753567  3  1 +Bf   -      -      -        -         1680   10    0 5s
+murph     800753596  4  2  r    r      r      rc       r         1670  180  275 4d 3c 8s Jh  4s 3h 3s
+murph     800753682  4  4  cc  +krc    c      c        f         1765   90    0 Th 2d 2c 4h
+murph     800753744  4  2  f    -      -      -        -         1675    0    0 Ks
+murph     800753788  4  2  f    -      -      -        -         1675    0    0 Kd
+murph     800753837  4  3  f    -      -      -        -         1675    0    0 Qh
+murph     800753876  4  4  f    -      -      -        -         1675    0    0 3h
+murph     800753900  4  3  f    -      -      -        -         1675    0    0 9s
+murph     800753939  4  1 +Br  +b      bc     r        b         1675  140  140 6h Ac 8s 5h  Jc 6c 2c
+murph     800754019  4  2  f    -      -      -        -         1675    0    0 8d
+murph     800754101  4  3  f    -      -      -        -         1675    0    0 3c
+murph     800754112  4  1 +Bc   c      r     +b       +bf        1675  110    0 4s 2d Qs 4d
+murph     800754189  4  3  r    -      -      -        -         1565   20   30 8s
+murph     800754211  4  3  r    b      k      c        f         1575   50    0 Th 6s Qd 3h
+murph     800754255  4  2  f    -      -      -        -         1525    0    0 8s
+murph     800754266  4  4  r    b      b     +b       +b         1525  100  105 9s 2d 8c Ks  Ac Ah 8d
+murph     800754333  5  1 +Br   b      b      -        -         1530   50  110 4s Ah 2s
+murph     800754378  5  4  r   +b     +kc    +kc      +kc        1590   90    0 Ad Kh Qd 4h  8c Td 3d
+murph     800754435  5  4  f    -      -      -        -         1500    0    0 6s
+murph     800754458  5  4  r    -      -      -        -         1500   20   30 Ts
+murph     800754476  5  5  r    c      r      k        f         1510   70    0 6d Kd 4h 2s
+murph     800754554  5  3  f    -      -      -        -         1440    0    0 Qc
+murph     800754659  5  4  r    b      b      -        -         1440   60  130 As 6s 5c
+murph     800754743  6  5  f    -      -      -        -         1510    0    0 6c
+murph     800754809  6  5  f    -      -      -        -         1510    0    0 Jd
+murph     800754872  6  3  f    -      -      -        -         1510    0    0 Tc
+murph     800754921  6  5  f    -      -      -        -         1510    0    0 Kh
+murph     800755038  6  1 +Bf   -      -      -        -         1510   10    0 3d
+murph     800755071  6  2  rr   r      b      c        r         1500  140  330 As Th Ks 4h  Ts Tc Ad
+murph     800755245  5  3  f    -      -      -        -         1690    0    0 Td
+murph     800755263  5  2  f    -      -      -        -         1690    0    0 5c
+murph     800755308  5  4  f    -      -      -        -         1690    0    0 Qc
+murph     800755338  5  5  r    c      r      b        b         1690  130  300 Ad 9c 4s Js
+murph     800755442  5  4  f    -      -      -        -         1860    0    0 3c
+murph     800755455  5  2  r   +b     +b     +b        -         1860   70  130 5d Qd Jd 4d
+murph     800755488  4  2  r    -      -      -        -         1920   20   30 5s
+murph     800755497  4  2  f    -      -      -        -         1930    0    0 4d
+murph     800755505  4  2  rc   rc     kc    +kc      +kf        1930  120    0 Th 3c Ks Ad
+murph     800755621  4  3  c   +krc   +kr     c        c         1810  130    0 5c Td Qd 3s  4c Ts 2s
+murph     800755670  4  4  f    -      -      -        -         1680    0    0 9d
+murph     800755680  4  3  f    -      -      -        -         1680    0    0 Qs
+murph     800755708  4  2  c    k      k      k        b         1680   30   50 5c 4c 3s Ts
+murph     800755779  5  5  f    -      -      -        -         1700    0    0 Jd
+murph     800755796  5  5  f    -      -      -        -         1700    0    0 9c
+murph     800755896  5  3  f    -      -      -        -         1700    0    0 As
+murph     800755914  5  5  c   +b      -      -        -         1700   20   30 7c As
+murph     800755961  5  4  r   +b      -      -        -         1710   30   60 Ac Jd
+murph     800755995  5  5  f    -      -      -        -         1740    0    0 Jh
+murph     800756027  5  4  r    b      -      -        -         1740   30   60 Td 9c
+murph     800756058  5  5  f    -      -      -        -         1770    0    0 9c
+murph     800756130  5  2  r    -      -      -        -         1770   20   30 Ah
+murph     800756141  5  2  f    -      -      -        -         1780    0    0 3h
+murph     800756156  5  4  r    -      -      -        -         1780   20   30 5s
+murph     800756194  5  5  f    -      -      -        -         1790    0    0 9s
+murph     800756208  5  4  r    b      -      -        -         1790   30   80 5c Ks
+murph     800756252  5  3  f    -      -      -        -         1840    0    0 9s
+murph     800756267  5  4  f    -      -      -        -         1840    0    0 Ts
+murph     800756307  5  1 +Bf   -      -      -        -         1840   10    0 2c
+murph     800756346  6  4  f    -      -      -        -         1830    0    0 Ks
+murph     800756599  7  4  cc  +krc    b      r        b         1830  130    0 8c 5c Js Ts  5h 6c 3c
+murph     800756699  6  4  cc   c      c     +bc      +kc        1700  110    0 5h Qh Tc Ts  8s 5d 2d
+murph     800756770  6  4  r    b     +b     +k       +k         1590   50  110 Tc 5h Ks 7s  4h 6d Th
+murph     800756857  6  6  rc   c      b     +b       +b         1650  110  260 As 3s 2h 2c
+murph     800756958  7  7  f    -      -      -        -         1800    0    0 Qs
+murph     800757022  7  7  f    -      -      -        -         1800    0    0 Kd
+murph     800757055  7  4  cc  +kc     c      c        k         1800   70    0 Kd 5d 7h 2s  Jd Jc Td
+murph     800757149  6  3  Q    -      -      -        -         1730    0    0 Ah
+murph     800830709  7  2  r   +k     +b     +b       +b         1730   80  150 3s As 3h 6s
+murph     800830750  7  6  f    -      -      -        -         1800    0    0 5h
+murph     800830788  6  3  f    -      -      -        -         1800    0    0 6c
+murph     800830829  5  3  f    -      -      -        -         1800    0    0 Ad
+murph     800830838  4  1 +Br  +b     +b     +bc      +kc        1800  120  120 4h 4s Kc Qs  6h 6d Ah
+murph     800830890  4  3  f    -      -      -        -         1800    0    0 7h
+murph     800830988  4  3  r   +b     +b     +b       +b         1800   90   90 4h 9s As Jd  Ac 2h 2d
+murph     800831040  4  4  f    -      -      -        -         1800    0    0 Jd
+murph     800831058  4  3  f    -      -      -        -         1800    0    0 4c
+murph     800831066  4  4  r    -      -      -        -         1800   20   30 As
+murph     800831078  4  4  rc  +b      c      r        bc        1810  140    0 4h Kc Ts 4s  4c 7h 2h
+murph     800831109  4  2  rc   c      k      k        k         1670   40   90 7c Tc 3d 4h  7s 4s Kh
+murph     800831152  4  3  f    -      -      -        -         1720    0    0 5c
+murph     800831169  4  3  f    -      -      -        -         1720    0    0 Td
+murph     800831193  4  3  f    Q      -      -        -         1720    0    0 9d

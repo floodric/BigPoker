@@ -1,0 +1,768 @@
+Shazbot   799536288  8  6  c    c      c      c        k         1000   70  105 Ah 4d 9d 2s  4s 6d 7s
+Shazbot   799536376  8  2  f    -      -      -        -         1035    0    0 7s
+Shazbot   799536423  8  4  f    -      -      -        -         1035    0    0 9d
+Shazbot   799536533  8  3  f    -      -      -        -         1035    0    0 Td
+Shazbot   799536618  8  2  f    -      -      -        -         1035    0    0 5s
+Shazbot   799536804  8  3  f    -      -      -        -         1035    0    0 6h
+Shazbot   799536844  7  7  f    -      -      -        -         1035    0    0 6s
+Shazbot   799536920  7  2  f    -      -      -        -         1035    0    0 Kd
+Shazbot   799537042  7  3  f    -      -      -        -         1035    0    0 Kc
+Shazbot   799537175  6  6  c   +k      f      -        -         1035   10    0 6s Jd 9s
+Shazbot   799537238  6  4  cc   c      b      k        b         1025   70    0 5h 2h 4h Jd  4s 4c 6h
+Shazbot   799537295  6  4  c    c     +b     +k       +b          955   60  160 3c 4h Ah 9c  Ac Ad Qs
+Shazbot   799537380  6  2  c   +kf     -      -        -         1055   10    0 Ad Qd
+Shazbot   799537432  6  1 +Bk  +b     +b      -        -         1045   40   60 3d 3s 7s
+Shazbot   799537477  6  2  cf   -      -      -        -         1065   10    0 9s
+Shazbot   799537546  6  2  r   +b     +b     +b       +k         1055   70   80 As 2d 5d Ad  Th 7c 3h
+Shazbot   799537600  6  6  c    b      b      -        -         1065   40   70 7d 5d 3h
+Shazbot   799537630  6  2  cf   -      -      -        -         1095   10    0 8c
+Shazbot   799537765  6  3  f    -      -      -        -         1085    0    0 9s
+Shazbot   799537821  6  1 +Bk   kc    +kf     -        -         1085   20    0 3c 5d Kd
+Shazbot   799537902  6  3  Q    -      -      -        -         1065    0    0 Qh
+Shazbot   799538193  6  4  c    kc     f      -        -         1065   20    0 4s 3h 8h
+Shazbot   799538270  6  4  cc  +kc    +kc     r        k         1045   90  180 8d Th 7h 3h  8h Qc 6h
+Shazbot   799538359  6  2  r    -      -      -        -         1135   20   30 Th
+Shazbot   799538504  5  5  c    c      f      -        -         1145   20    0 5d Ks Js
+Shazbot   799538542  5  3  f    -      -      -        -         1125    0    0 Jd
+Shazbot   799538587  5  1 +Bk  +b     +b     +b       +b         1125   80   80 2s As 5h 6c  7d Kd 4d
+Shazbot   799538634  6  2  cc  +kf     -      -        -         1125   20    0 6s Ks
+Shazbot   799538696  6  5  f    -      -      -        -         1105    0    0 3h
+Shazbot   799538740  6  6  f    -      -      -        -         1105    0    0 8s
+Shazbot   799538774  6  2  cf   -      -      -        -         1105   10    0 Kh
+Shazbot   799538826  6  2  Q    -      -      -        -         1095    0    0 4d
+Shazbot   799539422  4  4  f    -      -      -        -         1095    0    0 Ks
+Shazbot   799539506  4  1 +Bc   c      c      r        b         1095  110  220 2s 3s 5c 4d  6s Tc 7c
+Shazbot   799539570  4  3  c    cc     k      cc       k         1205   70  105 6c Kh 9d Ad  4d 2d 7c
+Shazbot   799539630  4  1 +Bc   r      c      k        c         1240   80  220 4c 5d 6c Jh  Ts Th 4s
+Shazbot   799539727  4  1 +B    -      -      -        -         1380   10   10 Ts
+Shazbot   799539740  4  3  r    b      k     +k       +kf        1380   30    0 7c 6c 3s Kd
+Shazbot   799539791  4  1 +Bc   c      c      k        b         1350   70  160 2c Jc 9c 3h  Ac Kh 3c
+Shazbot   799539840  3  1 +Bf   -      -      -        -         1440   10    0 8s
+Shazbot   799539870  3  1 +Bf   -      -      -        -         1430   10    0 5s
+Shazbot   799539906  3  3  r    -      -      -        -         1420   20   30 7h
+Shazbot   799539921  3  1 +B    -      -      -        -         1430   10   10 3h
+Shazbot   799539957  3  2  cc   c     +b      b        -         1430   70  130 4h 2s Ac 5s
+Shazbot   799540006  3  3  rc  +kc    +k     +k       +k         1490   40   80 Js 6s Ts Tc  7h Kh 9h
+Shazbot   799540059  3  3  f    -      -      -        -         1530    0    0 9c
+Shazbot   799540101  3  2  cc  +kc     c      c        b         1530   90  190 Jd 6h Ad 5s  7d 6d Ah
+Shazbot   799540138  3  3  c    c      c      c        k         1630   70    0 Tc 7s Qd 8h  Jc 5s Kh
+Shazbot   799540170  4  2  f    -      -      -        -         1560    0    0 Ks
+Shazbot   799540194  4  2  c    k      bc     k        k         1560   50  110 8h 4d Ts 5c  Th 9s Ah
+Shazbot   799540248  4  2  f    -      -      -        -         1620    0    0 9d
+Shazbot   799540304  5  1 +Bf   -      -      -        -         1620   10    0 3c
+Shazbot   799540375  6  5  c   +kf     -      -        -         1610   10    0 Kh Qd
+Shazbot   799540450  6  5  f    -      -      -        -         1600    0    0 Tc
+Shazbot   799540505  6  2  f    -      -      -        -         1600    0    0 Kh
+Shazbot   799540556  5  5  f    -      -      -        -         1600    0    0 Kh
+Shazbot   799540618  5  4  f    -      -      -        -         1600    0    0 8s
+Shazbot   799540699  5  2  c    c      c     +b       +k         1600   60  150 8h 5c Qd Qc  3c 6d 3d
+Shazbot   799540750  5  3  rc  +b     +b      b        b         1690  100  125 8d Ac 6c 9s  7d 5d 9d
+Shazbot   799540810  5  5  f    -      Q      -        -         1715    0    0 Qd
+Shazbot   799702470  6  1 +Bk   k     +b     +k       +k         1715   30   30 3d 5s 3s 8d  7d Jc 2s
+Shazbot   799702533  8  4  f    -      -      -        -         1715    0    0 4h
+Shazbot   799702641  8  2  f    -      -      -        -         1715    0    0 7c
+Shazbot   799702746  8  7  f    -      -      -        -         1715    0    0 Tc
+Shazbot   799702821  8  5  f    -      -      -        -         1715    0    0 6c
+Shazbot   799702868  8  5  f    -      -      -        -         1715    0    0 Tc
+Shazbot   799703003  8  1 +Bk   f      -      -        -         1715   10    0 2c Ks
+Shazbot   799703120  8  4  rc  +brc   +bc    +bc      +b         1705  170  240 Ks Kd 5s 3d  Qs Kc 3c
+Shazbot   799703294  8  2  r   +k     +kc    +kf       Q         1775   40    0 Ad 9s Qh Kd
+Shazbot   799961725  8  1 +Bc   f      -      -        -         1735   20    0 2d Jc
+Shazbot   799961846  8  4  r   +b     +kQ     -        -         1715   30    0 Ac Td 7s
+Shazbot   800121604  4  3  c    kc    +bc    +kc      +kc        1685  100    0 Kc 9h Kd 6s  Ah Th 2d
+Shazbot   800121679  5  2  f    -      -      -        -         1585    0    0 5c
+Shazbot   800121737  5  5  c    kf     -      -        -         1585   20    0 9d Kd
+Shazbot   800121847  5  4  c   +kc     c     +k       +b         1565   60  160 Kh 4h Ac Ad  6h 5d 2d
+Shazbot   800121923  5  2  f    -      -      -        -         1665    0    0 Ks
+Shazbot   800121962  5  5  f    -      -      -        -         1665    0    0 5h
+Shazbot   800122016  6  4  f    -      -      -        -         1665    0    0 5d
+Shazbot   800122071  6  1 +Bk  +b     +b     +k       +b         1665   60  160 3h 3s Jc 8d  2d 2h 2s
+Shazbot   800122137  6  4  f    -      -      -        -         1765    0    0 Ks
+Shazbot   800122217  6  4  r   +b     +b     +b        -         1765   70  130 As 8h 3d Ah
+Shazbot   800122267  5  5  f    -      -      -        -         1825    0    0 5h
+Shazbot   800122378  5  1 +Bc  +bc    +kc    +kc      +kc        1825  100  100 6s 6c 4h Ks  7d 2c 8s
+Shazbot   800122435  4  3  c   +kc     b     +k       +b         1825   60   60 6s Ad 2c Qd  8d 4s 3c
+Shazbot   800122494  3  2  Q    -      -      -        -         1825    0    0 6s
+Shazbot   800217413  8  4  c    k      cc     c        r         1825  110  180 Qd Jd 5d 4h  3h 6h Ad
+Shazbot   800217574  7  4  c   +kc    +b     +b       +k         1895   60    0 Qs 3s Qc 6h  2d Ah Kd
+Shazbot   800217662  8  5  f    -      -      -        -         1835    0    0 5d
+Shazbot   800217831  8  7  f    -      -      -        -         1835    0    0 7h
+Shazbot   800217893  8  4  f    -      -      -        -         1835    0    0 6d
+Shazbot   800217992  8  8  c    c      f      -        -         1835   20    0 4c 3d Th
+Shazbot   800218212  8  2  c    bc     c      c        f         1815   70    0 2s As 4d 2h
+Shazbot   800218380  8  3  cc   kf     -      -        -         1745   20    0 2s 9d
+Shazbot   800218506  8  7  f    -      -      -        -         1725    0    0 3c
+Shazbot   800218717  7  3  Q    -      -      -        -         1725    0    0 Qc
+Shazbot   800296106  2  1 +Bk  +kf     -      -        -         1725   10    0 6c 6d
+Shazbot   800296143  2  1 +B    -      -      -        -         1715   10   10 5c
+Shazbot   800296159  2  1 +Bc   c      f      -        -         1715   30    0 Jd 4s Td
+Shazbot   800296189  2  2  f    -      -      -        -         1685    0    0 Jh
+Shazbot   800296191  2  1 +Br  +b      -      -        -         1685   30   50 6h Kc
+Shazbot   800296225  2  2  r   +b     +b     +b       +b         1705   90  160 Kd Qh Kh 2d
+Shazbot   800296283  2  1 +Bk   k      c      c        f         1775   50    0 5h 4c Qs Qd
+Shazbot   800296342  3  3  cc   k     +kf     -        -         1725   20    0 5s 8c Ks
+Shazbot   800296408  3  2  f    -      -      -        -         1705    0    0 Qd
+Shazbot   800296422  3  3  c   +b      -      -        -         1705   20   30 9c Kh
+Shazbot   800296462  3  1 +Bc  +k     +k     +kf       -         1715   20    0 8h Ad Td 8s
+Shazbot   800296512  3  2  c   +kc    +kc    +kc      +kc        1695   80   80 6h Ks 5h 7c  2h 3s Jd
+Shazbot   800296575  3  1 +B    -      -      -        -         1695   10   10 5d
+Shazbot   800296583  3  2  f    -      -      -        -         1695    0    0 7c
+Shazbot   800296593  3  3  c   +kc     c      c        c         1695   90    0 Ah Qc 2s Jh  Qs 9c 4h
+Shazbot   800296646  4  3  cc  +bc     c      c        c         1605  100    0 Th Ad 2h Ks  Ah 3d 4c
+Shazbot   800296729  4  2  c   +b     +k      c        c         1505   60   60 4h 4s 8h 2c  Tc 5s Ah
+Shazbot   800296784  4  2  f    -      -      -        -         1505    0    0 7c
+Shazbot   800296794  4  4  cc  +kc     c      c        c         1505   90   90 5s 7c 6c As  Ts 6s 2d
+Shazbot   800296844  4  2  c   +k     +kf     -        -         1505   10    0 Kc 3h 5c
+Shazbot   800296908  4  2  f    -      -      -        -         1495    0    0 8c
+Shazbot   800296954  4  3  f    -      -      -        -         1495    0    0 8d
+Shazbot   800297030  4  2  c   +kc    +k      c        f         1495   40    0 Tc 8s 6d 3c
+Shazbot   800297100  4  4  c   +k     +k     +k       +k         1455   10   20 8s Ac Jc 9d  9h 6h 4h
+Shazbot   800297157  4  3  f    -      -      -        -         1465    0    0 5h
+Shazbot   800297200  5  1 +Bf   -      -      -        -         1465   10    0 4s
+Shazbot   800297245  5  2  f    -      -      -        -         1455    0    0 8d
+Shazbot   800297325  5  4  f    -      -      -        -         1455    0    0 7s
+Shazbot   800297416  6  6  cc  +kc    +kc     c        c         1455  130    0 As 2d 7h Jd  Ks 4s 7c
+Shazbot   800297588  7  4  f    -      -      -        -         1325    0    0 4s
+Shazbot   800297687  6  4  Q    -      -      -        -         1325    0    0 8s
+Shazbot   800316523  2  1 +B    -      -      -        -         1325   10   10 6c
+Shazbot   800316532  2  1 +B    -      -      -        -         1325   10   10 2s
+Shazbot   800316540  2  1 +B    -      -      -        -         1325   10   10 4d
+Shazbot   800316545  2  1 +B    -      -      -        -         1325   10   10 4h
+Shazbot   800316557  2  1 +B    -      -      -        -         1325   10   10 6c
+Shazbot   800316565  2  1 +B    -      -      -        -         1325   10   10 9c
+Shazbot   800316578  2  2  f    -      -      -        -         1325    0    0 7c
+Shazbot   800316584  2  1 +Bc   c      b      -        -         1325   50   80 6c 2c Ah
+Shazbot   800316616  2  1 +B    -      -      -        -         1355   10   10 5c
+Shazbot   800316623  2  1 +Bk   k      f      -        -         1355   10    0 Kd Jh 2s
+Shazbot   800316644  2  2  f    -      -      -        -         1345    0    0 Jc
+Shazbot   800316651  2  1 +Bc   k      k      k        b         1345   40   40 3h 7c Tc 9s  5d 6c 8h
+Shazbot   800316702  2  1 +B    -      -      -        -         1345   10   10 3s
+Shazbot   800316720  2  1 +Br   bc    +bc    +k       +k         1345   90  180 5h 4s 4d 3s  Js Ac Ah
+Shazbot   800316772  2  2  r    -      -      -        -         1435   20   30 6c
+Shazbot   800316784  2  2  c   +b      -      -        -         1445   20   30 Ac 6c
+Shazbot   800316805  3  2  r    r      k      c        c         1455   80   80 Js 3h 7c 6d  Jh 4d 8d
+Shazbot   800316862  3  2  f    -      -      -        -         1455    0    0 Jd
+Shazbot   800316876  3  1 +B    -      -      -        -         1455   10   10 4c
+Shazbot   800316893  3  1 +Bf   -      -      -        -         1455   10    0 2h
+Shazbot   800316903  3  3  f    -      -      -        -         1445    0    0 5c
+Shazbot   800316958  3  2  f    -      -      -        -         1445    0    0 Kh
+Shazbot   800316969  3  3  r   +k      c      f        -         1445   40    0 Ah Jh Qh 8d
+Shazbot   800317010  3  3  c   +kc    +k      b        b         1405   60   65 Kh 8d 7s 3c  8s 2h 4h
+Shazbot   800317068  3  3  f    -      -      -        -         1410    0    0 5d
+Shazbot   800317075  2  2  c   +kf     -      -        -         1410   10    0 Js 9s
+Shazbot   800317095  2  2  r    b      -      -        -         1400   30   50 9s 2d
+Shazbot   800317110  2  1 +B    -      -      -        -         1420   10   10 4c
+Shazbot   800317118  2  1 +Bc  +kc    +kf     -        -         1420   30    0 6d Td Qs
+Shazbot   800317137  2  2  cc   rc     k     +k       +k         1390   50  100 As 8d 4s Th  8s 3s Js
+Shazbot   800317181  2  2  f    -      -      -        -         1440    0    0 Kc
+Shazbot   800317200  2  1 +Bc   c      c      c        k         1440   70  140 2h 6c 8c Kh  Qh Kd 9h
+Shazbot   800317232  2  1 +Bk   b      -      -        -         1510   20   30 8c 4c
+Shazbot   800317250  2  2  f    -      -      -        -         1520    0    0 6c
+Shazbot   800317257  2  1 +Bk   f      -      -        -         1520   10    0 2s 3c
+Shazbot   800317270  2  1 +Bk  +k     +kf     -        -         1510   10    0 Jd Qd 2h
+Shazbot   800317329  2  1 +Bk   r     +b     +b       +b         1500   90  160 3s Th 3h 8d
+Shazbot   800317377  2  1 +B    -      -      -        -         1570   10   10 8s
+Shazbot   800317383  2  2  f    -      -      -        -         1570    0    0 Jc
+Shazbot   800317389  2  2  cc  +b      -      -        -         1570   30   50 Ks Kd
+Shazbot   800317414  2  2  c    c      f      -        -         1590   20    0 9c 3h Td
+Shazbot   800317441  2  1 +Bk   c      f      -        -         1570   20    0 4d 6s Jc
+Shazbot   800317459  2  2  f    -      -      -        -         1550    0    0 9s
+Shazbot   800317464  2  1 +Bk   k     +k      c        k         1550   30   60 4c 8d 8s 5h  4h Jc 3d
+Shazbot   800317499  2  1 +B    -      -      -        -         1580   10   10 3c
+Shazbot   800317509  2  1 +Bc  +b     +b     +b       +b         1580   90  160 3d 3h As 2c
+Shazbot   800317557  2  2  cc  +kc    +k     +b        -         1650   50   80 Kd 8h Ah 5c
+Shazbot   800317594  3  3  f    -      -      -        -         1680    0    0 9h
+Shazbot   800317603  3  3  f    -      -      -        -         1680    0    0 Qh
+Shazbot   800317675  4  4  cc   k      k     +b        -         1680   40   80 9d 6d 5h 5c
+Shazbot   800317731  5  4  f    -      -      -        -         1720    0    0 5d
+Shazbot   800317786  4  4  c   +kc     c      b        b         1720   80  160 4c Ts 8c Ah  8h Ac Jc
+Shazbot   800317867  4  1 +Bf   -      -      -        -         1800   10    0 6c
+Shazbot   800317967  4  4  f    -      -      -        -         1790    0    0 Jh
+Shazbot   800317980  4  4  f    -      -      -        -         1790    0    0 Th
+Shazbot   800318035  4  2  c    k      f      -        -         1790   10    0 7s 4d Td
+Shazbot   800318079  4  1 +Bf   -      -      -        -         1780   10    0 3c
+Shazbot   800318113  4  1 +Bcc  c      c      r        k         1770  110    0 7c 4h 8d 7d  8h 5s 9h
+Shazbot   800318190  4  1 +B    -      -      -        -         1660   10   10 6h
+Shazbot   800318211  4  2  f    -      -      -        -         1660    0    0 Tc
+Shazbot   800318294  5  1 +Bf   -      -      -        -         1660   10    0 4c
+Shazbot   800318422  6  5  f    -      -      -        -         1650    0    0 Jh
+Shazbot   800318465  6  5  c   +kc    +kc    +k       +k         1650   40   90 Qs 3c Kh 5s  Ad Js As
+Shazbot   800318543  6  1 +Bf   -      -      -        -         1700   10    0 3s
+Shazbot   800318629  6  5  c    k      b      -        -         1690   30   60 7c 2s 4c
+Shazbot   800318680  5  2  f    -      -      -        -         1720    0    0 8h
+Shazbot   800318792  5  2  f    -      Q      -        -         1720    0    0 Jd
+Shazbot   800559203  2  2  c   +k      k      k        k         1720   10   20 8s 7c Qh 3c  8d 6h 3d
+Shazbot   800559242  2  1 +Bc   f      -      -        -         1730   20    0 9s 5c
+Shazbot   800559268  2  2  f    -      -      -        -         1710    0    0 Kh
+Shazbot   800559276  2  1 +Br   b      -      -        -         1710   30   50 8s 4s
+Shazbot   800559300  2  2  cc   f      -      -        -         1730   20    0 Js Th
+Shazbot   800559317  2  2  f    -      -      -        -         1710    0    0 Td
+Shazbot   800559322  2  2  c    b      b     +k       +b         1710   60   60 6h 3c 9d 9c  5c Ah 4h
+Shazbot   800559366  2  1 +Bc  +kc     c      c        k         1710   70   70 3d Ad 7s 6d  6h Jc 2d
+Shazbot   800559403  2  1 +B    -      -      -        -         1710   10   10 Td
+Shazbot   800559424  2  1 +Bc   c      c      c        c         1710   90   90 5s 4d 2c Ts  4h 3c 4c
+Shazbot   800559452  2  1 +B    -      -      -        -         1710   10   10 8s
+Shazbot   800559467  2  1 +B    -      -      -        -         1710   10   10 3s
+Shazbot   800559480  2  2  f    -      -      -        -         1710    0    0 Ks
+Shazbot   800559484  2  1 +B    -      -      -        -         1710   10   10 8h
+Shazbot   800559491  2  2  r    -      -      -        -         1710   20   30 7s
+Shazbot   800559500  2  2  f    -      -      -        -         1720    0    0 Tc
+Shazbot   800559507  2  2  f    -      -      -        -         1720    0    0 Js
+Shazbot   800559509  2  2  r   +b      -      -        -         1720   30   50 Ah 7s
+Shazbot   800559522  2  2  f    -      -      -        -         1740    0    0 Kh
+Shazbot   800559528  2  1 +B    -      -      -        -         1740   10   10 6d
+Shazbot   800559534  2  2  f    -      -      -        -         1740    0    0 Th
+Shazbot   800559539  2  2  f    -      -      -        -         1740    0    0 9c
+Shazbot   800559646  2  1 +Bk   rc    +k     +k       +k         1740   40   80 7d 9h Qc 8d  9c Kd 3s
+Shazbot   800559677  2  1 +Bk   k      k      c        c         1780   50    0 5d 7s Qh 8h  2d 9h 7c
+Shazbot   800559716  2  2  f    -      -      -        -         1730    0    0 Qc
+Shazbot   800559723  2  2  cc   c      c      k        f         1730   50    0 9h 6d 2d 8s
+Shazbot   800559786  2  1 +B    -      -      -        -         1680   10   10 9h
+Shazbot   800559795  2  2  r   +k     +k     +k       +kc        1680   40    0 As Th 8s 5d  6c Ts 5s
+Shazbot   800559828  2  2  f    -      -      -        -         1640    0    0 9d
+Shazbot   800559836  2  2  r    -      -      -        -         1640   20   30 Qc
+Shazbot   800559844  2  2  r   +b     +bc    +kc      +k         1650   90  180 9h 5s 2s 8h  Ac 6h 6c
+Shazbot   800559885  2  1 +B    -      -      -        -         1740   10   10 3c
+Shazbot   800559894  2  2  c   +k     +k     +kc      +kc        1740   50  100 Kc 3c 8s 8d  5c 5d 4c
+Shazbot   800559932  2  1 +Bf   -      -      -        -         1790   10    0 Kd
+Shazbot   800559943  2  1 +B    -      -      -        -         1780   10   10 8h
+Shazbot   800559948  2  2  c    c      c      c        f         1780   60    0 Qh 8h 2s 6h
+Shazbot   800559981  2  2  c    f      -      -        -         1720   10    0 Qd 8h
+Shazbot   800559995  2  2  f    -      -      -        -         1710    0    0 Tc
+Shazbot   800560000  2  1 +B    -      -      -        -         1710   10   10 5d
+Shazbot   800560005  2  1 +Bc   f      -      -        -         1710   20    0 2s 8h
+Shazbot   800560019  2  1 +Bk  +k     +b      -        -         1690   30   40 3h Ac 3s
+Shazbot   800560039  2  2  c   +b      -      -        -         1700   20   30 Jd Jc
+Shazbot   800560055  2  1 +Bk   f      -      -        -         1710   10    0 6h 8s
+Shazbot   800560067  2  1 +B    -      -      -        -         1700   10   10 5h
+Shazbot   800560072  2  2  c   +k     +b      -        -         1700   30   40 Ad Jh Ac
+Shazbot   800560117  2  2  f    -      -      -        -         1710    0    0 Js
+Shazbot   800560128  2  2  f    -      -      -        -         1710    0    0 7d
+Shazbot   800560143  2  2  c   +kf     -      -        -         1710   10    0 Jc Ts
+Shazbot   800560169  3  2  f    -      -      -        -         1700    0    0 Ks
+Shazbot   800560177  3  1 +B    -      -      -        -         1700   10   10 3c
+Shazbot   800560189  3  2  f    -      -      -        -         1700    0    0 8h
+Shazbot   800560202  3  2  r    b      -      -        -         1700   30   50 8s 4h
+Shazbot   800560227  3  1 +B    -      -      -        -         1720   10   10 Jc
+Shazbot   800560234  3  2  c   +kf     -      -        -         1720   10    0 5d Td
+Shazbot   800560281  3  2  f    -      -      -        -         1710    0    0 Qs
+Shazbot   800560332  3  3  r    -      -      -        -         1710   20   30 Ad
+Shazbot   800560352  3  2  cc  +b     +b      b        b         1720   90  160 Kc Jc 9c Th
+Shazbot   800560410  3  3  f    -      -      -        -         1790    0    0 Kc
+Shazbot   800560456  3  1 +B    -      -      -        -         1790   10   10 2h
+Shazbot   800560468  3  1 +Bc   c     +b     +kc      +kc        1790   90    0 8s 6h 8c 4d  Tc Qd 7h
+Shazbot   800560546  3  1 +Bk   kf     -      -        -         1700   10    0 8c 6c
+Shazbot   800560594  3  2  f    -      -      -        -         1690    0    0 Tc
+Shazbot   800560607  3  1 +Bc   c     +kc    +kf       -         1690   50    0 7s Qc Jh 5h
+Shazbot   800560649  3  2  f    -      -      -        -         1640    0    0 5s
+Shazbot   800560664  3  1 +Bc   c      r      k        k         1640   70   70 5c 4d 2c 6s  Jc 8c 9h
+Shazbot   800560736  4  3  r    c      r      b        k         1640   90  135 Jc 5h 5s 4s  8h 4c Js
+Shazbot   800560818  4  3  cc   r      c      b        k         1685  100  160 4s 6c 8c 3s  As Qc 5s
+Shazbot   800560945  4  3  c    k      k      k        k         1745   10    0 7s Tc 5h Qs  Kh 9s 3s
+Shazbot   800561022  5  1 +Bk   k      k      k        c         1735   30   50 4d 8h 6h 3s  Qd Qs 2h
+Shazbot   800561141  6  6  f    -      Q      -        -         1755    0    0 3s
+Shazbot   800561358  4  4  f    -      -      -        -         1755    0    0 Th
+Shazbot   800561365  4  2  f    -      -      -        -         1755    0    0 Td
+Shazbot   800561380  3  3  Q    -      -      -        -         1755    0    0 9d
+Shazbot   800569695  2  2  f    -      -      -        -         1755    0    0 Tc
+Shazbot   800569703  2  1 +Bk  +bc    +kc    +k       +b         1755   70  140 3d As 8s Tc  Jd 7h 9s
+Shazbot   800569743  2  1 +Bf   -      -      -        -         1825   10    0 6c
+Shazbot   800569761  2  2  f    -      -      -        -         1815    0    0 8s
+Shazbot   800569775  2  1 +B    -      -      -        -         1815   10   10 3c
+Shazbot   800569782  2  1 +Bc  +b     +b     +b       +bc        1815  110    0 Ks Kc 3h 9d  5c Qc Th
+Shazbot   800569816  2  2  r    -      -      -        -         1705   20   30 7d
+Shazbot   800569829  2  1 +Bc   c      c      c        f         1715   70    0 8d Jd 6h 9h
+Shazbot   800569867  2  1 +B    -      -      -        -         1645   10   10 6h
+Shazbot   800569878  2  1 +B    -      -      -        -         1645   10   10 4c
+Shazbot   800569882  2  2  f    -      -      -        -         1645    0    0 Th
+Shazbot   800569887  2  1 +B    -      -      -        -         1645   10   10 5c
+Shazbot   800569894  2  1 +Bc  +k     +k     +k       +k         1645   20    0 6s Ac Tc 9d  Js 9h 5h
+Shazbot   800569935  2  2  r    brc   +b      -        -         1625   80  140 As Js Jc
+Shazbot   800569974  2  1 +B    -      -      -        -         1685   10   10 Th
+Shazbot   800569979  2  1 +B    -      -      -        -         1685   10   10 8d
+Shazbot   800569985  2  2  r    k      k     +k       +k         1685   20   40 3d Jc Tc 3h  5d 6d 6c
+Shazbot   800570016  2  2  c   +k      c      c        c         1705   70  140 3s Tc 6h Qd  5c 4d 5s
+Shazbot   800570054  2  2  r    -      -      -        -         1775   20   30 As
+Shazbot   800570063  2  2  r   +b     +kc    +kc      +k         1785   70  140 As Qs 6c Kc  6h 3d Ks
+Shazbot   800570123  2  1 +Bk  +kf     -      -        -         1855   10    0 6c 9h
+Shazbot   800570138  2  2  f    -      -      -        -         1845    0    0 Ks
+Shazbot   800570142  2  1 +B    -      -      -        -         1845   10   10 5s
+Shazbot   800570148  2  2  c   +b      -      -        -         1845   20   30 Ad 5c
+Shazbot   800570162  2  1 +Bf   -      -      -        -         1855   10    0 4h
+Shazbot   800570167  2  2  c   +b     +bc    +kc      +kc        1845  100  200 Jh Qc 8c 6s  2s Qh Ad
+Shazbot   800570211  2  1 +B    -      -      -        -         1945   10   10 2c
+Shazbot   800570220  2  1 +B    -      -      -        -         1945   10   10 4s
+Shazbot   800570236  2  2  f    -      -      -        -         1945    0    0 Jd
+Shazbot   800570244  2  2  cc  +kc    +b      -        -         1945   50   80 9d Ah As
+Shazbot   800570262  2  1 +Bk  +b     +b      -        -         1975   40   60 2h Ah Tc
+Shazbot   800570280  2  2  f    -      -      -        -         1995    0    0 Kd
+Shazbot   800570285  2  2  r    -      -      -        -         1995   20   30 Ks
+Shazbot   800570293  2  1 +B    -      -      -        -         2005   10   10 5c
+Shazbot   800570298  2  1 +B    -      -      -        -         2005   10   10 3s
+Shazbot   800570306  2  1 +Bc   c      c      k        k         2005   50  100 5h 9h 6c 3h  4s 3d 5c
+Shazbot   800570334  2  1 +B    -      -      -        -         2055   10   10 6c
+Shazbot   800570342  2  1 +Bk   b      -      -        -         2055   20   30 3c 6s
+Shazbot   800570366  2  1 +B    -      -      -        -         2065   10   10 3h
+Shazbot   800570373  2  1 +Bc  +kf     -      -        -         2065   20    0 2h Qc
+Shazbot   800570412  2  2  c   +kc    +b     +b       +b         2045   80   80 7h 4h Ah 6c  9h 8h 9d
+Shazbot   800570451  2  2  c   +b      -      -        -         2045   20   30 Qc Jd
+Shazbot   800570487  2  2  Q    -      -      -        -         2055    0    0 Kc
+Shazbot   800570645  2  2  c    k      k      c        k         2055   30    0 Kh 3c Js 4h  Jd 7s 6c
+Shazbot   800570701  2  1 +B    -      -      -        -         2025   10   10 9s
+Shazbot   800570709  2  1 +B    -      -      -        -         2025   10   10 8d
+Shazbot   800570713  2  2  f    -      -      -        -         2025    0    0 Kc
+Shazbot   800570720  2  1 +B    -      -      -        -         2025   10   10 2d
+Shazbot   800570734  2  2  r    b      r      b        -         2025   90  160 Jc Tc 7s Qs
+Shazbot   800570762  2  2  r    -      -      -        -         2095   20   30 As
+Shazbot   800570783  2  2  rrc  c      c      f        -         2105   80    0 8d 9h 7s Qc
+Shazbot   800570828  2  2  f    -      -      -        -         2025    0    0 Td
+Shazbot   800570833  2  1 +B    -      -      -        -         2025   10   10 3d
+Shazbot   800570845  3  3  f    -      -      -        -         2025    0    0 Jh
+Shazbot   800570873  3  1 +B    -      -      -        -         2025   10   10 4c
+Shazbot   800570883  4  1 +B    -      -      -        -         2025   10   10 3h
+Shazbot   800570898  4  4  f    -      -      -        -         2025    0    0 Tc
+Shazbot   800570914  4  3  f    -      -      -        -         2025    0    0 3h
+Shazbot   800570973  4  4  f    -      -      -        -         2025    0    0 Jc
+Shazbot   800571026  4  3  f    -      -      -        -         2025    0    0 Qs
+Shazbot   800571042  4  4  f    -      -      -        -         2025    0    0 5d
+Shazbot   800571057  4  3  c   +kc    +kf     -        -         2025   30    0 6c Ks 2h
+Shazbot   800571127  4  4  c    c      c      c        c         1995   80   80 8c Jh 3s 7c  Ah 4h 2c
+Shazbot   800571161  4  1 +B    -      -      -        -         1995   10   10 5c
+Shazbot   800571174  4  2  cc  +b     +k     +k       +k         1995   30    0 Th Ad 5h 3d  Qs 4c Jc
+Shazbot   800571257  5  3  f    -      -      -        -         1965    0    0 Tc
+Shazbot   800571345  5  5  f    -      -      -        -         1965    0    0 9c
+Shazbot   800571428  5  5  c    br     br    +k       +k         1965  100  170 6c 6h 8h Kd  Tc Qs Th
+Shazbot   800571538  5  3  f    -      -      -        -         2035    0    0 8s
+Shazbot   800571616  6  3  f    -      -      -        -         2035    0    0 Tc
+Shazbot   800571664  6  1 +Bk   b      f      -        -         2035   20    0 2h 5c Jh
+Shazbot   800571792  6  3  cc  +kc     c      c        f         2015   70    0 As Js 2d 4c
+Shazbot   800571854  6  4  c    rc     kc     kc       r         1945  130  600 Js 8d 7s 4h  Jc Tc 9c
+Shazbot   800572034  6  1 +Bf   -      -      -        -         2415   10    0 4h
+Shazbot   800572186  6  4  cc  +b     +b     +bc      +b         2405  110  180 6c 6h 2d Jc  2c 6s Kc
+Shazbot   800572299  6  4  c    k      f      -        -         2475   10    0 Ts 6d 2s
+Shazbot   800572404  6  6  c   +kf     -      -        -         2465   20    0 Qd 3c
+Shazbot   800572453  6  5  cc   c      r      b        k         2445   90    0 6s 7c 8s Js  2h 3h 9h
+Shazbot   800572522  6  6  f    -      -      -        -         2355    0    0 7c
+Shazbot   800572612  6  3  c   +bc     c      f        -         2355   50    0 Td Ah 5d 6c
+Shazbot   800572704  6  5  f    -      -      Q        -         2305    0    0 Ks
+Shazbot   800728481  4  1 +B    -      -      -        -         2130   10   10 2d
+Shazbot   800728494  4  1 +Bc   cc    +kc    +b       +kc        2130  100    0 3d Jc Jd 3c  2s 9h 4c
+Shazbot   800728572  4  4  c   +b      b      -        -         2030   40   60 8c 5h 3d
+Shazbot   800728602  3  2  f    -      -      -        -         2050    0    0 9c
+Shazbot   800728606  3  3  f    -      -      -        -         2050    0    0 Qh
+Shazbot   800728615  3  1 +Bk   k      k     +b        -         2050   30   40 5s 3c 9c As
+Shazbot   800728650  4  2  f    -      -      -        -         2060    0    0 4s
+Shazbot   800728685  4  1 +Br  +b      -      -        -         2060   30   50 2h As
+Shazbot   800728750  4  1 +Bc  +b     +bc    +b       +bf        2080  110    0 2h 2c As 2d
+Shazbot   800728816  4  1 +Bk   c     +k     +b        -         1970   40   90 4d 5d 4s 4h
+Shazbot   800728886  4  2  f    -      -      -        -         2020    0    0 Qd
+Shazbot   800728935  4  1 +Bc  +b     +b     +b       +b         2020   90  180 3s 3c Kh 6s
+Shazbot   800728989  4  4  f    -      -      -        -         2110    0    0 7c
+Shazbot   800729024  4  2  r   +b     +b      b        k         2110   70    0 Tc 5d 5h As  Kh Qd Ks
+Shazbot   800729101  4  2  c   +br    +b     +kc      +k         2040   80  110 4h 4s 7h Ad  Th Ts Jd
+Shazbot   800729221  4  2  f    -      -      -        -         2070    0    0 4s
+Shazbot   800729238  4  2  f    -      -      -        -         2070    0    0 9s
+Shazbot   800729283  4  2  f    -      -      -        -         2070    0    0 Ts
+Shazbot   800729341  4  4  f    -      -      -        -         2070    0    0 7h
+Shazbot   800729380  4  4  f    -      -      -        -         2070    0    0 Jh
+Shazbot   800729416  4  2  f    -      -      -        -         2070    0    0 9d
+Shazbot   800729423  4  3  f    -      -      -        -         2070    0    0 8h
+Shazbot   800729431  4  3  c   +k     +b      -        -         2070   30   40 Jc Ad 4s
+Shazbot   800729465  5  5  f    -      -      -        -         2080    0    0 Ks
+Shazbot   800729612  4  1 +Br   b     +k     +b       +b         2080   70   70 5s 9h Kd 9s  2s 5d 2d
+Shazbot   800729697  4  1 +Bc   c      k      b        -         2080   50   80 3d 2h 5h 7h
+Shazbot   800729750  4  4  r   +bc    +kc    +b       +k         2110   80   80 Ac 3d 8h 2d  Kd 3h 4s
+Shazbot   800729831  5  2  f    -      -      -        -         2110    0    0 4d
+Shazbot   800729856  5  3  cc  +kf     -      -        -         2110   20    0 8c Qc
+Shazbot   800729898  5  5  f    -      -      -        -         2090    0    0 9d
+Shazbot   800729934  5  4  cc  +kc    +kf     -        -         2090   30    0 8d 2s Th
+Shazbot   800730020  4  4  f    -      -      -        -         2060    0    0 9s
+Shazbot   800730063  4  3  f    -      -      -        -         2060    0    0 Jc
+Shazbot   800730087  4  3  c    f      -      -        -         2060   20    0 8c Qs
+Shazbot   800730138  4  3  r    r     +b      -        -         2040   60  100 6c Jc Jd
+Shazbot   800730174  4  2  r    -      -      -        -         2080   20   30 Qc
+Shazbot   800730185  4  1 +Bc   k      cc    +kcc     +kc        2090  160    0 5h 7h Ts 7s  2s 2h 4d
+Shazbot   800730308  4  2  c   +k      f      -        -         1930   10    0 Ks Jh 8d
+Shazbot   800730352  4  2  cc   b      b      r        k         1920   90    0 8s 2s Tc 5h  2c 8c 6c
+Shazbot   800730419  4  1 +Bc   c      k     +kc      +b         1830   70  140 3d Qd 2c Ks  Ad Qs Qc
+Shazbot   800730488  4  3  Q    -      -      -        -         1900    0    0 5d
+Shazbot   800743838  2  2  f    -      -      -        -         1900    0    0 7h
+Shazbot   800743845  2  1 +Bk   c      k      b        bc        1900   80    0 9c 5c 3c 4h  2h 8s 4d
+Shazbot   800743902  2  1 +B    -      -      -        -         1820   10   10 7s
+Shazbot   800743910  2  2  r    -      -      -        -         1820   20   30 8d
+Shazbot   800743918  2  1 +Br  +b      -      -        -         1830   30   50 Jd Jc
+Shazbot   800743932  2  1 +B    -      -      -        -         1850   10   10 2c
+Shazbot   800743946  2  1 +B    -      -      -        -         1850   10   10 2h
+Shazbot   800743954  2  2  f    -      -      -        -         1850    0    0 Qc
+Shazbot   800743962  2  1 +B    -      -      -        -         1850   10   10 2c
+Shazbot   800743967  2  2  c   +kf     -      -        -         1850   10    0 8d 4s
+Shazbot   800743981  2  1 +B    -      -      -        -         1840   10   10 7c
+Shazbot   800743986  2  1 +B    -      -      -        -         1840   10   10 4h
+Shazbot   800743990  2  1 +B    -      -      -        -         1840   10   10 8d
+Shazbot   800743994  2  1 +Bf   -      -      -        -         1840   10    0 Js
+Shazbot   800743999  2  2  f    -      -      -        -         1830    0    0 Kc
+Shazbot   800744003  2  2  f    -      -      -        -         1830    0    0 Jd
+Shazbot   800744007  2  1 +B    -      -      -        -         1830   10   10 3s
+Shazbot   800744012  2  1 +B    -      -      -        -         1830   10   10 2h
+Shazbot   800744020  2  1 +Bk  +kf     -      -        -         1830   10    0 Td Ks
+Shazbot   800744033  2  2  c   +b     +b     +b       +b         1820   80  160 Tc 9c 6s 6c  7c Qc 9s
+Shazbot   800744065  2  2  r    k      c      c        k         1900   60   60 6s Qh Ks 7c  Jc Ad 4s
+Shazbot   800744109  2  1 +Bc  +kc     f      -        -         1900   30    0 4c Kd 8s
+Shazbot   800744134  2  2  r    -      -      -        -         1870   20   30 Qh
+Shazbot   800744150  2  1 +Bk  +k     +k     +b        -         1880   30   40 6s Qs Ad Ac
+Shazbot   800744171  2  2  cc  +k     +b      b        b         1890   80  160 8d As 6d 6c  2s 7c Ah
+Shazbot   800744212  2  2  c   +k      k      r        k         1970   50    0 Qh 6d 3d 3h  Jh Ks 6s
+Shazbot   800744259  2  1 +B    -      -      -        -         1920   10   10 8d
+Shazbot   800744273  2  1 +B    -      -      -        -         1920   10   10 Jc
+Shazbot   800744277  2  1 +Bk   c     +bc    +k       +k         1920   60  120 Tc 7d Th 3h  6d 6h 4s
+Shazbot   800744323  2  1 +B    -      -      -        -         1980   10   10 8c
+Shazbot   800744332  2  1 +B    -      -      -        -         1980   10   10 5d
+Shazbot   800744339  2  2  r    -      -      -        -         1980   20   30 Qd
+Shazbot   800744350  2  2  r   +b     +b      b        b         1990   90   90 3c 3h 6d 2s  Kc Ad As
+Shazbot   800744400  2  1 +Bk  +kf     -      -        -         1990   10    0 8s Ad
+Shazbot   800744419  2  2  f    -      -      -        -         1980    0    0 Jh
+Shazbot   800744426  2  1 +B    -      -      -        -         1980   10   10 5h
+Shazbot   800744431  2  2  f    -      -      -        -         1980    0    0 Ks
+Shazbot   800744435  2  2  f    -      -      -        -         1980    0    0 9h
+Shazbot   800744439  2  2  f    -      -      -        -         1980    0    0 Jc
+Shazbot   800744446  2  1 +B    -      -      -        -         1980   10   10 Td
+Shazbot   800744450  2  2  f    -      -      -        -         1980    0    0 8c
+Shazbot   800744453  2  2  cc  +k     +kc    +kc      +kc        1980   80   80 Qc 2d 2c Td  Jh Tc Ad
+Shazbot   800744510  2  2  f    -      -      -        -         1980    0    0 Qd
+Shazbot   800744524  2  2  cc   c      k      c        f         1980   50    0 Jd 2s 7h Tc
+Shazbot   800744557  2  1 +Bk   k     +k     +kf       -         1930   10    0 5h 6s Qd 9s
+Shazbot   800744599  2  1 +B    -      -      -        -         1920   10   10 7s
+Shazbot   800744609  2  1 +B    -      -      -        -         1920   10   10 5s
+Shazbot   800744613  2  1 +B    -      -      -        -         1920   10   10 6d
+Shazbot   800744617  2  2  c   +kf     -      -        -         1920   10    0 Qs 9d
+Shazbot   800744643  2  2  c   +k     +b     +k       +k         1910   30    0 7d Kd 3s 7c  4s 2c 9s
+Shazbot   800744689  2  2  c   +k     +kr    +b        -         1880   70  120 9s Kh Ad Ks
+Shazbot   800744737  2  2  f    -      -      -        -         1930    0    0 Jh
+Shazbot   800744743  2  2  c   +b     +k      k        k         1930   20   40 Td 9h 5c 7d  Kh Ad 9c
+Shazbot   800744771  2  1 +B    -      -      -        -         1950   10   10 8c
+Shazbot   800744775  2  1 +B    -      -      -        -         1950   10   10 Kh
+Shazbot   800744786  2  2  r    -      -      -        -         1950   20   30 8s
+Shazbot   800744800  2  2  f    -      -      -        -         1960    0    0 Kd
+Shazbot   800744811  2  2  r   +kc    +kc    +kc      +k         1960   70   70 9h As 2c 4d  Jh 9s 5h
+Shazbot   800744868  2  2  c    c     +kf     -        -         1960   20    0 8d Qc Ah
+Shazbot   800744907  2  1 +B    -      -      -        -         1940   10   10 6d
+Shazbot   800744911  2  2  f    -      -      -        -         1940    0    0 5s
+Shazbot   800744914  2  2  cc  +kc    +kc    +kc      +k         1940   70    0 Jd 6s 6c 2c  Tc Ac 9h
+Shazbot   800744952  2  2  r   +b      -      -        -         1870   30   50 Ah Jh
+Shazbot   800744976  2  1 +B    -      -      -        -         1890   10   10 Tc
+Shazbot   800744982  2  1 +B    -      -      -        -         1890   10   10 4d
+Shazbot   800744999  3  1 +Bf   -      -      -        -         1890   10    0 6c
+Shazbot   800745014  3  3  c   +bc    +kc    +kc      +kc        1880  100    0 9d Kh 6s 6d  Kd As Js
+Shazbot   800745061  3  2  c   +k     +kf     -        -         1780   10    0 Kd 7c 6h
+Shazbot   800745106  3  2  c    b     +b      -        -         1770   40   60 7c 6s 6h
+Shazbot   800745130  3  2  cc  +kc     c      c        f         1790   70    0 As 9d 8d Jh
+Shazbot   800745162  3  3  f    -      -      -        -         1720    0    0 Qd
+Shazbot   800745226  3  2  c   +kf     -      -        -         1720   10    0 As Th
+Shazbot   800745326  4  3  cc  +kc    +k     +k       +kf        1710   30    0 8c Kc Ah 9s
+Shazbot   800745384  4  2  cc   f      -      -        -         1680   20    0 8c 2h
+Shazbot   800745445  4  2  Q    -      -      -        -         1660    0    0 Jh
+Shazbot   800814020  5  5  f    -      -      -        -         1660    0    0 4s
+Shazbot   800814109  6  6  cc  +b     +b     +b       +kc        1660   90    0 3c 7h Kc 5d  Js Ad 3h
+Shazbot   800814205  7  2  f    -      -      -        -         1570    0    0 Qc
+Shazbot   800814382  8  8  f    -      -      -        -         1570    0    0 Ks
+Shazbot   800814490  8  1 +Bf   -      -      -        -         1570   10    0 3h
+Shazbot   800814546  8  5  f    -      -      -        -         1560    0    0 2s
+Shazbot   800814681  8  8  f    -      -      -        -         1560    0    0 6c
+Shazbot   800814876  6  4  c    c      k      cc       rc        1560  180  285 Ah Qh 4h Kc  5d Kh 9h
+Shazbot   800814975  6  4  f    -      -      -        -         1665    0    0 8d
+Shazbot   800815029  6  1 +Bk   c      c      c        k         1665   60   60 2d 9s 6d 7d  Ks 4d 8s
+Shazbot   800815083  7  5  f    -      -      -        -         1665    0    0 6h
+Shazbot   800815126  6  5  c    c      ccc    kc       kf        1665  130    0 8h Th 5d Qc
+Shazbot   800815225  6  5  f    -      -      -        -         1535    0    0 Kc
+Shazbot   800815240  6  4  f    -      -      -        -         1535    0    0 Kd
+Shazbot   800815288  6  4  c    f      -      Q        -         1535   10    0 7s 2h
+Shazbot   800815522  6  5  c    c      c      c        k         1525   70    0 Kc Ac Js Td  4d 3h 4h
+Shazbot   800815611  6  4  r    r     +b     +k       +k         1455   60    0 Qc 4d 4h 8s  Kc Ac 9d
+Shazbot   800815706  6  1 +Bf   -      -      -        -         1395   10    0 2c
+Shazbot   800815789  6  2  rc   c      k      k        c         1385   60  115 Kd 4d Qs 5d  8c Th Kh
+Shazbot   800815913  6  3  f    -      -      -        -         1440    0    0 Kd
+Shazbot   800815987  7  1 +Bc   r      b      rc       f         1440  120    0 3s Kc 8s 4h
+Shazbot   800816115  7  7  f    -      -      -        -         1320    0    0 4d
+Shazbot   800816144  7  5  r    b      b      kc       cc        1320  130    0 Ad Qd 7s 5d  7c Td Ts
+Shazbot   800816276  6  1 +Bk   b      c      k        c         1190   60   75 3d 7s Ts 2s  Th 5h 8h
+Shazbot   800816371  6  3  f    -      -      -        -         1205    0    0 Ts
+Shazbot   800816630  7  4  rc  +kc     k      k        k         1205   50  100 Jc 8c 2d 7h  Jd 9s Ks
+Shazbot   800816788  7  6  f    -      -      -        -         1255    0    0 Ts
+Shazbot   800816938  6  3  c   +b     +k      b        k         1255   40   45 5c Ah 5d 8h  3d 7c Tc
+Shazbot   800817020  7  7  c    cc     kc     kf       Q         1260   50    0 Qs 2s 5s 7d
+Shazbot   800817525  8  1 +Bk  +kQ     -      -        -         1210   10    0 2c Qs
+Shazbot   800827404  3  1 +B    -      -      -        -         1200   10   10 2s
+Shazbot   800827466  5  2  f    -      -      -        -         1200    0    0 7s
+Shazbot   800827479  5  3  r    bc     kc     cc       f         1200  110    0 Ad 8d Ks Jh
+Shazbot   800827557  5  3  cc   kc     c      c        f         1090   70    0 3d 5c 9c 7c
+Shazbot   800827607  5  3  f    -      -      -        -         1020    0    0 6s
+Shazbot   800827627  5  5  c    c      c      f        -         1020   40    0 7h Jc 4h Qs
+Shazbot   800827745  5  1 +Bk   k      r      c        f          980   70    0 4s 9c 3c 6s
+Shazbot   800827820  5  4  c   +k     +b     +b       +bc         910   90    0 Jh Kc 7d Qh  7s 7c 8h
+Shazbot   800827892  4  1 +Bk   r      r      b        c          820  110    0 2c 6h 8c Qs  7d 5s Ks
+Shazbot   800827983  4  2  r    b      b      b        b          710   90  135 7d Ad 3s Tc  6s As 4h
+Shazbot   800828065  4  1 +B    -      -      -        -          755   10   10 9s
+Shazbot   800828092  4  2  r   +k     +kf     -        -          755   20    0 3d Td 8h
+Shazbot   800828179  6  6  c   +kc    +kc    +kf       -          735   40    0 5c Ah Kh Ts
+Shazbot   800828237  6  2  f    -      -      -        -          695    0    0 Js
+Shazbot   800828374  5  4  f    -      -      -        -          695    0    0 9s
+Shazbot   800828413  6  6  c    k      b      -        -          695   30   40 Tc 2c 8s
+Shazbot   800828452  7  1 +Bk   k      k      r        k          705   50  170 3d 9s 6s 4s  Qs 2d Ts
+Shazbot   800828658  7  5  Q    -      -      -        -          825    0    0 Jc
+Shazbot   800829108  8  3  f    -      -      -        -          825    0    0 8s
+Shazbot   800829191  8  8  c    c      bc     kc       c          825  100    0 Ts 7c 3d 8d  Qs 3s Tc
+Shazbot   800829293  8  7  f    -      -      -        -          725    0    0 7c
+Shazbot   800829332  8  8  c    c      c      r        k          725  100  155 8d 4h 3d 5d  4c Ac 2h
+Shazbot   800829412  8  8  f    -      -      -        -          780    0    0 Js
+Shazbot   800829429  8  7  f    -      -      -        -          780    0    0 As
+Shazbot   800829462  8  8  f    -      -      -        -          780    0    0 6c
+Shazbot   800829551  8  5  c   +kf     -      -        -          780   20    0 Kd 4c
+Shazbot   800829669  8  6  c    c      f      -        -          760   20    0 5s 6s Qh
+Shazbot   800829744  8  4  c    c      kc     kc       k          740   80  120 Kc 2s Qs 9c  Qc 5d Ts
+Shazbot   800829871  8  3  f    -      -      -        -          780    0    0 Jd
+Shazbot   800830107  8  3  f    -      -      -        -          780    0    0 4d
+Shazbot   800830236  8  1 +Bk   c      c      k        b          780   60  120 6h 3d 5d 8d  9s 5c 7h
+Shazbot   800830298  8  4  c   +b      -      -        -          840   20   40 As 5s Qs
+Shazbot   800830397  8  5  f    Q      -      -        -          860    0    0 9d
+Shazbot   800830657  7  7  Q    -      -      -        -          860    0    0 6h
+Shazbot   800837437  4  4  f    -      -      -        -          750    0    0 Qd
+Shazbot   800837453  4  4  r   +b     +b      k        c          750   70    0 3h 6d 7d Qc  3d 5s Jc
+Shazbot   800837490  3  3  c    c      c      c        c          680   80  170 8h Qh 3c 4h  5h 6h 5c
+Shazbot   800837549  3  1 +B    -      -      -        -          770   10   10 9s
+Shazbot   800837563  2  2  rQ   -      -      -        -          770   20   30 Kc
+Shazbot   800898776  2  2  r   +b     +b      -        -          780   50   80 As Qd Qc
+Shazbot   800898809  2  1 +B    -      -      -        -          810   10   10 6s
+Shazbot   800898814  2  2  f    -      -      -        -          810    0    0 Kh
+Shazbot   800898826  2  1 +B    -      -      -        -          810   10   10 2h
+Shazbot   800898831  2  2  c    c      k      k        r          810   60  120 4s Js 9c 2d  Jd 8s Jh
+Shazbot   800898884  2  1 +B    -      -      -        -          870   10   10 9d
+Shazbot   800898905  2  1 +B    -      -      -        -          870   10   10 3s
+Shazbot   800898914  2  1 +B    -      -      -        -          870   10   10 4s
+Shazbot   800898922  2  1 +B    -      -      -        -          870   10   10 2d
+Shazbot   800898938  2  2  c   +kc    +k     +k       +b          870   40   40 8h Qc 4c 3h  9h Th Kh
+Shazbot   800899013  2  2  f    -      -      -        -          870    0    0 Qs
+Shazbot   800899022  2  2  f    -      -      -        -          870    0    0 4c
+Shazbot   800899026  2  1 +B    -      -      -        -          870   10   10 3h
+Shazbot   800899029  2  2  c   +kf     -      -        -          870   10    0 Qs Ts
+Shazbot   800899050  2  2  r   +k      k      k        k          860   20   40 Kh 6s 4h 8d  8s Jh Qh
+Shazbot   800899086  2  2  r    -      -      -        -          880   20   30 Ah
+Shazbot   800899110  2  2  r   +b      -      -        -          890   30   50 8s As
+Shazbot   800899127  2  2  r    -      -      -        -          910   20   30 7s
+Shazbot   800899143  2  1 +Bf   -      -      -        -          920   10    0 9d
+Shazbot   800899152  2  2  r    -      -      -        -          910   20   30 Td
+Shazbot   800899157  2  1 +B    -      -      -        -          920   10   10 Qs
+Shazbot   800899161  2  2  cc  +kc    +kc    +kc      +kc         920   90   90 Ac 2h Ks 9h  7d 5c 6c
+Shazbot   800899205  2  2  r   +k      k      c        c          920   60   60 Th 8c 4d Kh  8s 9h 3h
+Shazbot   800899276  2  2  r    -      -      -        -          920   20   30 Kc
+Shazbot   800899299  3  2  f    -      -      -        -          930    0    0 Ad
+Shazbot   800899325  3  3  cc  +kf     -      -        -          930   20    0 Ah 9h
+Shazbot   800899349  3  2  f    -      -      -        -          910    0    0 7s
+Shazbot   800899361  3  3  f    -      -      -        -          910    0    0 Qd
+Shazbot   800899366  3  2  f    -      -      -        -          910    0    0 Ks
+Shazbot   800899371  3  2  r    k      f      -        -          910   20    0 5d 2h Qs
+Shazbot   800899402  3  3  c   +b      -      -        -          890   20   30 Ac Ad
+Shazbot   800899428  3  2  r    b      b      b        b          900   90  210 5s Js 4h 3c  8h Ad 8c
+Shazbot   800899502  3  1 +Bc   f      -      -        -         1020   20    0 8s 6h
+Shazbot   800899524  3  1 +B    -      -      -        -         1000   10   10 4h
+Shazbot   800899530  3  1 +Bc   f      -      -        -         1000   20    0 3s 7c
+Shazbot   800899549  3  2  f    -      -      -        -          980    0    0 4d
+Shazbot   800899572  3  1 +B    -      -      -        -          980   10   10 6h
+Shazbot   800899579  3  1 +Bc   f      -      -        -          980   20    0 2h 9d
+Shazbot   800899626  3  1 +B    -      -      -        -          960   10   10 2h
+Shazbot   800899635  3  1 +B    -      -      -        -          960   10   10 3c
+Shazbot   800899644  3  2  c   +bc    +kc    +k       +bc         960   90    0 Qd Qc Kd 5h  9d 4d 5s
+Shazbot   800899731  4  1 +Bf   -      -      -        -          870   10    0 2d
+Shazbot   800899756  4  2  c    k     +k     +k       +kf         860   10    0 9s 3h Qh 8d
+Shazbot   800899796  5  3  r   +b     +b      r        b          850  120  250 8s Kh Th 3d  Js Ks Kd
+Shazbot   800899850  5  1 +Bk  +kc    +kc     c        r          980  100  200 5c 4d Tc 6c  8s 3h 2h
+Shazbot   800899918  6  4  f    -      -      -        -         1080    0    0 7c
+Shazbot   800899966  6  4  c   +kc     rc    +b       +b         1080  120  250 8c 8h 9d 8s
+Shazbot   800900068  8  5  c   +kf     -      -        -         1210   10    0 6c Qh
+Shazbot   800900282  7  3  f    -      -      -        -         1200    0    0 4c
+Shazbot   800900370  8  6  c    c      k      f        -         1200   20    0 Ks 5d 2h 5h
+Shazbot   800900559  8  7  f    -      -      -        -         1180    0    0 Qc
+Shazbot   800900591  7  6  f    -      -      -        -         1180    0    0 4c
+Shazbot   800900760  5  4  f    -      -      -        -         1180    0    0 Ts
+Shazbot   800900922  6  4  c    b      k      c        c         1180   80    0 8c 7h Ks Ah  3d 3h 3c
+Shazbot   800901051  5  2  f    -      -      -        -         1100    0    0 Qd
+Shazbot   800901273  4  4  f    -      -      -        -         1100    0    0 Js
+Shazbot   800901275  3  3  c   +kc    +kr    +b       +b         1100  100  105 9d Tc 7s 6s  8c 6c 9c
+Shazbot   800901299  3  3  cc   k      c      b        b         1105   80  200 Td 3s 5c 4d  4c 9h 3c
+Shazbot   800901379  3  3  r    b      -      -        -         1225   30   50 8d 3d
+Shazbot   800901394  3  1 +Bc   k      c      k        f         1245   40    0 2s Qc 7d 9h
+Shazbot   800901475  3  2  c   +b     +b     +b       +b         1205   80  160 8d 9d 8h Td  5c 7d 6c
+Shazbot   800901520  3  2  c    b     +b     +b       +b         1285   80   85 8s 4d 2d 2h  Js 6s 7d
+Shazbot   800901567  3  2  r   +kc    +kc    +kc      +kc        1290   90  180 9d 8h 7d 7s  Qs 6h 6d
+Shazbot   800901627  3  1 +B    -      -      -        -         1380   10   10 4s
+Shazbot   800901635  3  1 +Bk   k      k      k        b         1380   30   40 2h 5d 6s Td
+Shazbot   800901689  3  2  c    k      b      k        f         1390   30    0 7h Tc 9d Kh
+Shazbot   800901746  3  2  c    f      -      -        -         1360   10    0 Jd 3c
+Shazbot   800901765  4  1 +Bc   b      b      b        bc        1350  110  110 2s 6h 9d 8c  9c 7d 3d
+Shazbot   800901806  4  1 +Bc   c      c      b        k         1350   70    0 4s 8c 3c 2c  Ts Js 4d
+Shazbot   800901848  4  1 +Bk   b      -      -        -         1280   20   40 2d As 3d
+Shazbot   800901888  4  4  c    kc    +k     +b       +b         1300   60  220 7h 9h Ad 8h  6d 5s Jh
+Shazbot   800901977  6  3  r    c      f      -        -         1460   30    0 Td Kh 5h
+Shazbot   800902029  6  2  Q    -      -      -        -         1430    0    0 8h
+Shazbot   800902373  8  2  f    -      -      -        -         1430    0    0 Qh
+Shazbot   800902485  8  7  c    c      c      c        f         1430   70    0 5d 9h 6s Js
+Shazbot   800902612  8  8  f    -      -      -        -         1360    0    0 4d
+Shazbot   800902677  8  1 +Bc   kc     k      kc       k         1360   60    0 2d 7c 8s Ks  Kh Jh Ac
+Shazbot   800902782  7  1 +Bk  +b     +b     +k       +k         1300   40  100 5c Ah 6h Jd  6d Js 2c
+Shazbot   800902876  6  3  Q    -      -      -        -         1360    0    0 3d
+Shazbot   800906258  5  2  c   +b     +b     +k       +k         1360   40    0 8s 8d 2s 6d  Ts 4d Qh
+Shazbot   800906317  5  5  f    -      -      -        -         1320    0    0 9s
+Shazbot   800906361  4  1 +Bc   r      c      k        k         1320   60    0 7d 4d 9s 6d  Qh 7h 2c
+Shazbot   800906425  4  3  f    -      -      -        -         1260    0    0 3d
+Shazbot   800906452  4  3  c    c     +k      b        k         1260   50  130 9d 3h 3c 7c  9c Kh 8d
+Shazbot   800906534  4  2  cc   f      -      -        -         1340   20    0 7s Jd
+Shazbot   800906599  4  1 +B    -      -      -        -         1320   10   10 2h
+Shazbot   800906618  4  2  r    k      k      c        c         1320   60  220 Th 2c 5s 7d  Ah 8s 8d
+Shazbot   800906727  4  4  f    -      -      -        -         1480    0    0 9c
+Shazbot   800906749  4  4  r    b     +b      -        -         1480   50  100 Td Kd 2s
+Shazbot   800906794  3  3  f    -      -      -        -         1530    0    0 Qh
+Shazbot   800906856  4  3  f    -      -      -        -         1530    0    0 4c
+Shazbot   800906895  4  1 +Bk   k     +b     +b       +b         1530   70    0 3d 4s 4d Th  Ah 3s 6d
+Shazbot   800906943  3  1 +Br  +b      -      -        -         1460   30   50 3s Ac
+Shazbot   800906963  3  3  rc  +b      r      k        rc        1480  140  150 6c 6s Jh 5s  4d 7s As
+Shazbot   800907016  3  3  f    -      -      -        -         1490    0    0 8h
+Shazbot   800907023  3  3  f    -      -      -        -         1490    0    0 Kc
+Shazbot   800907073  3  3  f    -      -      -        -         1490    0    0 Qs
+Shazbot   800907090  3  1 +Bk   k      c      c        c         1490   70   70 6d 2h 4c Jd  3d Ts 8s
+Shazbot   800907117  3  3  r    bc     r      k        k         1490   80    0 Kc 5d Jc 9s  Jd 3d Tc
+Shazbot   800907163  3  1 +B    -      -      -        -         1410   10   10 2s
+Shazbot   800907170  3  3  c   +k     +kf     -        -         1410   10    0 Ah 9c 6h
+Shazbot   800907210  3  1 +B    -      -      -        -         1400   10   10 2s
+Shazbot   800907215  3  3  f    -      -      -        -         1400    0    0 9h
+Shazbot   800907252  3  1 +Bc  +kf     -      -        -         1400   20    0 2c Kc
+Shazbot   800907269  3  3  r    -      -      -        -         1380   20   30 As
+Shazbot   800907283  3  2  f    -      -      -        -         1390    0    0 Jh
+Shazbot   800907291  3  2  f    -      -      -        -         1390    0    0 Qs
+Shazbot   800907296  3  2  r   +kc    +brc   +kc      +kc        1390  150  150 Ks 5h Kd Td  4h Ah 4s
+Shazbot   800907343  3  2  rc   c     +b     +b       +b         1390  100    0 9s Qc Qd 9c  Jc 6d Kc
+Shazbot   800907383  3  2  r    k      r      -        -         1290   60  120 Qs 3s 9s
+Shazbot   800907425  3  2  f    -      -      -        -         1350    0    0 Jh
+Shazbot   800907442  3  3  r   +b      -      -        -         1350   40   80 Ad Th
+Shazbot   800907463  3  3  c   +kc    +kc     c        c         1390   90    0 3s 9s 5h 2c  7h Ts 5d
+Shazbot   800907505  3  3  c   +b      -      -        -         1300   20   40 8c 8h
+Shazbot   800907527  3  2  f    -      -      -        -         1320    0    0 4c
+Shazbot   800907531  3  2  f    -      -      -        -         1320    0    0 5c
+Shazbot   800907539  3  1 +Bc   c     +kc    +kc      +kr        1320  110  110 7c 8s 7h Jd  7d 9d 2h
+Shazbot   800907579  3  1 +Bc   r      c      c        c         1320  100  220 Js 8s 9c 3s  7d 7h 8h
+Shazbot   800907609  3  1 +Bk   c      r      b        b         1440  100  220 3s 2s Ac 2c  Qd 4d 5s
+Shazbot   800907647  3  2  f    -      -      -        -         1560    0    0 6c
+Shazbot   800907664  3  2  c   +k     +kf     -        -         1560   10    0 5s 9s Qd
+Shazbot   800907690  3  2  f    -      -      -        -         1550    0    0 7c
+Shazbot   800907696  3  2  r   +b     +b     +b       +b         1550   90  160 Ah 3s 6c 7c
+Shazbot   800907736  3  3  f    -      -      -        -         1620    0    0 Js
+Shazbot   800907804  3  2  f    -      -      -        -         1620    0    0 Jc
+Shazbot   800907833  3  2  f    -      -      -        -         1620    0    0 3c
+Shazbot   800907844  3  3  r   +b     +b     +k       +k         1620   50    0 Jd Kc Ts Ac  9s Js 8d
+Shazbot   800907882  2  2  Q    -      -      -        -         1570    0    0 6s
+Shazbot   800922876  6  5  cc  +kc     cc     c        r         1570  130  390 Kc 5s 4h 3s  Ad 4d Ah
+Shazbot   800922989  5  5  c    f      -      -        -         1830   20    0 8c Jd
+Shazbot   800923109  6  2  c    c      r      rrc      c         1810  180  195 9c Kc Js 2h  Th Qs 5h
+Shazbot   800923233  5  4  c   +kf     -      -        -         1825   10    0 Jc Ac
+Shazbot   800923312  5  2  f    -      -      -        -         1815    0    0 3s
+Shazbot   800923333  5  4  rr  +b     +b     +b       +b         1815  110    0 Qd 3h 5h 9h  7c Qc Kc
+Shazbot   800923401  5  3  rQ   -      -      -        -         1705   20    0 9c
+Shazbot   801867209  2  1 +B    -      -      -        -         1685   10   10 9d
+Shazbot   801867217  2  2  f    -      -      -        -         1685    0    0 Kh
+Shazbot   801867222  2  2  r    -      -      -        -         1685   20   30 As
+Shazbot   801867230  2  1 +B    -      -      -        -         1695   10   10 6s
+Shazbot   801867234  2  2  c   +kc    +kc    +kc      +k         1695   60  120 Kc Qc 4d 8c  9c 6c Jd
+Shazbot   801867275  2  2  f    -      -      -        -         1755    0    0 Td
+Shazbot   801867284  2  1 +B    -      -      -        -         1755   10   10 8c
+Shazbot   801867312  2  1 +Bc   c      k      k        b         1755   50  100 6s 3d Qs 7d  9h 4h 5s
+Shazbot   801867346  2  2  rr  +b      b      -        -         1805   70  120 Ah Qc 4h
+Shazbot   801867385  2  2  r    -      -      -        -         1855   20   30 As
+Shazbot   801867393  2  2  r   +b     +b     +k       +k         1865   50  100 Js 9c 8h 5s  Kh Qd 5h
+Shazbot   801867469  2  2  c    k     +b     +k       +k         1915   30    0 5c 8c 8d 4h  Ks 3s Qh
+Shazbot   801867527  3  3  f    -      -      -        -         1885    0    0 Jd
+Shazbot   801867545  3  1 +Bk  +b     +b     +k       +k         1885   40   80 9d 9s Tc 6c  6s Qd Ad
+Shazbot   801867633  3  3  rc  +kc    +kc     c        c         1925  100    0 Qs 7c 3d 5d  Kh Qd Tc
+Shazbot   801867712  3  3  f    -      -      -        -         1825    0    0 Qc
+Shazbot   801867742  2  1 +Bc   r      c      c        k         1835   80    0 3d 3c Ad Td  9s 8c 9h
+Shazbot   801867788  2  1 +Bk  +b      -      -        -         1755   20   30 2h Ad
+Shazbot   801867804  2  2  r    -      -      -        -         1765   20   30 Qc
+Shazbot   801867814  2  2  f    -      -      -        -         1775    0    0 Kc
+Shazbot   801867821  2  1 +Bf   -      -      -        -         1775   10    0 Jh
+Shazbot   801867829  2  2  f    -      -      -        -         1765    0    0 Qc
+Shazbot   801867833  2  2  c   +kc     c     +k       +k         1765   40   80 Ts Qh 5d Ad  Ac Kd 2c
+Shazbot   801867863  2  2  f    -      -      -        -         1805    0    0 7d
+Shazbot   801867871  2  2  r   +k     +b      -        -         1805   40   60 Jc 4h 8s
+Shazbot   801867893  2  1 +Bc  +kc     c      c        c         1825   90   90 4c As 8d 7d  Th Qs 3h
+Shazbot   801867933  2  2  f    -      -      -        -         1825    0    0 7d
+Shazbot   801867942  2  1 +Bk   k      k      k        b         1825   30   30 3c Ks Ad Jd  Td 6s Qs
+Shazbot   801867980  2  2  f    -      -      -        -         1825    0    0 Kc
+Shazbot   801867986  2  1 +Bc   c      k      k        k         1825   30    0 8d Qc 5s 6s  9d Js Ad
+Shazbot   801868022  2  1 +Bk   c      f      -        -         1795   20    0 9h Tc 5h
+Shazbot   801868043  2  2  f    -      -      -        -         1775    0    0 Qh
+Shazbot   801868046  2  2  f    -      -      -        -         1775    0    0 8s
+Shazbot   801868051  2  1 +B    -      -      -        -         1775   10   10 5c
+Shazbot   801868059  2  1 +Bf   -      -      -        -         1775   10    0 5d
+Shazbot   801868068  2  2  c   +b      -      -        -         1765   20   30 As Ad
+Shazbot   801868090  2  2  f    -      -      -        -         1775    0    0 Jc
+Shazbot   801868191  2  2  c    k      b      -        -         1775   30   40 3s 4c 6d
+Shazbot   801868245  2  2  cc  +kc    +kc    +k       +kc        1785   70    0 Qd 7s Tc Td  9d 8d 7h
+Shazbot   801868394  2  1 +B    -      -      -        -         1715   10   10 Jc
+Shazbot   801868396  2  2  f    -      -      -        -         1715    0    0 5h
+Shazbot   801868397  2  2  c   +kf     -      -        -         1715   10    0 5s Js
+Shazbot   801868399  2  1 +Bk  +k     +k      k        k         1705   10   20 6s Th Qs Jh  7c 8d Td
+Shazbot   801868402  2  2  f    -      -      -        -         1715    0    0 Qs
+Shazbot   801868403  2  2  f    -      -      -        -         1715    0    0 Ks
+Shazbot   801868404  2  2  c    k      f      -        -         1715   10    0 Ad 9d Tc
+Shazbot   801868406  2  2  cc  +kc    +kc     c        c         1705   90   90 9s Qc 8h 5s  Qs 4s 6h
+Shazbot   801868445  2  2  r    -      -      -        -         1705   20   30 Ad
+Shazbot   801868457  2  1 +B    -      -      -        -         1715   10   10 4d
+Shazbot   801868466  2  1 +B    -      -      -        -         1715   10   10 6s
+Shazbot   801868470  2  1 +B    -      -      -        -         1715   10   10 Th
+Shazbot   801868489  2  1 +Bk   k     +k     +k       +b         1715   30   40 7c 2s 7d Jh
+Shazbot   801868534  3  1 +Bf   -      -      -        -         1725   10    0 7d
+Shazbot   801868581  3  1 +B    -      -      -        -         1715   10   10 3s
+Shazbot   801868597  3  1 +Bc   f      -      -        -         1715   20    0 3d 8h
+Shazbot   801868619  3  3  f    -      -      -        -         1695    0    0 Jh
+Shazbot   801868679  3  1 +Bk  +k     +k      f        -         1695   10    0 2c Kd 4d Jd
+Shazbot   801868710  3  2  f    -      -      -        -         1685    0    0 Js
+Shazbot   801868737  3  1 +Bf   -      -      -        -         1685   10    0 4h
+Shazbot   801868751  3  3  f    -      -      -        -         1675    0    0 5s
+Shazbot   801868777  3  3  c   +k     +b      -        -         1675   30   40 As 4c Ah
+Shazbot   801868807  3  3  r    kc     k      f        -         1685   30    0 8h 9h 6d Td
+Shazbot   801868858  3  1 +Bk   k     +b      -        -         1655   30   40 4s Jd 4h
+Shazbot   801868888  3  3  f    -      -      -        -         1665    0    0 Kc
+Shazbot   801868904  3  2  f    -      -      -        -         1665    0    0 Qc
+Shazbot   801868914  3  1 +Bk   k     +b     +b       +b         1665   70    0 2s Qd Ad 6h  Th Ah 2c
+Shazbot   801868956  3  2  r    c      c     +b       +b         1595   90  180 Qh Jc Kd Ah
+Shazbot   801869002  3  2  f    -      -      -        -         1685    0    0 9d
+Shazbot   801869006  3  3  f    -      -      -        -         1685    0    0 Qd
+Shazbot   801869015  3  3  c    k     +b      k        c         1685   50    0 9s 8h 8s 7h  7d As Qh
+Shazbot   801869058  3  3  f    -      -      -        -         1635    0    0 9h
+Shazbot   801869090  3  2  f    -      -      -        -         1635    0    0 5d
+Shazbot   801869101  3  3  f    -      -      -        -         1635    0    0 6c
+Shazbot   801869108  3  1 +Bk   b     +b     +kc      +bc        1635  100    0 8c 5d 5c Th  6c 2c 7d
+Shazbot   801869161  3  3  c   +b     +bc    +kc      +kc        1535  100  100 Ks Jc 8d Td  9h Js Jh
+Shazbot   801869220  3  3  c   +k      k     +k       +k         1535   10   20 Qd 3s Ts Qs
+Shazbot   801869254  3  3  r    -      -      -        -         1545   20   30 Td
+Shazbot   801869263  3  2  r   +b     +b     +b       +k         1555   70  160 Ac 9s 8s Jd  Qd 6s Qc
+Shazbot   801869306  3  1 +B    -      -      -        -         1645   10   10 3d
+Shazbot   801869315  3  2  c    c      f      -        -         1645   20    0 Jh Ad 7s
+Shazbot   801869335  3  3  f    -      -      -        -         1625    0    0 Jh
+Shazbot   801869383  3  3  f    -      -      -        -         1625    0    0 9d
+Shazbot   801869411  3  2  f    -      -      -        -         1625    0    0 8s
+Shazbot   801869472  3  2  c    f      -      -        -         1625   10    0 Jd 4s
+Shazbot   801869497  3  3  f    -      -      -        -         1615    0    0 6s
+Shazbot   801869504  3  2  c    b      k      k        k         1615   20   25 5d 2c 9d Th  7s 6s 3s
+Shazbot   801869571  3  2  f    -      -      -        -         1620    0    0 Jh
+Shazbot   801869578  3  3  f    -      -      -        -         1620    0    0 Ks
+Shazbot   801869599  3  2  c   +b     +b     +b       +b         1620   80  150 7h Ah Qc 7s
+Shazbot   801869633  3  1 +Bf   -      -      -        -         1690   10    0 4d
+Shazbot   801869644  3  2  f    -      -      -        -         1680    0    0 Kc
+Shazbot   801869669  3  3  r   +b     +b      -        -         1680   60  110 As 3d Ac
+Shazbot   801869695  3  3  f    -      -      -        -         1730    0    0 Jh
+Shazbot   801869699  3  2  f    -      -      -        -         1730    0    0 Qh
+Shazbot   801869717  3  3  f    -      -      -        -         1730    0    0 Qc
+Shazbot   801869725  3  1 +B    -      -      -        -         1730   10   10 8s
+Shazbot   801869731  3  2  f    -      -      -        -         1730    0    0 Jc
+Shazbot   801869767  3  1 +Bk  +kf     -      -        -         1730   10    0 5d 9d
+Shazbot   801869783  3  1 +Bk   r      kc     k        kc        1720   70    0 5d Ac Qh 3d  As 8d Tc
+Shazbot   801869841  3  2  f    -      -      -        -         1650    0    0 6s
+Shazbot   801869853  3  2  cc   f      Q      -        -         1650   20    0 8s 9d
