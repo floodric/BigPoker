@@ -1,166 +1,348 @@
-from pprint import pprint as pp
+import os
+import pickle
+import multiprocessing
 
-"""
-The betting action is encoded with a single character for each action:
+ranks = ['0','1','2','3','4','5','6','7','8','9','T','J','Q','K','A']
+suits = ['c','d','h','s']
 
-        -       no action; player is no longer contesting pot
-        B       blind bet
-        f       fold
-        k       check
-        b       bet
-        c       call
-        r       raise
-        A       all-in
-        Q       quits game
-        K       kicked from game
-"""
-bet_dict = {
-  '-':'no action',
-  'r':'raise',
-  'f':'fold',
-  'c':'call',
-  'b':'bet',
-  'B':'Blind bet',
-  'Q':'Quits game',
-  'k':'check',
-  'K':'Kicked',
-  'A':'All in'
-}
+leavingHandActions = ['f','K','-','Q']
 
-def readhdb(path):
-  hands = open(path+"/hdb")
-  j = 0
-  match = {}
-  for line in hands:
-    line = line.replace('\n','')
-    ourdata = line.split()
-    """
-      column 1        timestamp (supposed to be unique integer)
-      column 2        game set # (incremented when column 3 resets)
-      column 3        game # reported by dealer bot
-      column 4        number of players dealt cards
-      column 5        number of players who see the flop
-      column 6        pot size at beginning of flop
-      column 7        number of players who see the flop
-      column 8        pot size at beginning of turn
-      column 9        number of players who see the flop
-      column 10       pot size at beginning of river
-      column 11       number of players who see the flop
-      column 12       pot size at showdown
-      column 13+      cards on board (0, 3, 4 or 5)
-    """
-  
-    timestamp = int(ourdata[0])
-    setnum = int(ourdata[1])
-    handnum = int(ourdata[2])
+pi = 0
+p7i = 0
 
-  #  print(line)
-    numplayers = int(ourdata[3])
-    flop = ourdata[4]
-    turn = ourdata[5]
-    river = ourdata[6]
-    
-    showdn = ourdata[7]
+holdempicklestr = "./pickles/holdem/{}.pickle"
+studpicklestr = "./pickles/7stud/{}.pickle"
 
-    boardlen = 5 - ((3*(flop[0] == '0')) + (turn[0] == '0') + (river[0]=='0'))
-    if boardlen != 0:
-      board = ourdata[(-1)*boardlen:]
-    else:
-      board = []
-      
-  #  print(numplayers,flop,turn,river,showdn,board)
-    hand = {'ts':timestamp,'set':setnum, 'handnum':handnum, 'players': numplayers, 'flop':flop, 'turn': turn, 'river':river, 'showdown': showdn, 'board': board}
-    match[timestamp] = hand
-  return match
+def readpdbh(path):
+  try:
+    pdb = open(path,"r")
+  except FileNotFoundError as e:
+    print("{} not found".format(path))
+    return None,None
+  global pi
+  pi += 1
 
-  
-def readhroster(path):
-  roster = open(path+"/hroster")
-  records = {}
-  for line in roster:
-    line = line.replace('\n','')
-    rline = line.split()
-    ts = int(rline[0])
-    numplayers = int(rline[1])
-    players = []
-    for i in range(numplayers):
-      players.append(rline[2+i])
-    record = {'ts':ts, 'players':numplayers, 'roster':players}
-    records[ts] = record 
-  return records
-
-
-def readpdb(path,playerset,holdem):
+  playername = "" 
   playerdata = {}
-  for p in playerset:
-    player = open(path+'/pdb/pdb.'+p)
-    playerdata.setdefault(p,{})
-    for line in player:
+
+  for line in pdb:
+    try: # data set irregular, so throw out bad lines
+    
+
       data = line.split()
-      name = data[0]    
-      assert(name == p)
-      ts = int(data[1])
-      dealt = data[2] # dealt cards
-      position = data[3] # position from dealer
+      assert(len(line) >= 11)
 
-      initial_bet = data[4]
+      player = data[0]            # column 1        player nickname
+      ts = int(data[1])           # column 2        timestamp of this hand (see HDB)
+      numCards = int(data[2])     # column 3        number of player dealt cards
+      playerPos = int(data[3])    # column 4        position of player (starting at 1, in order of cards received)
 
-      flop_bet = data[5]
-      turn_bet = data[6]
-      showdown_bet = data[7]
+      preflop = data[4]
+      flop = data[5]
+      turn = data[6]
+      river = data[7]
 
-      total_money = data[8]
-      total_bet = data[9]
-      winnings = data[10]    
+      startBank = int(data[8])    # column 10       player's bankroll at start of hand       
+      totalBet = int(data[9])    # column 11       total action of player during hand
+      totalWin = int(data[10])    # column 12       amount of pot won by player
 
-      folded = (flop_bet == 'f' or turn_bet == 'f' or 
-                showdown_bet == 'f' or initial_bet == 'f')
-      if(not folded):
-        if holdem: 
-          cardindex = -2
-        else:
-          cardindex = -7
-        
-        cards = data[cardindex:]
+      
+      handActions = [preflop, flop, turn, river]
+      finished = True
+      if '-' in handActions:
+        foundGameExit = False
+        for betAction in handActions:
+          for action in list(betAction): # since betAction can be cf (call then fold)
+            foundGameExit = foundGameExit or action in leavingHandActions
+        assert(foundGameExit)
+        finished = False
+    
+      if(playername != ""):
+        assert(playername == player)
       else:
-        cards = []
+        playername = player
+
+      if finished:
+        cards = data[11:]           # column 13+      pocket cards of player (if revealed at showdown)
+        for card in cards:
+          assert(card[0] in ranks)
+          assert(card[1] in suits)
+
+
+        handdata = {"hand": cards, "winnings": totalWin - totalBet}
+        playerdata[ts] = handdata
+
+    except AssertionError as e: # if we have an invalid row, just forget about it
+      print("INVALID {}".format(line))
+      continue
+    except ValueError as e:
+      print("ERROR: {}".format(line))
+      continue
+    except IndexError as e:
+      continue
+    
+  pdb.close()
+  if pi % 100 == 0:
+    print('.',end='',flush=True)
+  return playername, playerdata
+
+
+def readpdb7(path):
+
+  try:
+    pdb = open(path,"r")
+  except FileNotFoundError as e:
+    print("{} not found".format(path))
+    return None,None
+ 
+  playername = "" 
+  playerdata = {}
+  global p7i
+  p7i += 1
+
+  for line in pdb:
+    try: # data set irregular, so throw out bad lines
+
+      data = line.split()
+      assert(len(line) >= 13)
+
+      player = data[0]            # column 1        player nickname
+      ts = int(data[1])           # column 2        timestamp of this hand (see HDB)
+      numCards = int(data[2])     # column 3        number of player dealt cards
+      playerPos = int(data[3])    # column 4        position of player (starting at 1, in order of cards received)
+
+      postcard3 = data[4]         # column 5        betting action
+      postcard4 = data[5]         # column 6        betting action
+      postcard5 = data[6]         # column 7        betting action
+      postcard6 = data[7]         # column 8        betting action
+      postcard7 = data[8]         # column 9        betting action 
+
+      startBank = int(data[9])    # column 10       player's bankroll at start of hand       
+      totalBet = int(data[10])    # column 11       total action of player during hand
+      totalWin = int(data[11])    # column 12       amount of pot won by player
+
+      cards = data[12:]           # column 13+      pocket cards of player (if revealed at showdown)
+      for card in cards:
+        assert(card[0] in ranks)
+        assert(card[1] in suits)
       
-      handdata = {
-        'flop':flop_bet,
-        'turn':turn_bet,
-        'showdown':showdown_bet,
-        'init':initial_bet,
-        'money':total_money,
-        'bet':total_bet,
-        'winnings':winnings,
-        'cards':cards
-      }
+      handActions = [postcard3,postcard4,postcard5,postcard6,postcard7]
+      if '-' in handActions:
+        assert(len(cards) >= 1)
+        foundGameExit = False
+        for betAction in handActions:
+          for action in list(betAction): # since betAction can be cf (call then fold)
+            foundGameExit = foundGameExit or action in leavingHandActions
+        assert(foundGameExit)
+    
+      if(playername != ""):
+        assert(playername == player)
+      else:
+        playername = player
 
-      playerdata[p][ts] = handdata
-    player.close()
+      
+      if(len(cards) == 7): # if they made it to the end, include this
+        handdata = {"hand": cards, "winnings": totalWin - totalBet}
+        playerdata[ts] = handdata
 
-  return playerdata
+    except AssertionError as e: # if we have an invalid row, just forget about it
+      print("INVALID {}".format(line))
+      continue
+    except IndexError as e:
+      continue
+    except ValueError as e:
+      print("ERROR: {}".format(line))
+      continue
+    
+  pdb.close()
+  if p7i % 100 == 0:
+    print('.',end='',flush=True)
+  return playername, playerdata
 
-def load(path,holdem=True):
-  hdbtest = readhdb(path)
-  hrostertest = readhroster(path)
-  players = set()
-  for k,v in hrostertest.items():
-    for p in v['roster']:
-      players.add(p)
-  #pp(players)
-  pdbtest = readpdb(path,players,holdem)
-
-  # now we pivo
+# read hroster file from ./7stud/game/hroster
+# return dict of playernick->game_timestamp[]
+def readhroster(game,holdem):
+  if holdem:
+    pathstr = "./holdem/{}/hroster"
+  else:
+    pathstr = "./7stud/{}/hroster"
   
-  games = {}
-  for k in hdbtest.keys():
-    print(k)
-    games.setdefault(k,hdbtest[k])
-    assert(games[k]['players'] == hrostertest[k]['players'])
-    games[k].setdefault('roster',{})
-    for p in hrostertest[k]['roster']:
-      if k in pdbtest[p].keys():
-        games[k]['roster'][p] = pdbtest[p][k]
+  path = pathstr.format(game)
+  hroster = open(path,"r")
+  playerDB = {} 
+  for line in hroster: 
+    try:
+      data = line.split() 
+      ts = int(data[0])       # column 1        timestamp
+      numCards = int(data[1]) # column 2        number of player dealt cards
+      players = data[2:]      # column 3+       player nicknames
+    
+      for p in players:
+        playerDB.setdefault(p,[])
+        playerDB[p].append(ts)
+    except:
+      print("Not even hroster is safe")
+      continue
+  
+  hroster.close()
+  return playerDB
+    
+
+def correlateWithBoard(game,playerHandDB):
+  print("corellating {}".format(game))
+  hdb = open("./holdem/{}/hdb".format(game),"r")
+
+
+  boards = {}
+  for line in hdb:
+    try:
+      data = line.split()
+      ts = int(data[0])
+
+      if len(data) < 8:
+        continue
+
+      board = data[8:]
+      boards[ts] = board
+    except ValueError as e:
+      continue
+
+  for player, games in playerHandDB.items():
+    if games == None:
+      print(player,"has no games.....")
+      continue
+    for ts, handData in games.items():
+      if ts in boards.keys():
+        playerHandDB[player][ts]["hand"] += boards[ts]
+
+  print("done with player")
+  return playerHandDB
+        
+
+def readPlayers(game,players,holdem):
+  if holdem:
+    pathstr = "./holdem/{}/pdb/pdb.{}"
+  else:
+    pathstr = "./7stud/{}/pdb/pdb.{}"
+
+  print("reading {} players for game {}".format(len(players),game))
+  paths = list(map(lambda x: pathstr.format(game,x), players))
+
+  pool = multiprocessing.Pool(4)
+  if holdem:
+    out = pool.map(readpdbh,paths)
+    out = dict(out)
+    out = correlateWithBoard(game,out)
+  else:
+    out = pool.map(readpdb7,paths)
+    out = dict(out)
+
+  if holdem:
+    outstr = "pickles/holdem/{}.pickle" 
+  else:
+    outstr = "pickles/7stud/{}.pickle" 
+  
+  #outfile = open(outstr.format(game),"wb")
+  #pickle.dump(out,outfile)
+  #outfile.close()
+  return out
+    
+
+def getData(holdem,game):
+  pickled = False
+  if holdem:
+    filestr = holdempicklestr
+  else:
+    filestr = studpicklestr
+
+  if os.path.isfile(filestr.format(game)):
+    #print("{} found in file {}".format(game,filestr))
+    pickfile = open(filestr.format(game),"rb")
+    playerHandDB = pickle.load(pickfile)
+    pickled = True
+    handDB = playerHandDB
+
+    # search for bad values and get rid of them
+    todel = []
+    for k, v in handDB.items():
+      if(len(k.split(',')) != 7):
+        todel.append(k)
+    if(len(todel) > 0):
+      pickled = False
+      for k in todel:
+        del handDB[k]
+
+  else:
+    playerDB = readhroster(game,holdem)
+    playerHandDB = readPlayers(game,playerDB.keys(),holdem)
+
+    try:
+      del playerDB[None]
+    except KeyError:
+      print("-",end='',flush=True)
+
+    try:
+      del playerHandDB[None]
+    except KeyError:
+      print("-",end='',flush=True)
+
+    handDB = {}
+    for player, hands in playerHandDB.items():
       
-  return games
+      for ts, handData in hands.items():
+        try:
+          hand = handData["hand"]
+          assert len(hand) > 0, "player {}  hand bad {}".format(player,hand)
+          hand = sorted(hand)
+          hand = ",".join(hand)
+          handDB.setdefault(hand,[])
+          handDB[hand].append(handData["winnings"])
+        except AssertionError as e:
+          #print("bad line for player {} {}".format(player,e))
+          continue
+    print("")
+      
+  if not pickled:
+    print("picling")
+    pickfile = open(filestr.format(game),"wb")
+    pickle.dump(handDB,pickfile)
+    pickfile.close()
+
+  return handDB
+
+# @input listExclusions: boolean determining if game list is exclusions or inclusions
+#        true - inclusions
+#        false - exclusions
+# @input gamelist: list of game numbers (folders names)
+def readAllGames(listInclusions,gamelist):
+  games = os.listdir("./7stud")
+  
+  games = list(filter(lambda x: (int(x) in gamelist) == listInclusions, games))
+  
+  print("Found {} 7stud games".format(len(games)))
+  masterHandList = {}
+  for g in games:
+    print("Reading {}".format(g))
+    gameDB = getData(False,g)
+    for k in gameDB.keys():
+      masterHandList.setdefault(k,[])
+      masterHandList[k] += gameDB[k]
+
+  games = os.listdir("./holdem")
+  
+  games = list(filter(lambda x: (int(x) in gamelist) == listInclusions, games))
+  
+  print("Found {} holdem games".format(len(games)))
+  for g in games:
+    print("Reading {}".format(g))
+    gameDB = getData(True,g)
+    for k in gameDB.keys():
+      masterHandList.setdefault(k,[])
+      masterHandList[k] += gameDB[k]
+  
+  try:
+    del masterHandList['']
+  except KeyError:
+    print("we got lucky")
+
+  return masterHandList
