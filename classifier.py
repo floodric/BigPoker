@@ -50,7 +50,7 @@ class classifier:
 
   def train(self, item, label):
     features = self.getFeatures(item)
-    print(features)
+    #print(features)
     
     for pixel in features:
       self.incfc(pixel, label)
@@ -59,7 +59,7 @@ class classifier:
 
   def fprob(self, f, cat):
     if self.catcount(cat) == 0: return 0
-    smoothing = 0 
+    smoothing = 1000 
     num = self.fcount(f, cat)
     denom = self.catcount(cat)
     return (num + smoothing) / denom

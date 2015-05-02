@@ -59,22 +59,30 @@ def handFeatures(hand):
       flusharr.append("{}{}".format(k,len(v)))
 
   handsuits = set(map(lambda x: x[1], cards))
-  straights = []
-  if len(handsuits) < 4: # we can only have a straight if we dont have a suit (or more, also may not)
-    handorderedranks = sorted(list(map(lambda x: x[0], cards)))
-    straight1 = handorderedranks[0:5]
-    straight2 = handorderedranks[1:6]
-    straight3 = handorderedranks[2:7]
+  handstraights = []
+  #print('possible straight for {}'.format(hand))
+  handorderedranks = sorted(list(map(lambda x: x[0], cards)))
+  last = 0 # will never have a one
+  counter = 0
+  lowcard = ""
+  highcard = ""
+  for s in straights:
+    allin= True
+    for cr in s:
+      if not cr in handorderedranks:
+        allin= False
+        break
+    if allin:
+      if lowcard == "":
+      
+        lowcard = s[0] # keep 'longer' straights
+      highcard = s[4]
 
-    # always pick the highest straight
-    if straight1 in straights:
-      straights.append("s{}{}".format(straight1[0],straight1[4]))
-    if straight2 in straights:
-      straights.append("s{}{}".format(straight2[0],straight2[4]))
-    if straight3 in straights:
-      straights.append("s{}{}".format(straight3[0],straight3[4]))
-
-  return pairarr + [highcard] + flusharr + straights
+  if lowcard != "":
+    handstraights = ["straight{},{}".format(lowcard, highcard)]
+  else:
+    handstraights = []
+  return pairarr + flusharr + handstraights
 
 
 # GENERAL IMAGE FEATUES ****

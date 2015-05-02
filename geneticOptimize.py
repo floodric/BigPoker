@@ -91,22 +91,31 @@ def demo(scorefun,handSize=7):
     # first element of the list of preferences are the people
     
     hand,deck=generate_hand(handSize)
-    print("generated hand", hand)
     domain = [(0,1) for i in range(0,len(hand))]
-    print("\n* Genetic Optimization:", domain, hand, deck)
+    print("\n* Genetic Optimization on ", hand)
     s= geneticoptimize( domain,hand,deck, scorefun)
-    print( "- Solution representation:", s )
-    print( "- Solution:")
-    print_sol(s)
+    def lamfun(x):
+      if x==1:
+        return "throw"
+      else:
+        return "keep"
+    print( "- Solution representation:", list(map(lamfun,s)))
+    #print(hand)
+    #print(s)
 
 #############################################################
 #############################################################
-def print_sol(s):
+def print_sol(s,hand):
+  for i in range(len(s)):
+    if s[i] == 1:
+      print(hand[i],"x")
+    else:
+      print(hand[i])
   return
     
 #Takes all random throw combinations created (see line 144),
 #player's hand, remaining deck
-def calculate_scores(pop,hand,deck,scorefun, iterations=200): 
+def calculate_scores(pop,hand,deck,scorefun, iterations=50): 
     scores=[[0,pop[i]] for i in range(len(pop))]#score=(score,candidate sols.)
     for strategy in range(len(pop)):
         score=0
@@ -129,13 +138,11 @@ def iteration_score(strategy, deck, hand, scorefun):
       prob = 1.0-prob
     else:
       prob = prob
-    assert(prob > 0)
     return prob       
     
     
 def geneticoptimize(domain,hand,deck,scorefun,popsize=50,step=1,
                     mutprob=0.5,elite=0.5,maxiter=100): #raja
-  print("in optimize", domain, hand)
 
   def sorter(scores):
     if scores == []: 

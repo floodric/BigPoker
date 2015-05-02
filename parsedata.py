@@ -321,8 +321,11 @@ def readAllGames(listInclusions,gamelist):
   
   print("Found {} 7stud games".format(len(games)))
   masterHandList = {}
-  for g in games:
-    print("Reading {}".format(g))
+  flipper = 0
+  for g in games[:40]:
+    flipper+=1 
+    if flipper % 5 == 0:
+      print("Reading game {}".format(g))
     gameDB = getData(False,g)
     for k in gameDB.keys():
       masterHandList.setdefault(k,[])
@@ -333,8 +336,11 @@ def readAllGames(listInclusions,gamelist):
   games = list(filter(lambda x: (int(x) in gamelist) == listInclusions, games))
   
   print("Found {} holdem games".format(len(games)))
-  for g in games:
-    print("Reading {}".format(g))
+  flipper = 0
+  for g in games[:45]:
+    flipper+=1 
+    if flipper % 5 == 0:
+      print("Reading game {}".format(g))
     gameDB = getData(True,g)
     for k in gameDB.keys():
       masterHandList.setdefault(k,[])
@@ -343,6 +349,6 @@ def readAllGames(listInclusions,gamelist):
   try:
     del masterHandList['']
   except KeyError:
-    print("we got lucky")
+    print("Read {} rounds".format(len(masterHandList)))
 
   return masterHandList

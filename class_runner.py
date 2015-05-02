@@ -23,8 +23,10 @@ def train(classifier=c):
       continue
     for score in trainingData[k]:
       classifier.train(k,score > 0)
-    if counter % 5000 == 0:
-      print('.',end='',flush=True)
+    if counter % 25000 == 0:
+      print("{}, ".format(counter), end='', flush=True)
+    if counter % 100000 == 0:
+      print()
 
   print("\n")
 
@@ -60,14 +62,18 @@ def testClassifier(classifier):
       con[guess][game>0] += 1
       con[game>0][guess] += 1
 
-    if counter % 500 == 0: print('.',end="",flush=True)
+    if counter % 10000 == 0: 
+      print("{}, ".format(counter),end='',flush=True)
+    if counter % 50000 == 0:
+      print()
 
 
   #printConfusion(con)
   #pprint(con)
   # printing the prototypical images
 
-  print(right / total, 'accuracy')
+  print()
+  print(round(right / total,4)*100, ' % accuracy')
 
 def printConfusion(confusion):
   for r in range(len(confusion)):
